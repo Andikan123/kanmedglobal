@@ -1552,6 +1552,135 @@ recap:
       title: "Cardiac Anatomy",
       description: "Detailed study of the heart and vascular anatomy.",
       videoUrl: "https://www.youtube.com/embed/H0nMbkXK4-E",
+      content:`<h2>Overview</h2>
+<p>The heart is a muscular organ that pumps blood throughout the body, delivering oxygen and nutrients to tissues while removing waste products. The heart is an essential component of the cardiovascular system, working in conjunction with blood vessels to maintain circulation. The heart’s structure is complex and consists of several key features, including its chambers, valves, blood vessels, and electrical conduction system.</p>
+
+<!-- Image Placeholder for Heart Overview -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Overview of the Heart Anatomy" />
+</div>
+
+<h2>Lesson Content</h2>
+
+<h3>1. The Structure of the Heart</h3>
+<p>The heart is a hollow, cone-shaped organ located slightly to the left of the midline of the chest, behind the sternum. It is made up of four chambers, two atria and two ventricles, each with distinct roles in blood circulation.</p>
+
+<ul>
+  <li><strong>Right Atrium:</strong> Receives deoxygenated blood from the body through the superior and inferior vena cavae and sends it to the right ventricle.</li>
+  <li><strong>Right Ventricle:</strong> Pumps deoxygenated blood to the lungs via the pulmonary arteries for oxygenation.</li>
+  <li><strong>Left Atrium:</strong> Receives oxygenated blood from the lungs via the pulmonary veins and pumps it into the left ventricle.</li>
+  <li><strong>Left Ventricle:</strong> The most muscular chamber of the heart, it pumps oxygenated blood through the aorta to the rest of the body, supplying tissues with oxygen and nutrients.</li>
+</ul>
+
+<p>The heart’s walls are composed of three layers:</p>
+<ul>
+  <li><strong>Endocardium:</strong> The inner lining of the heart chambers that also covers the valves and blood vessels.</li>
+  <li><strong>Myocardium:</strong> The thick middle layer of cardiac muscle responsible for the heart's pumping action.</li>
+  <li><strong>Epicardium:</strong> The outer layer of the heart, which is also part of the pericardium (the sac that surrounds the heart).</li>
+</ul>
+
+<!-- Image Placeholder for Heart Structure -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Heart Chambers and Layers" />
+</div>
+
+<h3>2. The Cardiac Valves</h3>
+<p>The heart has four main valves that regulate blood flow between its chambers and to the major blood vessels:</p>
+<ul>
+  <li><strong>Tricuspid Valve:</strong> Located between the right atrium and right ventricle, it ensures that blood flows in only one direction, preventing backflow into the atrium.</li>
+  <li><strong>Pulmonary Valve:</strong> Located between the right ventricle and pulmonary artery, it prevents blood from flowing back into the ventricle after it has been pumped to the lungs.</li>
+  <li><strong>Mitral Valve (Bicuspid Valve):</strong> Located between the left atrium and left ventricle, it prevents the backflow of blood into the atrium when the ventricle contracts.</li>
+  <li><strong>Aortic Valve:</strong> Located between the left ventricle and the aorta, it prevents blood from flowing back into the ventricle after it has been pumped into the aorta.</li>
+</ul>
+
+<p>The valves are equipped with flaps (also called cusps) that open and close with the heart’s contractions, ensuring unidirectional blood flow through the heart and into the circulation.</p>
+
+<!-- Image Placeholder for Heart Valves -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Cardiac Valves" />
+</div>
+
+<h3>3. Blood Flow Through the Heart</h3>
+<p>The heart functions as a double pump, circulating blood to two different circuits: the pulmonary circuit and the systemic circuit.</p>
+
+<ul>
+  <li><strong>Pulmonary Circuit:</strong> Blood flows from the right ventricle through the pulmonary valve into the pulmonary artery, which transports the blood to the lungs. In the lungs, blood exchanges carbon dioxide for oxygen.</li>
+  <li><strong>Systemic Circuit:</strong> Oxygenated blood from the left atrium moves into the left ventricle and is pumped into the aorta, the body's largest artery. The aorta branches out into smaller arteries, eventually delivering oxygenated blood to all tissues and organs of the body.</li>
+</ul>
+
+<p>After delivering oxygen to the tissues, the blood returns to the heart via the veins (superior and inferior vena cavae), entering the right atrium to begin the cycle again.</p>
+
+<!-- Image Placeholder for Blood Flow -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Blood Flow Through the Heart" />
+</div>
+
+<h3>4. The Electrical Conduction System</h3>
+<p>The heart's pumping action is regulated by its electrical conduction system, which ensures that the heart beats in a coordinated and efficient manner. This system is made up of specialized cardiac muscle cells that generate electrical impulses:</p>
+
+<ul>
+  <li><strong>Sinoatrial (SA) Node:</strong> Often referred to as the "natural pacemaker" of the heart, the SA node is located in the right atrium. It generates electrical impulses that initiate each heartbeat and regulate the heart rate.</li>
+  <li><strong>Atrioventricular (AV) Node:</strong> Located between the atria and ventricles, the AV node delays the electrical impulse briefly to allow the ventricles to fill with blood before they contract.</li>
+  <li><strong>Bundle of His:</strong> The electrical impulse moves from the AV node to the Bundle of His, which divides into the right and left bundle branches.</li>
+  <li><strong>Purkinje Fibers:</strong> These fibers carry the electrical impulse to the heart's muscle cells, triggering the contraction of the ventricles.</li>
+</ul>
+
+<p>This electrical conduction system ensures that the heart contracts in a rhythmic manner, maintaining an effective heartbeat and efficient blood circulation throughout the body.</p>
+
+<!-- Image Placeholder for Electrical Conduction System -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Electrical Conduction System" />
+</div>
+
+<h3>5. Coronary Circulation</h3>
+<p>The heart muscle (myocardium) requires a constant supply of oxygen and nutrients to function effectively. This is provided by the coronary arteries, which branch off from the aorta. The coronary circulation consists of the following key elements:</p>
+<ul>
+  <li><strong>Right Coronary Artery (RCA):</strong> Supplies blood to the right atrium, right ventricle, and parts of the left ventricle and atrium.</li>
+  <li><strong>Left Coronary Artery (LCA):</strong> Splits into the left anterior descending artery (LAD) and the left circumflex artery (LCX). The LAD supplies blood to the front and bottom parts of the left ventricle, while the LCX supplies the side and back parts of the left ventricle.</li>
+  <li><strong>Coronary Veins:</strong> These veins collect deoxygenated blood from the myocardium and return it to the right atrium through the coronary sinus.</li>
+</ul>
+
+<p>The coronary arteries are vital for heart function, and any blockage in these arteries can lead to heart disease, including myocardial infarction (heart attack).</p>
+
+<!-- Image Placeholder for Coronary Circulation -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Coronary Circulation" />
+</div>
+
+<h3>6. Cardiac Cycle</h3>
+<p>The cardiac cycle refers to the sequence of events that occurs during one complete heartbeat. It consists of two main phases:</p>
+<ul>
+  <li><strong>Systole:</strong> This is the contraction phase when the heart pumps blood out of the chambers. The ventricles contract, and blood is ejected into the pulmonary artery and aorta.</li>
+  <li><strong>Diastole:</strong> This is the relaxation phase when the heart fills with blood. The atria contract, pushing blood into the ventricles, and the heart muscles relax, allowing the chambers to expand.</li>
+</ul>
+
+<p>The cardiac cycle is synchronized with electrical impulses, ensuring that the heart beats efficiently and effectively.</p>
+
+<!-- Image Placeholder for Cardiac Cycle -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Cardiac Cycle" />
+</div>
+`,
+recap:
+        "In this lesson, we explored the detailed anatomy of the heart, including its structure, chambers, valves, blood flow, electrical conduction system, coronary circulation, and the cardiac cycle. The heart plays a critical role in maintaining circulation and oxygenating tissues, and understanding its anatomy is essential for diagnosing and treating cardiovascular diseases.",
+      resources: [
+        {
+          title:
+            "Interactive Cardiac Anatomy: Explore the heart in 3D and learn more about its components.",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "YouTube Video on the Cardiac Cycle: Learn how blood flows through the heart.",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "Cardiology: A Comprehensive Guide by John Smith: A detailed textbook on the heart and cardiovascular system.",
+          url: "https://example.com/intro-anatomy",
+        },
+      ],
+
     },
     {
       id: 5,
