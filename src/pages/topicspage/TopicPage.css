@@ -1,81 +1,188 @@
-/* General styling for the topic page */
+/* General Styles */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+}
+
+/* Topic Page Container */
 .topic-page {
-    font-family: 'Arial', sans-serif;
-    margin: 20px;
-    padding: 20px;
-    background-color: #f9f9f9;
-    border-radius: 8px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    margin-top: 5rem;
+  max-width: 1200px;
+  margin: 30px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.topic-page h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+  color: #2c3e50;
+}
+
+.topic-page p {
+  font-size: 1.2rem;
+  line-height: 1.8;
+  color: #34495e;
+  margin-bottom: 20px;
+}
+
+/* Video Section */
+.video-container {
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.video-container iframe {
+  width: 80%;
+  max-width: 960px;
+  height: 500px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Topic Content */
+.topic-content {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: #555;
+  margin-bottom: 30px;
+}
+
+.topic-content h2 {
+  font-size: 2rem;
+  color: #2980b9;
+  margin-top: 30px;
+  border-bottom: 2px solid #2980b9;
+  padding-bottom: 5px;
+}
+
+.topic-content h3 {
+  font-size: 1.6rem;
+  color: #34495e;
+  margin-top: 20px;
+}
+
+.topic-content p,
+.topic-content ul {
+  margin-bottom: 15px;
+}
+
+.topic-content ul {
+  padding-left: 20px;
+  list-style-type: disc;
+}
+
+.topic-content ul li {
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+.topic-content a {
+  color: #2980b9;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.topic-content a:hover {
+  text-decoration: underline;
+}
+
+/* Recap Section */
+section h2 {
+  font-size: 1.8rem;
+  margin-top: 30px;
+  color: #2980b9;
+}
+
+section p {
+  font-size: 1.2rem;
+  color: #34495e;
+  line-height: 1.6;
+}
+
+/* Resources List */
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+ul li a {
+  color: #2980b9;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  text-decoration: underline;
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+  .topic-page {
+    padding: 15px;
   }
-  
-  /* Title of the topic */
+
   .topic-page h1 {
     font-size: 2rem;
-    font-weight: 700;
-    color: #333;
-    margin-bottom: 20px;
-    text-align: center;
-    letter-spacing: 1px;
   }
-  
-  /* Description styling */
-  .topic-page p {
-    font-size: 1.1rem;
-    line-height: 1.6;
-    color: #555;
-    margin-bottom: 30px;
-    text-align: justify;
-    max-width: 900px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-  /* Video container */
-  .video-container {
-    display: flex;
-    justify-content: center;
-    margin-top: 30px;
-    padding: 20px;
-  }
-  
-  /* Styling for the iframe video */
+
   .video-container iframe {
-    border-radius: 8px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     width: 100%;
-    max-width: 900px; /* Restrict iframe width to fit the content */
-    height: 500px; /* Adjustable height based on preference */
+    height: 300px;
   }
-  
-  /* Make sure the iframe is responsive */
-  @media (max-width: 768px) {
-    .topic-page {
-      padding: 15px;
-    }
-  
-    .topic-page h1 {
-      font-size: 1.8rem;
-    }
-  
-    .topic-page p {
-      font-size: 1rem;
-    }
-  
-    .video-container iframe {
-      width: 100%;
-      max-width: 100%;
-      height: 250px;
-    }
+
+  .topic-content h2 {
+    font-size: 1.8rem;
   }
-  
-  @media (max-width: 480px) {
-    .topic-page h1 {
-      font-size: 1.6rem;
-    }
-  
-    .topic-page p {
-      font-size: 0.95rem;
-    }
+
+  .topic-content h3 {
+    font-size: 1.4rem;
   }
-  
+
+  .topic-content p,
+  .topic-content ul {
+    font-size: 1rem;
+  }
+
+  section h2 {
+    font-size: 1.6rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .topic-page {
+    padding: 10px;
+  }
+
+  .topic-page h1 {
+    font-size: 1.8rem;
+  }
+
+  .video-container iframe {
+    height: 250px;
+  }
+
+  .topic-content h2 {
+    font-size: 1.6rem;
+  }
+
+  .topic-content h3 {
+    font-size: 1.2rem;
+  }
+
+  .topic-content p,
+  .topic-content ul {
+    font-size: 0.9rem;
+  }
+
+  section h2 {
+    font-size: 1.4rem;
+  }
+}

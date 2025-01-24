@@ -31,19 +31,45 @@ const TopicPage = () => {
 
   return (
     <div className="topic-page">
-      <h1>{topic.title}</h1>
-      <p>{topic.description}</p>
-      {/* Video Container */}
-      <div className="video-container">
-        <iframe 
-          title={topic.title} 
-          src= "https://www.youtube.com/embed/QMKFxwRHlIo"
-          frameBorder="0" 
-          allowFullScreen
-        ></iframe>
-       
-      </div>
+    <h1>{topic.title}</h1>
+    <p>{topic.description}</p>
+
+    {/* Render HTML content using dangerouslySetInnerHTML */}
+    <div 
+      className="topic-content" 
+      dangerouslySetInnerHTML={{ __html: topic.content }} 
+    ></div>
+
+    {/* Video Section */}
+    <div className="video-container">
+      <iframe 
+        title={topic.title} 
+        src={topic.videoUrl}  
+        frameBorder="0" 
+        allowFullScreen
+      ></iframe>
     </div>
+
+    {/* Recap */}
+    <section>
+      <h2>Recap</h2>
+      <p>{topic.recap}</p>
+    </section>
+
+    {/* Resources */}
+    <section>
+      <h2>Further Reading</h2>
+      <ul>
+        {topic.resources.map((resource, index) => (
+          <li key={index}>
+            <a href={resource.url} target="_blank" rel="noopener noreferrer">
+              {resource.title}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  </div>
   );
   
 
