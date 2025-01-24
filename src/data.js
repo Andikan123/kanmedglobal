@@ -1525,7 +1525,27 @@ export const anatomyTopics = {
 <div class="image-placeholder">
   <img src="path/to/your/image.jpg" alt="Musculoskeletal Disorders" />
 </div>
-`
+`,
+recap:
+        "In this lesson, we explored the musculoskeletal system, which is made up of the bones, muscles, joints, and connective tissues that support and enable movement. The skeletal system provides structure and protection, while the muscular system facilitates movement. Joints and ligaments play a key role in allowing movement and maintaining stability. We also discussed common musculoskeletal disorders and their impact on overall health.",
+      resources: [
+        {
+          title:
+            "Interactive Musculoskeletal Anatomy: Explore the bones and muscles in 3D",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "Musculoskeletal Disorders Overview: Learn more about common conditions affecting bones and muscles.",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "Essentials of Musculoskeletal Care by Charles W. Smith: A comprehensive guide on musculoskeletal health.",
+          url: "https://example.com/intro-anatomy",
+        },
+      ],
+
     },
     {
       id: 4,
