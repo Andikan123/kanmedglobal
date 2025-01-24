@@ -1526,7 +1526,7 @@ export const anatomyTopics = {
   <img src="path/to/your/image.jpg" alt="Musculoskeletal Disorders" />
 </div>
 `,
-recap:
+      recap:
         "In this lesson, we explored the musculoskeletal system, which is made up of the bones, muscles, joints, and connective tissues that support and enable movement. The skeletal system provides structure and protection, while the muscular system facilitates movement. Joints and ligaments play a key role in allowing movement and maintaining stability. We also discussed common musculoskeletal disorders and their impact on overall health.",
       resources: [
         {
@@ -1545,14 +1545,13 @@ recap:
           url: "https://example.com/intro-anatomy",
         },
       ],
-
     },
     {
       id: 4,
       title: "Cardiac Anatomy",
       description: "Detailed study of the heart and vascular anatomy.",
       videoUrl: "https://www.youtube.com/embed/H0nMbkXK4-E",
-      content:`<h2>Overview</h2>
+      content: `<h2>Overview</h2>
 <p>The heart is a muscular organ that pumps blood throughout the body, delivering oxygen and nutrients to tissues while removing waste products. The heart is an essential component of the cardiovascular system, working in conjunction with blood vessels to maintain circulation. The heart’s structure is complex and consists of several key features, including its chambers, valves, blood vessels, and electrical conduction system.</p>
 
 <!-- Image Placeholder for Heart Overview -->
@@ -1661,7 +1660,7 @@ recap:
   <img src="path/to/your/image.jpg" alt="Cardiac Cycle" />
 </div>
 `,
-recap:
+      recap:
         "In this lesson, we explored the detailed anatomy of the heart, including its structure, chambers, valves, blood flow, electrical conduction system, coronary circulation, and the cardiac cycle. The heart plays a critical role in maintaining circulation and oxygenating tissues, and understanding its anatomy is essential for diagnosing and treating cardiovascular diseases.",
       resources: [
         {
@@ -1680,13 +1679,129 @@ recap:
           url: "https://example.com/intro-anatomy",
         },
       ],
-
     },
     {
       id: 5,
       title: "Abdominal Cavity",
       description: "Anatomy of the abdomen and its organs.",
       videoUrl: "https://www.youtube.com/embed/H0nMbkXK4-E",
+      content: `<h2>Overview</h2>
+<p>The abdominal cavity is a large space within the torso that houses many vital organs, including those involved in digestion, excretion, and immunity. Located between the diaphragm and the pelvis, the abdominal cavity is surrounded by muscles and protected by the abdominal wall. It plays a crucial role in the body’s overall function and well-being.</p>
+
+<!-- Image Placeholder for Abdominal Cavity Overview -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Overview of the Abdominal Cavity" />
+</div>
+
+<h2>Lesson Content</h2>
+
+<h3>1. The Abdominal Cavity’s Boundaries</h3>
+<p>The abdominal cavity is bound by several structures:</p>
+<ul>
+  <li><strong>Superior Boundary:</strong> The diaphragm, which separates the thoracic cavity from the abdominal cavity.</li>
+  <li><strong>Inferior Boundary:</strong> The pelvic inlet, which forms the boundary between the abdominal cavity and the pelvic cavity.</li>
+  <li><strong>Anterior and Lateral Boundaries:</strong> The anterior abdominal wall, made up of skin, muscles, and connective tissue, protects the organs inside the cavity.</li>
+  <li><strong>Posterior Boundary:</strong> The spine and muscles of the back provide structural support and protection to the abdominal organs.</li>
+</ul>
+
+<p>The abdominal cavity is continuous with the pelvic cavity, and it contains a variety of organs that work together to digest food, absorb nutrients, and excrete waste products.</p>
+
+<!-- Image Placeholder for Abdominal Cavity Boundaries -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Boundaries of the Abdominal Cavity" />
+</div>
+
+<h3>2. Major Organs in the Abdominal Cavity</h3>
+<p>The abdominal cavity contains several key organs that play vital roles in digestion, metabolism, and waste elimination. These organs include:</p>
+
+<ul>
+  <li><strong>Stomach:</strong> The stomach is a hollow organ where food is broken down by stomach acids and enzymes. It plays a major role in the mechanical and chemical digestion of food.</li>
+  <li><strong>Small Intestine:</strong> The small intestine is where most of the digestion and nutrient absorption occurs. It is divided into three sections: the duodenum, jejunum, and ileum.</li>
+  <li><strong>Large Intestine (Colon):</strong> The large intestine absorbs water and salts from undigested food, and prepares waste for elimination. It includes the cecum, colon, rectum, and anus.</li>
+  <li><strong>Liver:</strong> The liver produces bile, which helps digest fats, and it also processes nutrients and detoxifies harmful substances in the blood.</li>
+  <li><strong>Pancreas:</strong> The pancreas secretes digestive enzymes into the small intestine and hormones (such as insulin) that regulate blood sugar levels.</li>
+  <li><strong>Spleen:</strong> The spleen is involved in filtering blood, recycling iron from red blood cells, and supporting the immune system by storing white blood cells.</li>
+  <li><strong>Kidneys:</strong> Although partially located in the retroperitoneal space (behind the peritoneum), the kidneys are often included in discussions of abdominal organs. They filter waste from the blood, regulate fluid and electrolyte balance, and produce urine.</li>
+</ul>
+
+<p>The abdominal organs work together to break down food, absorb nutrients, and eliminate waste. Disorders affecting any of these organs can lead to significant digestive issues, so maintaining abdominal health is crucial for overall well-being.</p>
+
+<!-- Image Placeholder for Major Abdominal Organs -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Major Organs in the Abdominal Cavity" />
+</div>
+
+<h3>3. Peritoneum and Abdominal Cavity Membranes</h3>
+<p>The abdominal cavity is lined with a serous membrane called the peritoneum. This membrane provides a protective layer around the organs and secretes fluid that helps lubricate the organs, allowing them to move freely within the cavity.</p>
+
+<ul>
+  <li><strong>Visceral Peritoneum:</strong> The inner layer of the peritoneum, which covers the abdominal organs.</li>
+  <li><strong>Parietal Peritoneum:</strong> The outer layer of the peritoneum, which lines the abdominal wall.</li>
+  <li><strong>Mesentery:</strong> A double layer of peritoneum that attaches the small intestine to the posterior abdominal wall and contains blood vessels, nerves, and lymphatics.</li>
+  <li><strong>Omentum:</strong> A fold of peritoneum that connects the stomach to other organs in the abdominal cavity. The greater omentum extends from the stomach and drapes over the intestines.</li>
+</ul>
+
+<p>The peritoneum plays an essential role in protecting abdominal organs, maintaining their position within the cavity, and supporting their function. It also helps prevent the spread of infections by isolating areas of inflammation or injury.</p>
+
+<!-- Image Placeholder for Peritoneum -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="The Peritoneum and Abdominal Membranes" />
+</div>
+
+<h3>4. Abdominal Blood Supply</h3>
+<p>The abdominal cavity has an extensive blood supply, which provides oxygen and nutrients to the organs. The main arteries supplying the abdominal organs are:</p>
+<ul>
+  <li><strong>Abdominal Aorta:</strong> The descending aorta becomes the abdominal aorta, which branches into arteries supplying the major abdominal organs.</li>
+  <li><strong>Celiac Trunk:</strong> The celiac trunk branches off the abdominal aorta and supplies blood to the stomach, liver, spleen, and part of the pancreas.</li>
+  <li><strong>Superior Mesenteric Artery (SMA):</strong> Supplies the small intestine and the first part of the large intestine.</li>
+  <li><strong>Inferior Mesenteric Artery (IMA):</strong> Supplies the remainder of the large intestine, including the colon and rectum.</li>
+  <li><strong>Renal Arteries:</strong> Supply the kidneys with blood for filtration.</li>
+</ul>
+
+<p>Veins in the abdominal cavity, such as the portal vein, collect deoxygenated blood from the organs and return it to the liver for processing before it is returned to the heart.</p>
+
+<!-- Image Placeholder for Abdominal Blood Supply -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Abdominal Blood Supply" />
+</div>
+
+<h3>5. Abdominal Cavity Disorders</h3>
+<p>Disorders of the abdominal cavity can be severe and often involve digestive, endocrine, or excretory problems. Some common abdominal disorders include:</p>
+<ul>
+  <li><strong>Appendicitis:</strong> Inflammation of the appendix, often leading to pain and requiring surgical removal.</li>
+  <li><strong>Gastritis:</strong> Inflammation of the stomach lining, often caused by infection or excessive alcohol use.</li>
+  <li><strong>Cholecystitis:</strong> Inflammation of the gallbladder, often associated with gallstones.</li>
+  <li><strong>Pancreatitis:</strong> Inflammation of the pancreas, which can interfere with both digestion and blood sugar regulation.</li>
+  <li><strong>Irritable Bowel Syndrome (IBS):</strong> A functional gastrointestinal disorder that causes symptoms such as bloating, diarrhea, and constipation.</li>
+  <li><strong>Cirrhosis:</strong> Liver damage due to chronic conditions such as alcohol abuse or viral infections, leading to scarring of the liver tissue.</li>
+</ul>
+
+<p>Abdominal health is vital for overall wellness, and any symptoms related to digestive, urinary, or reproductive organs should be addressed with proper medical care.</p>
+
+<!-- Image Placeholder for Abdominal Disorders -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Abdominal Disorders" />
+</div>
+`,
+      recap:
+        "In this lesson, we’ve covered the structure and function of the abdominal cavity, the major organs it houses, and its role in digestion, nutrient absorption, and waste excretion. Understanding the anatomy of the abdominal cavity is essential for diagnosing and treating various digestive and systemic conditions.",
+      resources: [
+        {
+          title:
+            "Interactive 3D Model of the Abdominal Cavity: Explore the organs and structures inside the abdomen.",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "YouTube Video on Abdominal Anatomy: Learn more about the key organs and their functions.",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "Anatomy of the Abdominal Cavity by Dr. James Miller: A comprehensive textbook on abdominal anatomy.",
+          url: "https://example.com/intro-anatomy",
+        },
+      ],
     },
     {
       id: 6,
