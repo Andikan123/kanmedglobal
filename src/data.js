@@ -384,6 +384,137 @@ resources: [
       title: "Cardiovascular System",
       description: "Heart anatomy and blood circulation.",
       videoUrl: "https://www.youtube.com/embed/d1xHz9zjz4k",
+      content:`<h2>Overview</h2>
+<p>The cardiovascular system, also known as the circulatory system, is a complex network that includes the heart, blood vessels, and blood. Its primary function is to transport oxygen, nutrients, hormones, and waste products to and from the cells of the body. The cardiovascular system is essential for maintaining homeostasis and enabling various physiological processes that sustain life.</p>
+
+<!-- Placeholder for an image of the cardiovascular system -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Cardiovascular System Overview" />
+</div>
+
+<h2>Lesson Content</h2>
+
+<h3>1. What is the Cardiovascular System?</h3>
+<p>The cardiovascular system is responsible for circulating blood throughout the body, providing nutrients, oxygen, and waste removal for every cell. It includes the heart, a muscular organ that pumps blood, and a network of blood vessels that carry blood to various parts of the body. The system is essential for maintaining tissue health and for processes such as immune defense, temperature regulation, and nutrient delivery.</p>
+
+<!-- Placeholder for an image of the heart and blood vessels -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Heart and Blood Vessels" />
+</div>
+
+<h3>2. Components of the Cardiovascular System</h3>
+<p>The cardiovascular system is composed of three main components:</p>
+<ul>
+  <li><strong>Heart:</strong> The heart is a four-chambered muscular organ that pumps blood throughout the body. It functions as two pumps in one, with the right side pumping deoxygenated blood to the lungs, and the left side pumping oxygenated blood to the rest of the body.</li>
+  <li><strong>Blood Vessels:</strong> Blood vessels are the channels through which blood flows. There are three major types:
+    <ul>
+      <li><strong>Arteries:</strong> Vessels that carry oxygen-rich blood away from the heart to various organs and tissues.</li>
+      <li><strong>Veins:</strong> Vessels that return deoxygenated blood back to the heart.</li>
+      <li><strong>Capillaries:</strong> Tiny, thin-walled vessels where the exchange of oxygen, nutrients, and waste products occurs between blood and tissues.</li>
+    </ul>
+  </li>
+  <li><strong>Blood:</strong> Blood is the liquid tissue of the cardiovascular system. It contains red blood cells (which carry oxygen), white blood cells (which fight infection), platelets (which help with clotting), and plasma (which transports nutrients, waste, and hormones).</li>
+</ul>
+
+<!-- Placeholder for an image showing blood flow through vessels -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Blood Flow through Blood Vessels" />
+</div>
+
+<h3>3. Function of the Cardiovascular System</h3>
+<p>The cardiovascular system serves several vital functions in the body:</p>
+<ul>
+  <li><strong>Oxygen and Nutrient Delivery:</strong> Blood transports oxygen and nutrients from the lungs and digestive system to cells throughout the body.</li>
+  <li><strong>Waste Removal:</strong> Blood carries waste products, such as carbon dioxide, urea, and metabolic byproducts, away from the cells to be excreted through the lungs, kidneys, and skin.</li>
+  <li><strong>Temperature Regulation:</strong> Blood helps maintain body temperature by distributing heat generated in muscles and other tissues.</li>
+  <li><strong>Immune Defense:</strong> White blood cells within the blood protect the body against pathogens, and antibodies are transported to help fight infections.</li>
+  <li><strong>Hormone Transport:</strong> Blood transports hormones secreted by glands (e.g., insulin, adrenaline) to regulate body functions such as growth, metabolism, and stress responses.</li>
+</ul>
+
+<!-- Placeholder for an image showing heart anatomy -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Heart Anatomy" />
+</div>
+
+<h3>4. The Heart: Anatomy and Function</h3>
+<p>The heart is divided into four chambers:</p>
+<ul>
+  <li><strong>Right Atrium:</strong> Receives deoxygenated blood from the body through the superior and inferior vena cava.</li>
+  <li><strong>Right Ventricle:</strong> Pumps deoxygenated blood to the lungs through the pulmonary artery for oxygenation.</li>
+  <li><strong>Left Atrium:</strong> Receives oxygenated blood from the lungs via the pulmonary veins.</li>
+  <li><strong>Left Ventricle:</strong> Pumps oxygenated blood to the rest of the body through the aorta.</li>
+</ul>
+
+<!-- Placeholder for an image of the heart chambers -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Heart Chambers" />
+</div>
+
+<h3>5. Blood Circulation: The Pathway of Blood</h3>
+<p>Blood circulation is divided into two primary circuits:</p>
+<ul>
+  <li><strong>Systemic Circulation:</strong> Oxygen-rich blood is pumped from the left ventricle to the rest of the body through the aorta. It supplies oxygen and nutrients to the tissues and returns deoxygenated blood to the right atrium through the veins.</li>
+  <li><strong>Pulmonary Circulation:</strong> Deoxygenated blood is pumped from the right ventricle to the lungs via the pulmonary artery. In the lungs, blood receives oxygen and releases carbon dioxide, returning to the left atrium via the pulmonary veins.</li>
+</ul>
+
+<!-- Placeholder for an image showing blood circulation -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Blood Circulation Pathway" />
+</div>
+
+<h3>6. Blood Pressure</h3>
+<p>Blood pressure is the force that blood exerts on the walls of blood vessels, especially arteries. It is essential for maintaining blood flow throughout the body. Blood pressure is measured as two values:</p>
+<ul>
+  <li><strong>Systolic Pressure:</strong> The pressure when the heart contracts and pumps blood.</li>
+  <li><strong>Diastolic Pressure:</strong> The pressure when the heart is at rest between beats.</li>
+</ul>
+<p>Normal blood pressure is typically around 120/80 mmHg. High blood pressure (hypertension) can increase the risk of heart disease, stroke, and kidney damage, while low blood pressure (hypotension) can cause dizziness and fainting.</p>
+
+<!-- Placeholder for an image showing blood pressure measurement -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Blood Pressure Measurement" />
+</div>
+
+<h3>7. Cardiovascular Disorders</h3>
+<p>Several disorders can affect the cardiovascular system, including:</p>
+<ul>
+  <li><strong>Atherosclerosis:</strong> The buildup of fatty deposits (plaques) on the walls of arteries, leading to reduced blood flow and increased risk of heart attack or stroke.</li>
+  <li><strong>Hypertension:</strong> High blood pressure, which can lead to heart disease, kidney damage, and stroke.</li>
+  <li><strong>Heart Failure:</strong> A condition where the heart is unable to pump blood effectively, leading to fluid buildup in the lungs and other parts of the body.</li>
+  <li><strong>Myocardial Infarction:</strong> Also known as a heart attack, this occurs when a blockage in a coronary artery prevents blood from reaching the heart muscle.</li>
+  <li><strong>Arrhythmia:</strong> An irregular heartbeat, which can lead to inefficient blood pumping and other complications.</li>
+</ul>
+
+<!-- Placeholder for an image showing cardiovascular disorders -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Cardiovascular Disorders" />
+</div>
+
+<h3>8. The Importance of Cardiovascular Health</h3>
+<p>Maintaining cardiovascular health is crucial for overall well-being. Lifestyle factors such as a balanced diet, regular exercise, avoiding smoking, and managing stress can help prevent cardiovascular disease. Monitoring blood pressure, cholesterol levels, and maintaining a healthy weight also contribute to heart health.</p>
+
+<!-- Placeholder for an image showing healthy lifestyle for heart health -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Healthy Lifestyle for Heart Health" />
+</div>`,
+recap: "In this lesson, we’ve covered the essential functions of the cardiovascular system, including the heart’s structure, blood circulation, and the role of blood vessels. We’ve also discussed cardiovascular health, the importance of maintaining a healthy lifestyle, and common disorders that affect the system. Understanding the cardiovascular system is essential for maintaining overall health and preventing cardiovascular diseases",
+resources: [
+  {
+    title:
+      "Interactive 3D Cardiovascular System: Explore the anatomy of the heart and blood vessels in detail.",
+    url: "https://example.com/intro-anatomy",
+  },
+  {
+    title:
+      "YouTube Video on the Cardiovascular System: A comprehensive overview of how the heart and blood vessels function.",
+    url: "https://example.com/intro-anatomy",
+  },
+  {
+    title:
+      "The Cardiovascular System by John R. Jones: A detailed textbook on the structure and function of the cardiovascular system",
+    url: "https://example.com/intro-anatomy",
+  },
+],
     },
     {
       id: 5,

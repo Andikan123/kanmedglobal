@@ -60,13 +60,13 @@ const TopicPage = () => {
     <section>
       <h2>Further Reading</h2>
       <ul>
-        {topic.resources.map((resource, index) => (
+        {/* {topic.resources.map((resource, index) => (
           <li key={index}>
             <a href={resource.url} target="_blank" rel="noopener noreferrer">
               {resource.title}
             </a>
           </li>
-        ))}
+        ))} */}
       </ul>
     </section>
   </div>

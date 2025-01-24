@@ -187,3 +187,27 @@ ul li a:hover {
     font-size: 1.4rem;
   }
 }
+
+/* Styling the image placeholder container */
+.image-placeholder {
+  text-align: center;  /* Center the image horizontally */
+  margin: 20px 0;      /* Add vertical spacing around the image */
+  padding: 10px;       /* Optional: add some padding inside the container */
+  background-color: #f9f9f9; /* Light background color to visually separate the image */
+  border: 1px solid #ddd; /* Border around the placeholder */
+  border-radius: 8px;  /* Rounded corners */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: shadow for some depth */
+}
+
+/* Styling the image inside the placeholder */
+.image-placeholder img {
+  max-width: 100%; /* Ensure the image doesn't overflow its container */
+  height: auto;    /* Maintain aspect ratio */
+  border-radius: 4px; /* Optional: rounded corners for the image */
+  transition: transform 0.3s ease; /* Add a smooth hover effect */
+}
+
+/* Hover effect to enlarge image slightly */
+.image-placeholder img:hover {
+  transform: scale(1.05); /* Slightly enlarge the image on hover */
+}
