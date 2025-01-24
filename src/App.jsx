@@ -12,6 +12,7 @@ import Anatomy from "./pages/singlePages/anatomy/Anatomy";
 import Physiology from "./pages/singlePages/physiology/Physiology";
 import Pharmacology from "./pages/singlePages/pharmacology/Pharmocology";
 import Microbiology from "./pages/singlePages/microbiology/Microbiology";
+import TopicPage from './pages/topicspage/TopicPage'; // Import the TopicPage component
 import './components/I18n'; // Import the i18n configuration to initialize i18next
 
 function App() {
@@ -24,16 +25,22 @@ function App() {
         
         {/* Define the routes here */}
         <Routes>
+          {/* General Pages */}
           <Route path="/" element={<HomePage />} />
           <Route path="/news" element={<NewsPage />} />
-          <Route path="/quizzes" element={<Quizzes/>} />
-          <Route path="/courses" element={<CoursesPage/>} />
-          <Route path="/contact" element={<Contact/>} />
-          <Route path="/blog" element={<Blog/>} />
-          <Route path="/anatomy" element={<Anatomy/>} />
-          <Route path="/physiology" element={<Physiology/>} />
-          <Route path="/pharmacology" element={<Pharmacology/>} />
-          <Route path="/microbiology" element={<Microbiology/>} />
+          <Route path="/quizzes" element={<Quizzes />} />
+          <Route path="/courses" element={<CoursesPage />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/blog" element={<Blog />} />
+
+          {/* Course Pages */}
+          <Route path="/anatomy" element={<Anatomy />} />
+          <Route path="/physiology" element={<Physiology />} />
+          <Route path="/pharmacology" element={<Pharmacology />} />
+          <Route path="/microbiology" element={<Microbiology />} />
+
+          {/* Dynamic Topic Pages */}
+          <Route path="/:course/:year/:id" element={<TopicPage />} /> {/* Add a dynamic route for all courses */}
         </Routes>
       </React.Fragment>
     </Router>

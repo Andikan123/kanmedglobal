@@ -1,0 +1,81 @@
+/* General styling for the topic page */
+.topic-page {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 5rem;
+  }
+  
+  /* Title of the topic */
+  .topic-page h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+    letter-spacing: 1px;
+  }
+  
+  /* Description styling */
+  .topic-page p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #555;
+    margin-bottom: 30px;
+    text-align: justify;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  /* Video container */
+  .video-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    padding: 20px;
+  }
+  
+  /* Styling for the iframe video */
+  .video-container iframe {
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 900px; /* Restrict iframe width to fit the content */
+    height: 500px; /* Adjustable height based on preference */
+  }
+  
+  /* Make sure the iframe is responsive */
+  @media (max-width: 768px) {
+    .topic-page {
+      padding: 15px;
+    }
+  
+    .topic-page h1 {
+      font-size: 1.8rem;
+    }
+  
+    .topic-page p {
+      font-size: 1rem;
+    }
+  
+    .video-container iframe {
+      width: 100%;
+      max-width: 100%;
+      height: 250px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .topic-page h1 {
+      font-size: 1.6rem;
+    }
+  
+    .topic-page p {
+      font-size: 0.95rem;
+    }
+  }
+  
