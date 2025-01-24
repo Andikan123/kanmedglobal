@@ -1315,12 +1315,217 @@ export const anatomyTopics = {
       title: "Spinal Cord and Spinal Nerves",
       description: "In-depth exploration of spinal cord structures.",
       videoUrl: "https://www.youtube.com/embed/H0nMbkXK4-E",
+      content: `<h2>Overview</h2>
+<p>The spinal cord is a long, cylindrical structure made up of nerve tissue that extends from the brainstem down the vertebral column. It acts as a major communication pathway between the brain and the rest of the body. The spinal cord is responsible for transmitting sensory and motor signals to and from the brain and plays a critical role in reflex actions. The spinal nerves, which emerge from the spinal cord, carry sensory and motor information to various parts of the body, including the limbs, torso, and internal organs.</p>
+
+<!-- Image Placeholder for Spinal Cord Overview -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Spinal Cord Overview" />
+</div>
+
+<h2>Lesson Content</h2>
+
+<h3>1. What is the Spinal Cord?</h3>
+<p>The spinal cord is a part of the central nervous system (CNS) and extends from the brainstem to the lower back, passing through the vertebral column. It is protected by the spinal meninges, a series of membranes, and cerebrospinal fluid. The spinal cord is segmented and divided into different regions, each responsible for transmitting signals to and from specific parts of the body.</p>
+
+<!-- Image Placeholder for Spinal Cord Structure -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Spinal Cord Structure" />
+</div>
+
+<h3>2. Structure of the Spinal Cord</h3>
+<p>The spinal cord consists of both white matter (myelinated nerve fibers) and gray matter (nerve cell bodies). The gray matter is arranged in a butterfly or "H" shape and is located in the center of the spinal cord, while the white matter surrounds it. The spinal cord is divided into four main regions:</p>
+<ul>
+  <li><strong>Cervical Region:</strong> The topmost section of the spinal cord, which controls the head, neck, and arms.</li>
+  <li><strong>Thoracic Region:</strong> The middle section, which controls the chest, back, and parts of the abdomen.</li>
+  <li><strong>Lumbar Region:</strong> The lower section that controls the legs and lower abdomen.</li>
+  <li><strong>Sacral Region:</strong> The section responsible for functions related to the pelvis, including bowel, bladder, and reproductive organs.</li>
+</ul>
+
+<!-- Image Placeholder for Spinal Cord Regions -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Spinal Cord Regions" />
+</div>
+
+<h3>3. Spinal Nerves</h3>
+<p>There are 31 pairs of spinal nerves that emerge from the spinal cord, each serving a specific part of the body. The spinal nerves are classified based on the region of the spinal cord from which they arise. Each spinal nerve is divided into a dorsal (sensory) root and a ventral (motor) root. The dorsal root transmits sensory information from the body to the spinal cord, while the ventral root carries motor signals from the spinal cord to the muscles.</p>
+
+<ul>
+  <li><strong>Cervical Nerves:</strong> These nerves innervate the neck, shoulders, arms, and diaphragm.</li>
+  <li><strong>Thoracic Nerves:</strong> These nerves control the chest and abdominal muscles.</li>
+  <li><strong>Lumbar Nerves:</strong> These nerves control the lower back, hips, and legs.</li>
+  <li><strong>Sacral Nerves:</strong> These nerves control the pelvic region, including the bladder, bowel, and reproductive organs.</li>
+</ul>
+
+<!-- Image Placeholder for Spinal Nerves -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Spinal Nerves" />
+</div>
+
+<h3>4. Functions of the Spinal Cord and Spinal Nerves</h3>
+<p>The spinal cord and spinal nerves have several critical functions:</p>
+<ul>
+  <li><strong>Transmission of Sensory Information:</strong> Sensory nerves transmit information from sensory receptors throughout the body (e.g., pain, temperature, touch) to the brain for processing.</li>
+  <li><strong>Motor Control:</strong> The spinal cord sends motor signals from the brain to the muscles, enabling movement.</li>
+  <li><strong>Reflex Actions:</strong> The spinal cord is responsible for autonomic reflexes, such as the knee-jerk reflex, which do not require input from the brain.</li>
+  <li><strong>Autonomic Functions:</strong> The spinal cord plays a role in regulating autonomic functions such as heart rate, blood pressure, and digestive processes through the sympathetic and parasympathetic nervous systems.</li>
+</ul>
+
+<!-- Image Placeholder for Spinal Cord Functions -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Spinal Cord Functions" />
+</div>
+
+<h3>5. Spinal Cord Injuries</h3>
+<p>Injuries to the spinal cord can result in partial or complete loss of function below the level of injury. These injuries can be classified into two main types:</p>
+<ul>
+  <li><strong>Complete Injury:</strong> This results in a total loss of sensation and movement below the level of the injury.</li>
+  <li><strong>Incomplete Injury:</strong> This means that some sensation or movement is still preserved below the level of the injury.</li>
+</ul>
+<p>Common causes of spinal cord injuries include trauma (e.g., car accidents, falls), infections, tumors, and diseases such as multiple sclerosis. The severity and outcome of a spinal cord injury depend on the location and extent of the damage.</p>
+
+<!-- Image Placeholder for Spinal Cord Injury -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Spinal Cord Injury" />
+</div>
+
+<h3>6. Spinal Cord Disorders</h3>
+<p>Several medical conditions can affect the spinal cord, leading to symptoms like pain, weakness, or paralysis. Some common disorders include:</p>
+<ul>
+  <li><strong>Multiple Sclerosis (MS):</strong> An autoimmune disease that affects the central nervous system, including the spinal cord, causing inflammation and damage to the myelin sheath around nerve fibers.</li>
+  <li><strong>Spinal Stenosis:</strong> A condition where the spinal canal narrows, putting pressure on the spinal cord and nerves, often leading to pain and numbness in the legs.</li>
+  <li><strong>Spina Bifida:</strong> A birth defect where the spinal cord and surrounding structures do not fully develop, leading to neurological deficits and physical disabilities.</li>
+  <li><strong>Transverse Myelitis:</strong> Inflammation of the spinal cord that can result from infections, autoimmune diseases, or other conditions, leading to sudden weakness, sensory changes, and sometimes paralysis.</li>
+</ul>
+
+<!-- Image Placeholder for Spinal Cord Disorders -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Spinal Cord Disorders" />
+</div>`,
+      recap:
+        "In this lesson, we covered the structure and function of the spinal cord and spinal nerves. The spinal cord serves as a critical communication pathway between the brain and the rest of the body, transmitting sensory and motor signals. Spinal nerves emerge from the spinal cord, serving different regions of the body, and are responsible for motor control, sensation, and reflex actions. Spinal cord injuries and disorders can significantly impact function and quality of life, making it essential to understand spinal cord health and treatment options.",
+      resources: [
+        {
+          title:
+            "Interactive Spinal Cord Anatomy: Explore the spinal cord in 3D.",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "Spinal Cord Injury Resource Guide: Learn about spinal cord injuries and treatment options..",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "Spinal Cord Injury: A Guide for Patients and Families by Michael G. Fehlings: A comprehensive resource on spinal cord health.",
+          url: "https://example.com/intro-anatomy",
+        },
+      ],
     },
     {
       id: 3,
       title: "Musculoskeletal System",
       description: "Detailed anatomy of muscles and bones.",
       videoUrl: "https://www.youtube.com/embed/H0nMbkXK4-E",
+      content: `<h2>Overview</h2>
+<p>The musculoskeletal system is a complex network of bones, muscles, tendons, ligaments, and joints that supports and allows movement of the body. It not only provides structure and protection to vital organs but also plays a key role in mobility, posture, and maintaining stability. The musculoskeletal system is divided into two main components: the skeletal system, which is made up of bones and joints, and the muscular system, which is made up of muscles that work with the skeleton to facilitate movement.</p>
+
+<!-- Image Placeholder for Musculoskeletal System Overview -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Musculoskeletal System Overview" />
+</div>
+
+<h2>Lesson Content</h2>
+
+<h3>1. What is the Musculoskeletal System?</h3>
+<p>The musculoskeletal system consists of two main systems: the skeletal system and the muscular system. These systems work together to enable movement, provide structural support, protect internal organs, store minerals, and produce blood cells. The skeletal system provides the frame, while the muscular system allows for movement by contracting and relaxing muscles.</p>
+
+<!-- Image Placeholder for Musculoskeletal System Structure -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Musculoskeletal System Structure" />
+</div>
+
+<h3>2. The Skeletal System</h3>
+<p>The skeletal system is composed of 206 bones in the adult human body. These bones are categorized into two main groups:</p>
+<ul>
+  <li><strong>Axial Skeleton:</strong> Includes the bones of the skull, vertebral column, and rib cage. It supports and protects the brain, spinal cord, and internal organs.</li>
+  <li><strong>Appendicular Skeleton:</strong> Includes the bones of the limbs and the girdles (shoulder and pelvic girdles) that attach the limbs to the axial skeleton. It is responsible for movement and interaction with the environment.</li>
+</ul>
+
+<p>Bones in the skeletal system are classified into several types based on their shape and function:</p>
+<ul>
+  <li><strong>Long Bones:</strong> These bones are longer than they are wide and are found in the arms and legs (e.g., femur, humerus).</li>
+  <li><strong>Short Bones:</strong> These bones are cube-shaped and provide stability and support (e.g., carpals in the wrists, tarsals in the ankles).</li>
+  <li><strong>Flat Bones:</strong> These bones provide protection to internal organs and serve as attachment sites for muscles (e.g., skull, ribs, sternum).</li>
+  <li><strong>Irregular Bones:</strong> These bones have complex shapes and fulfill various functions (e.g., vertebrae, facial bones).</li>
+  <li><strong>Sesamoid Bones:</strong> These bones are embedded within tendons and help reduce friction and improve mechanical leverage (e.g., patella, or kneecap).</li>
+</ul>
+
+<!-- Image Placeholder for Skeletal System -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Skeletal System" />
+</div>
+
+<h3>3. The Muscular System</h3>
+<p>The muscular system is composed of muscles that contract and relax to enable movement. There are three main types of muscle tissue in the body:</p>
+<ul>
+  <li><strong>Skelatal Muscles:</strong> Voluntary muscles that are attached to bones by tendons. These muscles enable movement and maintain posture (e.g., biceps, quadriceps).</li>
+  <li><strong>Cardiac Muscles:</strong> Involuntary muscles that make up the heart. These muscles are responsible for pumping blood throughout the body.</li>
+  <li><strong>Smooth Muscles:</strong> Involuntary muscles found in the walls of internal organs, such as the intestines and blood vessels. They regulate processes such as digestion and blood flow.</li>
+</ul>
+
+<p>Muscles work by contracting and relaxing. Contraction occurs when muscle fibers shorten, pulling on the bones and causing movement. The process requires energy in the form of ATP (adenosine triphosphate), which is produced through cellular respiration in muscle cells.</p>
+
+<!-- Image Placeholder for Muscular System -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Muscular System" />
+</div>
+
+<h3>4. Joints and Ligaments</h3>
+<p>Joints are the places where two or more bones meet. They allow for movement and provide flexibility to the skeleton. Joints are classified based on their structure and function:</p>
+<ul>
+  <li><strong>Fibrous Joints:</strong> These joints are immovable and provide strength and stability (e.g., sutures in the skull).</li>
+  <li><strong>Cartilaginous Joints:</strong> These joints allow limited movement and are connected by cartilage (e.g., intervertebral discs).</li>
+  <li><strong>Synovial Joints:</strong> These joints are freely movable and are surrounded by a synovial membrane that produces synovial fluid for lubrication (e.g., knee, elbow, shoulder).</li>
+</ul>
+
+<p>Ligaments are strong, fibrous tissues that connect bones to other bones at joints, providing stability and preventing excessive movement that could lead to injury.</p>
+
+<!-- Image Placeholder for Joints -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Joints and Ligaments" />
+</div>
+
+<h3>5. Functions of the Musculoskeletal System</h3>
+<p>The musculoskeletal system has several essential functions, including:</p>
+<ul>
+  <li><strong>Support:</strong> The bones of the skeleton provide a framework that supports the body and cradles soft organs such as the brain, heart, and lungs.</li>
+  <li><strong>Movement:</strong> The muscles contract and pull on the bones to produce movement. The musculoskeletal system allows for a wide range of voluntary and involuntary movements.</li>
+  <li><strong>Protection:</strong> Bones protect vital organs. For example, the skull protects the brain, and the rib cage protects the heart and lungs.</li>
+  <li><strong>Mineral Storage:</strong> Bones store important minerals such as calcium and phosphorus, which can be released into the bloodstream when needed.</li>
+  <li><strong>Blood Cell Production:</strong> The bone marrow, located in certain bones, produces blood cells (red blood cells, white blood cells, and platelets).</li>
+</ul>
+
+<!-- Image Placeholder for Musculoskeletal Functions -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Musculoskeletal Functions" />
+</div>
+
+<h3>6. Musculoskeletal Disorders</h3>
+<p>Several disorders can affect the musculoskeletal system, leading to pain, decreased mobility, or other health issues. Some common musculoskeletal disorders include:</p>
+<ul>
+  <li><strong>Osteoarthritis:</strong> A degenerative joint disease that causes cartilage breakdown and results in pain and stiffness, particularly in weight-bearing joints.</li>
+  <li><strong>Osteoporosis:</strong> A condition where bones become brittle and more prone to fractures due to decreased bone density.</li>
+  <li><strong>Rheumatoid Arthritis:</strong> An autoimmune disease that causes inflammation of the joints, leading to pain, swelling, and potential joint deformities.</li>
+  <li><strong>Muscle Strains and Sprains:</strong> Injuries to muscles or ligaments that occur due to overstretching or tearing during physical activity.</li>
+  <li><strong>Fibromyalgia:</strong> A condition characterized by widespread musculoskeletal pain, fatigue, and tenderness in specific areas of the body.</li>
+</ul>
+
+<!-- Image Placeholder for Musculoskeletal Disorders -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Musculoskeletal Disorders" />
+</div>
+`
     },
     {
       id: 4,
