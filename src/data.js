@@ -1096,6 +1096,100 @@ resources: [
       title: "Lymphatic System",
       description: "Immune defense and fluid balance.",
       videoUrl: "https://www.youtube.com/embed/fJZ99wZw-QM",
+      content:`<h2>Overview</h2>
+<p>The lymphatic system is a crucial part of the immune system, consisting of a network of vessels, lymph nodes, and organs that help protect and maintain the fluid environment of the body. It plays a significant role in immune defense, fluid balance, and nutrient absorption. The system transports lymph, a clear fluid that contains white blood cells, throughout the body to fight infection and remove waste.</p>
+
+<!-- Image Placeholder for Lymphatic System Overview -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Lymphatic System Overview" />
+</div>
+
+<h2>Lesson Content</h2>
+
+<h3>1. What is the Lymphatic System?</h3>
+<p>The lymphatic system is made up of lymph, lymph nodes, lymphatic vessels, and several organs, including the spleen, tonsils, and thymus. It works in conjunction with the circulatory and immune systems to protect the body from pathogens, filter lymph, and return excess interstitial fluid to the bloodstream. The lymphatic system also aids in the absorption of fats and fat-soluble vitamins from the digestive system.</p>
+
+<!-- Image Placeholder for Lymphatic System Structure -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Lymphatic System Structure" />
+</div>
+
+<h3>2. Key Components of the Lymphatic System</h3>
+<p>The main components of the lymphatic system include:</p>
+<ul>
+  <li><strong>Lymph:</strong> A clear fluid containing white blood cells, primarily lymphocytes, which help in fighting infections. Lymph is transported through lymphatic vessels.</li>
+  <li><strong>Lymph Nodes:</strong> Small, bean-shaped structures that filter lymph and trap foreign particles, such as bacteria and viruses. Lymph nodes are spread throughout the body, particularly in the neck, armpits, groin, and abdomen.</li>
+  <li><strong>Lymphatic Vessels:</strong> A network of vessels that transport lymph throughout the body, similar to blood vessels. They carry lymph to the lymph nodes for filtration and immune response.</li>
+  <li><strong>Spleen:</strong> Located in the abdomen, the spleen filters blood, removing old or damaged red blood cells, and plays a role in immune defense by producing white blood cells and storing platelets.</li>
+  <li><strong>Tonsils:</strong> Groups of lymphoid tissue located in the throat that help protect against pathogens entering the body through the mouth or nose.</li>
+  <li><strong>Thymus:</strong> An organ located behind the sternum, the thymus produces and matures T-cells (a type of white blood cell) essential for immune function.</li>
+</ul>
+
+<!-- Image Placeholder for Lymph Nodes and Vessels -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Lymph Nodes and Vessels" />
+</div>
+
+<h3>3. Functions of the Lymphatic System</h3>
+<p>The lymphatic system performs several vital functions in the body:</p>
+<ul>
+  <li><strong>Immune Defense:</strong> The lymphatic system is key to the body's immune response. Lymph nodes filter out harmful microorganisms, while the spleen and tonsils trap pathogens and produce white blood cells to fight infections.</li>
+  <li><strong>Fluid Balance:</strong> The lymphatic system helps maintain the body’s fluid balance by returning excess tissue fluid, or interstitial fluid, to the bloodstream. This prevents fluid accumulation and swelling (edema).</li>
+  <li><strong>Absorption of Fats:</strong> Specialized lymphatic vessels called lacteals, found in the small intestine, absorb fats and fat-soluble vitamins from digested food and transport them into the bloodstream.</li>
+</ul>
+
+<!-- Image Placeholder for Lymphatic System Functions -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Lymphatic System Functions" />
+</div>
+
+<h3>4. The Lymphatic Circulation</h3>
+<p>The flow of lymph is directed through the lymphatic vessels, moving from the tissues back to the bloodstream. Unlike blood circulation, which is powered by the heart, lymph circulation relies on the movement of muscles and the pressure from breathing to help push lymph through the lymphatic system. The lymphatic system is a one-way system that returns lymph to the bloodstream at the subclavian veins near the neck.</p>
+
+<!-- Image Placeholder for Lymphatic Circulation -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Lymphatic Circulation" />
+</div>
+
+<h3>5. Lymphatic System Disorders</h3>
+<p>Several conditions can affect the lymphatic system, leading to dysfunction and health complications:</p>
+<ul>
+  <li><strong>Lymphedema:</strong> A condition characterized by swelling caused by the accumulation of lymph in the tissues. It often occurs due to blockages in the lymphatic vessels or after lymph node removal.</li>
+  <li><strong>Lymphoma:</strong> A type of cancer that originates in the lymphatic system, particularly in lymph nodes. The two main types of lymphoma are Hodgkin's lymphoma and non-Hodgkin's lymphoma.</li>
+  <li><strong>Infections:</strong> Infections like cellulitis and lymphangitis can affect the lymphatic vessels or lymph nodes, causing inflammation and pain.</li>
+  <li><strong>Immunodeficiencies:</strong> Conditions like HIV/AIDS can impair the function of the immune system, affecting the lymphatic system's ability to fight infections.</li>
+</ul>
+
+<!-- Image Placeholder for Lymphatic Disorders -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Lymphatic Disorders" />
+</div>
+
+<h3>6. Aging and the Lymphatic System</h3>
+<p>As we age, the lymphatic system may become less efficient, leading to an increased risk of infections and reduced fluid drainage. The thymus, which produces T-cells, shrinks with age, potentially weakening the immune response. Additionally, the efficiency of the lymphatic vessels in draining excess fluid may decrease, leading to conditions like lymphedema in older adults.</p>
+
+<!-- Image Placeholder for Aging and Lymphatic System -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Aging and Lymphatic System" />
+</div>`,
+recap: "In this lesson, we explored the structure and functions of the lymphatic system, which plays a vital role in immune defense, fluid balance, and nutrient absorption. By understanding the lymphatic system’s components and its role in health, we gain insight into how the body defends itself against infections and maintains homeostasis.",
+resources: [
+  {
+    title:
+      "Interactive Lymphatic System Atlas: Explore the components and functions of the lymphatic system in 3D.",
+    url: "https://example.com/intro-anatomy",
+  },
+  {
+    title:
+      "YouTube Video on the Lymphatic System: A detailed explanation of the lymphatic system’s structure and function.",
+    url: "https://example.com/intro-anatomy",
+  },
+  {
+    title:
+      "Lymphatic System: Anatomy and Physiology by Jane Smith: A comprehensive textbook on the lymphatic system’s role in health.",
+    url: "https://example.com/intro-anatomy",
+  },
+],
     },
   ],
   year2: [
