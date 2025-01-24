@@ -2189,6 +2189,112 @@ resources: [
       title: "Reproductive System",
       description: "Study of male and female reproductive anatomy.",
       videoUrl: "https://www.youtube.com/embed/H0nMbkXK4-E",
+      content: `<h2>Overview</h2>
+<p>The reproductive system is responsible for producing offspring and ensuring the continuation of the species. It includes specialized organs in both males and females that function together to facilitate reproduction. In this section, we will explore the male and female reproductive systems, their structure, and how they work together during fertilization.</p>
+
+<!-- Image Placeholder for Overview of Reproductive System -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Overview of Reproductive System" />
+</div>
+
+<h2>Lesson Content</h2>
+
+<h3>1. Male Reproductive System</h3>
+<p>The male reproductive system produces and delivers sperm, the male gamete, and includes several key organs that facilitate these functions.</p>
+
+<ul>
+  <li><strong>Testes:</strong> The testes are the male gonads, responsible for producing sperm and secreting the hormone testosterone. They are housed in the scrotum to maintain a temperature slightly lower than body temperature, which is optimal for sperm production.</li>
+  <li><strong>Epididymis:</strong> The epididymis is a coiled tube located on the surface of each testis where sperm mature and are stored before being ejaculated.</li>
+  <li><strong>Vas Deferens:</strong> The vas deferens is a muscular tube that carries sperm from the epididymis toward the urethra during ejaculation.</li>
+  <li><strong>Seminal Vesicles:</strong> These glands secrete a fluid that nourishes sperm and helps form semen. The seminal fluid combines with sperm to form semen during ejaculation.</li>
+  <li><strong>Prostate Gland:</strong> The prostate produces a fluid that supports sperm viability, enhancing sperm motility.</li>
+  <li><strong>Urethra:</strong> The urethra serves as a passageway for semen during ejaculation and for urine during urination.</li>
+  <li><strong>Penis:</strong> The penis is the external organ that delivers sperm to the female reproductive tract during intercourse. It also serves as the conduit for urine from the urinary bladder.</li>
+</ul>
+
+<p>The male reproductive system's primary function is the production and delivery of sperm for fertilization.</p>
+
+<!-- Image Placeholder for Male Reproductive System -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Male Reproductive System" />
+</div>
+
+<h3>2. Female Reproductive System</h3>
+<p>The female reproductive system is responsible for producing eggs (ova), providing a site for fertilization, supporting fetal development, and delivering the baby during childbirth.</p>
+
+<ul>
+  <li><strong>Ovaries:</strong> The ovaries are the female gonads responsible for producing eggs and secreting hormones like estrogen and progesterone. Females are born with a finite number of eggs.</li>
+  <li><strong>Fallopian Tubes:</strong> The fallopian tubes (also known as oviducts) carry eggs from the ovaries to the uterus. Fertilization usually occurs in the fallopian tube.</li>
+  <li><strong>Uterus:</strong> The uterus is a hollow, muscular organ where a fertilized egg implants and develops into a fetus. The uterus has three layers: the endometrium (inner layer), myometrium (muscular middle layer), and perimetrium (outer layer).</li>
+  <li><strong>Cervix:</strong> The cervix is the lower part of the uterus that opens into the vagina. It provides an opening for sperm to enter and for the baby to pass through during childbirth.</li>
+  <li><strong>Vagina:</strong> The vagina is the muscular tube that connects the uterus to the outside of the body. It serves as the birth canal during childbirth and allows for the passage of menstrual blood and sexual intercourse.</li>
+  <li><strong>Vulva:</strong> The vulva refers to the external genitalia of the female reproductive system, including the labia, clitoris, and vaginal opening.</li>
+</ul>
+
+<p>The female reproductive system is crucial for producing eggs, supporting fetal development, and facilitating childbirth.</p>
+
+<!-- Image Placeholder for Female Reproductive System -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Female Reproductive System" />
+</div>
+
+<h3>3. Reproductive System Functions</h3>
+<p>The primary functions of the male and female reproductive systems are the production of gametes (sperm and eggs), fertilization, and the development of offspring. Here's how these functions work:</p>
+
+<ul>
+  <li><strong>Gamete Production:</strong> Sperm is produced in the testes in males, and eggs are produced in the ovaries in females. The production of these gametes is regulated by hormones.</li>
+  <li><strong>Fertilization:</strong> Fertilization occurs when sperm meets the egg in the fallopian tube. The fertilized egg then travels to the uterus where it implants and begins developing into an embryo.</li>
+  <li><strong>Pregnancy:</strong> Pregnancy begins after the fertilized egg implants in the uterus. The embryo develops into a fetus, and the female body supports this development by providing nutrients and oxygen through the placenta.</li>
+  <li><strong>Childbirth:</strong> During childbirth, the baby passes from the uterus through the cervix and vagina. The process is driven by contractions of the uterine muscles.</li>
+</ul>
+
+<p>The entire reproductive process is regulated by a complex interaction of hormones from the pituitary gland, hypothalamus, and reproductive organs.</p>
+
+<!-- Image Placeholder for Reproductive Functions -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Reproductive Functions" />
+</div>
+
+<h3>4. Reproductive Health and Disorders</h3>
+<p>The reproductive system can be affected by a variety of health conditions. Common reproductive system disorders include:</p>
+
+<ul>
+  <li><strong>Infertility:</strong> The inability to conceive after a year of trying. Both males and females can experience infertility due to hormonal imbalances, structural issues, or infections.</li>
+  <li><strong>Polycystic Ovary Syndrome (PCOS):</strong> A hormonal disorder in women that can cause irregular menstrual cycles, ovarian cysts, and difficulties with fertility.</li>
+  <li><strong>Endometriosis:</strong> A condition in which the tissue that normally lines the uterus grows outside it, causing pain, infertility, and other complications.</li>
+  <li><strong>Erectile Dysfunction:</strong> A condition in men where they are unable to achieve or maintain an erection sufficient for sexual intercourse.</li>
+  <li><strong>Sexually Transmitted Infections (STIs):</strong> Infections that can affect the reproductive organs and lead to complications like infertility if left untreated.</li>
+  <li><strong>Prostate Issues:</strong> Conditions like prostate enlargement or prostate cancer that affect the male reproductive system.</li>
+</ul>
+
+<p>Maintaining reproductive health is essential for both men and women. Regular check-ups, safe sexual practices, and early detection of disorders can help manage or prevent complications.</p>
+
+<!-- Image Placeholder for Reproductive Disorders -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Reproductive Disorders" />
+</div>`,
+recap:
+"In this lesson, we explored the male and female reproductive systems, their functions, and how they work together to facilitate reproduction. We also discussed common reproductive health issues and the importance of maintaining reproductive health.",
+
+resources: [
+{
+  title:
+    "Interactive Model of the Reproductive System: Explore the male and female reproductive systems in 3D.",
+  url: "https://example.com/intro-anatomy",
+},
+{
+  title:
+    "YouTube Video on Reproductive Health: An informative video covering both male and female reproductive health.",
+  url: "https://example.com/intro-anatomy",
+},
+{
+  title:
+    "Anatomy & Physiology by Elaine Marieb: A comprehensive textbook covering all aspects of human reproduction.",
+  url: "https://example.com/intro-anatomy",
+},
+],
+
+
     },
     {
       id: 10,
