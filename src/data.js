@@ -2078,6 +2078,111 @@ resources: [
       title: "Urinary System",
       description: "Anatomy of kidneys, bladder, and urinary tract.",
       videoUrl: "https://www.youtube.com/embed/H0nMbkXK4-E",
+      content: `<h2>Overview</h2>
+<p>The urinary system, also known as the renal system, is responsible for eliminating waste from the body and maintaining fluid, electrolyte, and acid-base balance. It consists of the kidneys, ureters, bladder, and urethra. The kidneys filter blood to produce urine, which is then transported through the ureters to the bladder for storage before being expelled from the body through the urethra.</p>
+
+<!-- Image Placeholder for Urinary System Overview -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Overview of Urinary System" />
+</div>
+
+<h2>Lesson Content</h2>
+
+<h3>1. Kidneys: The Primary Organs</h3>
+<p>The kidneys are a pair of bean-shaped organs located in the lower back, just below the rib cage. They are responsible for filtering blood, removing waste, balancing electrolytes, and regulating blood pressure.</p>
+
+<ul>
+  <li><strong>Filtration:</strong> Blood is filtered through millions of tiny structures called nephrons. The nephrons remove waste products like urea, excess ions, and water from the blood, which then become urine.</li>
+  <li><strong>Regulation of Blood Pressure:</strong> The kidneys help regulate blood pressure by controlling the volume of blood and releasing the enzyme renin, which plays a role in constricting blood vessels.</li>
+  <li><strong>Electrolyte Balance:</strong> The kidneys regulate levels of important electrolytes such as sodium, potassium, and calcium, helping to maintain proper cellular function.</li>
+  <li><strong>Acid-Base Balance:</strong> The kidneys help maintain the pH balance in the body by excreting hydrogen ions and reabsorbing bicarbonate from urine.</li>
+</ul>
+
+<p>The kidneys are essential for filtering blood, maintaining homeostasis, and regulating the body’s internal environment.</p>
+
+<!-- Image Placeholder for Kidneys -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Kidneys" />
+</div>
+
+<h3>2. Ureters: Transporting Urine</h3>
+<p>The ureters are two muscular tubes that transport urine from the kidneys to the bladder. They are about 25-30 cm long and connect each kidney to the bladder. The movement of urine is facilitated by peristalsis, a series of muscle contractions that propel urine down the ureters.</p>
+
+<ul>
+  <li><strong>Structure:</strong> The ureters are narrow tubes with a lining of smooth muscle. This muscle layer helps propel urine toward the bladder.</li>
+  <li><strong>Function:</strong> The ureters serve as the transport system for urine, ensuring that waste products filtered by the kidneys reach the bladder for storage.</li>
+</ul>
+
+<!-- Image Placeholder for Ureters -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Ureters" />
+</div>
+
+<h3>3. Bladder: The Urine Storage</h3>
+<p>The bladder is a hollow, muscular organ located in the pelvis that stores urine until it is ready to be expelled from the body. It has a remarkable ability to stretch and expand as it fills with urine.</p>
+
+<ul>
+  <li><strong>Structure:</strong> The bladder is lined with smooth muscle, which contracts to expel urine. It also has a layer of transitional epithelium that allows it to stretch without tearing.</li>
+  <li><strong>Capacity:</strong> The average bladder can hold about 400-600 milliliters of urine before the urge to urinate occurs.</li>
+  <li><strong>Storage and Elimination:</strong> The bladder stores urine until the body signals that it’s time to empty. The process of urination, or micturition, is controlled by both voluntary and involuntary muscles.</li>
+</ul>
+
+<!-- Image Placeholder for Bladder -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Bladder" />
+</div>
+
+<h3>4. Urethra: The Exit Path</h3>
+<p>The urethra is a tube that connects the bladder to the outside of the body. It serves as the final passage for urine to leave the body during urination. In males, the urethra also has a role in the reproductive system, as it carries semen during ejaculation.</p>
+
+<ul>
+  <li><strong>Structure:</strong> The urethra in males is longer (around 20 cm) compared to females (around 4 cm). In both sexes, it is lined with smooth muscle.</li>
+  <li><strong>Function:</strong> The urethra’s primary function is to transport urine from the bladder to the exterior of the body. In males, it also carries semen, making it part of both the urinary and reproductive systems.</li>
+</ul>
+
+<!-- Image Placeholder for Urethra -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Urethra" />
+</div>
+
+<h3>5. Urinary System Disorders</h3>
+<p>Several conditions can affect the urinary system, ranging from infections to more severe diseases. Some common urinary system disorders include:</p>
+
+<ul>
+  <li><strong>Urinary Tract Infection (UTI):</strong> An infection that affects the bladder, kidneys, or urethra, leading to symptoms like painful urination, frequent urination, and lower abdominal pain.</li>
+  <li><strong>Kidney Stones:</strong> Hard deposits of minerals and salts that form in the kidneys and can block the ureters, causing pain and difficulty in urination.</li>
+  <li><strong>Chronic Kidney Disease (CKD):</strong> A gradual loss of kidney function, often due to conditions like high blood pressure or diabetes.</li>
+  <li><strong>Bladder Infections (Cystitis):</strong> Inflammation of the bladder, typically caused by a bacterial infection, leading to frequent, painful urination and discomfort in the lower abdomen.</li>
+  <li><strong>Incontinence:</strong> A condition in which an individual is unable to control urination, leading to involuntary leakage of urine.</li>
+</ul>
+
+<p>Early detection and treatment are important to prevent long-term damage to the urinary system and ensure proper function.</p>
+
+<!-- Image Placeholder for Urinary Disorders -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Urinary Disorders" />
+</div>`,
+recap:
+"In this lesson, we covered the structure and function of the urinary system, including the kidneys, ureters, bladder, and urethra. The urinary system is crucial for filtering waste from the blood, maintaining fluid balance, and regulating electrolytes and blood pressure. Disorders affecting the urinary system can lead to significant health problems, so it’s important to recognize the signs of dysfunction early.",
+
+resources: [
+{
+  title:
+    "Interactive Model of the Urinary System: Explore the organs and functions of the urinary system in 3D.",
+  url: "https://example.com/intro-anatomy",
+},
+{
+  title:
+    "YouTube Video on Urinary System: A comprehensive guide to understanding the urinary system.",
+  url: "https://example.com/intro-anatomy",
+},
+{
+  title:
+    "Human Anatomy & Physiology by Elaine Marieb: A textbook offering detailed information on the urinary system and its functions",
+  url: "https://example.com/intro-anatomy",
+},
+],
+
     },
     {
       id: 9,
