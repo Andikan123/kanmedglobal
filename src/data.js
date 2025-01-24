@@ -303,7 +303,7 @@ export const anatomyTopics = {
       title: "Muscular System",
       description: "Study of muscles and their functions.",
       videoUrl: "https://www.youtube.com/embed/H0nMbkXK4-E",
-      content:`<h2>Overview</h2>
+      content: `<h2>Overview</h2>
 <p>The muscular system is a biological system consisting of muscles and tendons that allow movement of the body and its parts. The system is also involved in maintaining posture and generating heat. Muscles contract and work in pairs to produce movement. There are three main types of muscles: skeletal, smooth, and cardiac, each playing a unique role in the body.</p>
 
 <h2>Lesson Content</h2>
@@ -360,31 +360,31 @@ export const anatomyTopics = {
 <h3>9. The Nervous System and Muscles</h3>
 <p>Muscle movement is controlled by the nervous system, which sends signals from the brain to muscles through motor neurons. These signals are transmitted at the neuromuscular junction, where the motor neuron meets the muscle fiber. This process allows muscles to contract and perform voluntary and involuntary movements.</p>
 `,
-recap: "In this lesson, we have introduced the basics of the muscular system, from its structure and function to the different types of muscles and their roles in movement. We have also explored muscle health, common disorders, and how exercise plays a key role in maintaining muscle strength and function. Understanding the muscular system is vital for anyone studying human physiology, sports medicine, or physical therapy.",
-resources: [
-  {
-    title:
-      "Interactive 3D Muscle Model: Explore muscles and their functions in detail.",
-    url: "https://example.com/intro-anatomy",
-  },
-  {
-    title:
-      "YouTube Video on the Muscular System",
-    url: "https://example.com/intro-anatomy",
-  },
-  {
-    title:
-      "Muscle: The Remarkable Story of the Human Body's Most Essential Organ by Jeffrey S. L. N.",
-    url: "https://example.com/intro-anatomy",
-  },
-],
+      recap:
+        "In this lesson, we have introduced the basics of the muscular system, from its structure and function to the different types of muscles and their roles in movement. We have also explored muscle health, common disorders, and how exercise plays a key role in maintaining muscle strength and function. Understanding the muscular system is vital for anyone studying human physiology, sports medicine, or physical therapy.",
+      resources: [
+        {
+          title:
+            "Interactive 3D Muscle Model: Explore muscles and their functions in detail.",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title: "YouTube Video on the Muscular System",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "Muscle: The Remarkable Story of the Human Body's Most Essential Organ by Jeffrey S. L. N.",
+          url: "https://example.com/intro-anatomy",
+        },
+      ],
     },
     {
       id: 4,
       title: "Cardiovascular System",
       description: "Heart anatomy and blood circulation.",
       videoUrl: "https://www.youtube.com/embed/d1xHz9zjz4k",
-      content:`<h2>Overview</h2>
+      content: `<h2>Overview</h2>
 <p>The cardiovascular system, also known as the circulatory system, is a complex network that includes the heart, blood vessels, and blood. Its primary function is to transport oxygen, nutrients, hormones, and waste products to and from the cells of the body. The cardiovascular system is essential for maintaining homeostasis and enabling various physiological processes that sustain life.</p>
 
 <!-- Placeholder for an image of the cardiovascular system -->
@@ -497,24 +497,25 @@ resources: [
 <div class="image-placeholder">
   <img src="path/to/your/image.jpg" alt="Healthy Lifestyle for Heart Health" />
 </div>`,
-recap: "In this lesson, we’ve covered the essential functions of the cardiovascular system, including the heart’s structure, blood circulation, and the role of blood vessels. We’ve also discussed cardiovascular health, the importance of maintaining a healthy lifestyle, and common disorders that affect the system. Understanding the cardiovascular system is essential for maintaining overall health and preventing cardiovascular diseases",
-resources: [
-  {
-    title:
-      "Interactive 3D Cardiovascular System: Explore the anatomy of the heart and blood vessels in detail.",
-    url: "https://example.com/intro-anatomy",
-  },
-  {
-    title:
-      "YouTube Video on the Cardiovascular System: A comprehensive overview of how the heart and blood vessels function.",
-    url: "https://example.com/intro-anatomy",
-  },
-  {
-    title:
-      "The Cardiovascular System by John R. Jones: A detailed textbook on the structure and function of the cardiovascular system",
-    url: "https://example.com/intro-anatomy",
-  },
-],
+      recap:
+        "In this lesson, we’ve covered the essential functions of the cardiovascular system, including the heart’s structure, blood circulation, and the role of blood vessels. We’ve also discussed cardiovascular health, the importance of maintaining a healthy lifestyle, and common disorders that affect the system. Understanding the cardiovascular system is essential for maintaining overall health and preventing cardiovascular diseases",
+      resources: [
+        {
+          title:
+            "Interactive 3D Cardiovascular System: Explore the anatomy of the heart and blood vessels in detail.",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "YouTube Video on the Cardiovascular System: A comprehensive overview of how the heart and blood vessels function.",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "The Cardiovascular System by John R. Jones: A detailed textbook on the structure and function of the cardiovascular system",
+          url: "https://example.com/intro-anatomy",
+        },
+      ],
     },
     {
       id: 5,
@@ -574,28 +575,26 @@ resources: [
 </ul>
 
 <h3>8. The Concept of Homeostasis in the Respiratory System</h3>
-<p>The respiratory system plays a crucial role in maintaining homeostasis by regulating the levels of oxygen and carbon dioxide in the blood. By adjusting the rate and depth of breathing, the body ensures that cells receive adequate oxygen and that excess carbon dioxide is removed, thereby helping to maintain the body's pH balance.</p>`
-,
-recap: "In this lesson, we have covered the structure and function of the respiratory system, from the major organs involved to the process of gas exchange. Understanding how the respiratory system works is essential for appreciating how the body maintains homeostasis and provides oxygen to tissues. It is also important for recognizing how respiratory disorders can disrupt this process",
-resources: [
-  {
-    title:
-      "Interactive Respiratory System Atlas: Explore the human respiratory system in 3D.",
-    url: "https://example.com/intro-anatomy",
-  },
-  {
-    title:
-      "YouTube Video on Respiratory System: Overview of the anatomy and functions of the respiratory system.",
-    url: "https://example.com/intro-anatomy",
-  },
-  {
-    title:
-      "The Respiratory System by M. S. Ali: Detailed information on respiratory physiology and diseases.",
-    url: "https://example.com/intro-anatomy",
-  },
-],
-
-
+<p>The respiratory system plays a crucial role in maintaining homeostasis by regulating the levels of oxygen and carbon dioxide in the blood. By adjusting the rate and depth of breathing, the body ensures that cells receive adequate oxygen and that excess carbon dioxide is removed, thereby helping to maintain the body's pH balance.</p>`,
+      recap:
+        "In this lesson, we have covered the structure and function of the respiratory system, from the major organs involved to the process of gas exchange. Understanding how the respiratory system works is essential for appreciating how the body maintains homeostasis and provides oxygen to tissues. It is also important for recognizing how respiratory disorders can disrupt this process",
+      resources: [
+        {
+          title:
+            "Interactive Respiratory System Atlas: Explore the human respiratory system in 3D.",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "YouTube Video on Respiratory System: Overview of the anatomy and functions of the respiratory system.",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "The Respiratory System by M. S. Ali: Detailed information on respiratory physiology and diseases.",
+          url: "https://example.com/intro-anatomy",
+        },
+      ],
     },
     {
       id: 6,
@@ -710,31 +709,32 @@ resources: [
   <img src="path/to/your/image.jpg" alt="Homeostasis in Digestive System" />
 </div>
 `,
-recap: "In this lesson, we have explored the structure and function of the digestive system, from the mouth to the large intestine. We have learned how digestion involves both mechanical and chemical processes, the role of enzymes and bile in breaking down food, and how the system absorbs nutrients and eliminates waste. Understanding the digestive system is crucial for maintaining health and preventing digestive disorders.",
-resources: [
-  {
-    title:
-      "Interactive Digestive System Atlas: Explore the human digestive system in 3D.",
-    url: "https://example.com/intro-anatomy",
-  },
-  {
-    title:
-      "YouTube Video on Digestive System: A detailed overview of digestive anatomy and physiology.",
-    url: "https://example.com/intro-anatomy",
-  },
-  {
-    title:
-      "Human Physiology by Stuart Fox: A comprehensive resource on digestion and other physiological processes.",
-    url: "https://example.com/intro-anatomy",
-  },
-],
+      recap:
+        "In this lesson, we have explored the structure and function of the digestive system, from the mouth to the large intestine. We have learned how digestion involves both mechanical and chemical processes, the role of enzymes and bile in breaking down food, and how the system absorbs nutrients and eliminates waste. Understanding the digestive system is crucial for maintaining health and preventing digestive disorders.",
+      resources: [
+        {
+          title:
+            "Interactive Digestive System Atlas: Explore the human digestive system in 3D.",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "YouTube Video on Digestive System: A detailed overview of digestive anatomy and physiology.",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "Human Physiology by Stuart Fox: A comprehensive resource on digestion and other physiological processes.",
+          url: "https://example.com/intro-anatomy",
+        },
+      ],
     },
     {
       id: 7,
       title: "Nervous System",
       description: "Overview of the brain, spinal cord, and peripheral nerves.",
       videoUrl: "https://www.youtube.com/embed/H0nMbkXK4-E",
-      content:`<h2>Overview</h2>
+      content: `<h2>Overview</h2>
 <p>The nervous system is responsible for transmitting signals throughout the body, controlling and coordinating body activities. It consists of the brain, spinal cord, and a network of nerves that extend throughout the body. The nervous system helps regulate functions such as movement, sensation, cognition, and homeostasis.</p>
 
 <!-- Image Placeholder for Nervous System Overview -->
@@ -846,31 +846,32 @@ resources: [
 <div class="image-placeholder">
   <img src="path/to/your/image.jpg" alt="Homeostasis and Nervous System" />
 </div>`,
-recap: "In this lesson, we have explored the structure and function of the nervous system, including the central and peripheral nervous systems. We have learned how neurons transmit electrical impulses, the role of reflexes in maintaining body functions, and how the nervous system maintains homeostasis. Understanding the nervous system is essential for recognizing and treating neurological disorders.",
-resources: [
-  {
-    title:
-      "Interactive Nervous System Atlas: Explore the human nervous system in 3D.",
-    url: "https://example.com/intro-anatomy",
-  },
-  {
-    title:
-      "YouTube Video on Nervous System: An overview of nervous anatomy and physiology.",
-    url: "https://example.com/intro-anatomy",
-  },
-  {
-    title:
-      "Neuroscience: Exploring the Brain by Mark Bear, Barry Connors, and Michael Paradiso: A comprehensive textbook on the nervous system.",
-    url: "https://example.com/intro-anatomy",
-  },
-],
+      recap:
+        "In this lesson, we have explored the structure and function of the nervous system, including the central and peripheral nervous systems. We have learned how neurons transmit electrical impulses, the role of reflexes in maintaining body functions, and how the nervous system maintains homeostasis. Understanding the nervous system is essential for recognizing and treating neurological disorders.",
+      resources: [
+        {
+          title:
+            "Interactive Nervous System Atlas: Explore the human nervous system in 3D.",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "YouTube Video on Nervous System: An overview of nervous anatomy and physiology.",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "Neuroscience: Exploring the Brain by Mark Bear, Barry Connors, and Michael Paradiso: A comprehensive textbook on the nervous system.",
+          url: "https://example.com/intro-anatomy",
+        },
+      ],
     },
     {
       id: 8,
       title: "Endocrine System",
       description: "Hormonal regulation and glands of the body.",
       videoUrl: "https://www.youtube.com/embed/H0nMbkXK4-E",
-      content:`<h2>Overview</h2>
+      content: `<h2>Overview</h2>
 <p>The endocrine system is a network of glands that produce and secrete hormones, which are chemical messengers that regulate various bodily functions. The endocrine system helps control growth, metabolism, mood, sexual function, and more. It plays a crucial role in maintaining homeostasis in the body.</p>
 
 <!-- Image Placeholder for Endocrine System Overview -->
@@ -955,33 +956,33 @@ resources: [
 <!-- Image Placeholder for Homeostasis and Endocrine System -->
 <div class="image-placeholder">
   <img src="path/to/your/image.jpg" alt="Homeostasis and Endocrine System" />
-</div>`, 
-recap: "In this lesson, we have explored the structure and function of the nervous system, including the central and peripheral nervous systems. We have learned how neurons transmit electrical impulses, the role of reflexes in maintaining body functions, and how the nervous system maintains homeostasis. Understanding the nervous system is essential for recognizing and treating neurological disorders.",
-resources: [
-  {
-    title:
-      "Interactive Endocrine System Atlas: Explore the endocrine glands and hormones in 3D.",
-    url: "https://example.com/intro-anatomy",
-  },
-  {
-    title:
-      "YouTube Video on Endocrine System: A detailed overview of the endocrine system and its functions..",
-    url: "https://example.com/intro-anatomy",
-  },
-  {
-    title:
-      "Endocrinology: An Integrated Approach by Stephen Nussey and Alison Whitehead: A comprehensive textbook on the endocrine system.",
-    url: "https://example.com/intro-anatomy",
-  },
-],
-
+</div>`,
+      recap:
+        "In this lesson, we have explored the structure and function of the nervous system, including the central and peripheral nervous systems. We have learned how neurons transmit electrical impulses, the role of reflexes in maintaining body functions, and how the nervous system maintains homeostasis. Understanding the nervous system is essential for recognizing and treating neurological disorders.",
+      resources: [
+        {
+          title:
+            "Interactive Endocrine System Atlas: Explore the endocrine glands and hormones in 3D.",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "YouTube Video on Endocrine System: A detailed overview of the endocrine system and its functions..",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "Endocrinology: An Integrated Approach by Stephen Nussey and Alison Whitehead: A comprehensive textbook on the endocrine system.",
+          url: "https://example.com/intro-anatomy",
+        },
+      ],
     },
     {
       id: 9,
       title: "Integumentary System",
       description: "Study of skin, hair, and nails.",
       videoUrl: "https://www.youtube.com/embed/H0nMbkXK4-E",
-      content:`<h2>Overview</h2>
+      content: `<h2>Overview</h2>
 <p>The integumentary system consists of the skin, hair, nails, and associated glands. It acts as the body's first line of defense against environmental factors, including pathogens, UV radiation, and physical injury. It also plays a critical role in regulating body temperature and maintaining homeostasis.</p>
 
 <!-- Image Placeholder for Integumentary System Overview -->
@@ -1071,32 +1072,32 @@ resources: [
 <div class="image-placeholder">
   <img src="path/to/your/image.jpg" alt="Aging Skin" />
 </div>`,
-recap: "In this lesson, we have explored the structure, functions, and components of the integumentary system. The skin, hair, nails, and associated glands work together to protect the body, regulate temperature, and maintain overall health. Understanding the integumentary system is essential for recognizing common disorders and the effects of aging on the skin.",
-resources: [
-  {
-    title:
-      "Interactive Integumentary System Atlas: Explore the structure of the skin, hair, and nails in 3D.",
-    url: "https://example.com/intro-anatomy",
-  },
-  {
-    title:
-      "Interactive Integumentary System Atlas: Explore the structure of the skin, hair, and nails in 3D.",
-    url: "https://example.com/intro-anatomy",
-  },
-  {
-    title:
-      "The Skin: A Natural History by Nina G. Jablonski: A comprehensive book about the skin and its functions.",
-    url: "https://example.com/intro-anatomy",
-  },
-],
-
+      recap:
+        "In this lesson, we have explored the structure, functions, and components of the integumentary system. The skin, hair, nails, and associated glands work together to protect the body, regulate temperature, and maintain overall health. Understanding the integumentary system is essential for recognizing common disorders and the effects of aging on the skin.",
+      resources: [
+        {
+          title:
+            "Interactive Integumentary System Atlas: Explore the structure of the skin, hair, and nails in 3D.",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "Interactive Integumentary System Atlas: Explore the structure of the skin, hair, and nails in 3D.",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "The Skin: A Natural History by Nina G. Jablonski: A comprehensive book about the skin and its functions.",
+          url: "https://example.com/intro-anatomy",
+        },
+      ],
     },
     {
       id: 10,
       title: "Lymphatic System",
       description: "Immune defense and fluid balance.",
       videoUrl: "https://www.youtube.com/embed/fJZ99wZw-QM",
-      content:`<h2>Overview</h2>
+      content: `<h2>Overview</h2>
 <p>The lymphatic system is a crucial part of the immune system, consisting of a network of vessels, lymph nodes, and organs that help protect and maintain the fluid environment of the body. It plays a significant role in immune defense, fluid balance, and nutrient absorption. The system transports lymph, a clear fluid that contains white blood cells, throughout the body to fight infection and remove waste.</p>
 
 <!-- Image Placeholder for Lymphatic System Overview -->
@@ -1172,24 +1173,25 @@ resources: [
 <div class="image-placeholder">
   <img src="path/to/your/image.jpg" alt="Aging and Lymphatic System" />
 </div>`,
-recap: "In this lesson, we explored the structure and functions of the lymphatic system, which plays a vital role in immune defense, fluid balance, and nutrient absorption. By understanding the lymphatic system’s components and its role in health, we gain insight into how the body defends itself against infections and maintains homeostasis.",
-resources: [
-  {
-    title:
-      "Interactive Lymphatic System Atlas: Explore the components and functions of the lymphatic system in 3D.",
-    url: "https://example.com/intro-anatomy",
-  },
-  {
-    title:
-      "YouTube Video on the Lymphatic System: A detailed explanation of the lymphatic system’s structure and function.",
-    url: "https://example.com/intro-anatomy",
-  },
-  {
-    title:
-      "Lymphatic System: Anatomy and Physiology by Jane Smith: A comprehensive textbook on the lymphatic system’s role in health.",
-    url: "https://example.com/intro-anatomy",
-  },
-],
+      recap:
+        "In this lesson, we explored the structure and functions of the lymphatic system, which plays a vital role in immune defense, fluid balance, and nutrient absorption. By understanding the lymphatic system’s components and its role in health, we gain insight into how the body defends itself against infections and maintains homeostasis.",
+      resources: [
+        {
+          title:
+            "Interactive Lymphatic System Atlas: Explore the components and functions of the lymphatic system in 3D.",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "YouTube Video on the Lymphatic System: A detailed explanation of the lymphatic system’s structure and function.",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "Lymphatic System: Anatomy and Physiology by Jane Smith: A comprehensive textbook on the lymphatic system’s role in health.",
+          url: "https://example.com/intro-anatomy",
+        },
+      ],
     },
   ],
   year2: [
@@ -1198,6 +1200,115 @@ resources: [
       title: "Brain and Cranial Nerves",
       description: "Detailed study of brain anatomy and nerves.",
       videoUrl: "https://www.youtube.com/embed/H0nMbkXK4-E",
+      content: `<h2>Overview</h2>
+<p>The brain is the control center of the body, responsible for processing sensory information, regulating bodily functions, and enabling cognitive functions such as thinking, memory, and decision-making. It communicates with the rest of the body through the cranial nerves, which are a set of twelve pairs of nerves that emerge directly from the brain. These nerves control various functions such as sensation, movement, and autonomic processes in the head and neck region.</p>
+
+<!-- Image Placeholder for Brain Overview -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Brain Overview" />
+</div>
+
+<h2>Lesson Content</h2>
+
+<h3>1. What is the Brain?</h3>
+<p>The brain is a complex organ composed of billions of neurons and glial cells. It is divided into different regions that control specific functions, such as the cerebrum for higher cognitive functions, the cerebellum for coordination, and the brainstem for basic life-sustaining functions like breathing and heart rate. The brain communicates with the body through the spinal cord and the cranial nerves, which directly connect to various parts of the head and neck.</p>
+
+<!-- Image Placeholder for Brain Structure -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Brain Structure" />
+</div>
+
+<h3>2. Major Divisions of the Brain</h3>
+<p>The brain is divided into several major regions, each responsible for different functions:</p>
+<ul>
+  <li><strong>Cerebrum:</strong> The largest part of the brain, responsible for voluntary movement, sensory processing, reasoning, and higher cognitive functions. It is divided into two hemispheres (left and right), each controlling the opposite side of the body.</li>
+  <li><strong>Cerebellum:</strong> Located at the back of the brain, it is involved in coordination, balance, and fine motor skills.</li>
+  <li><strong>Brainstem:</strong> Includes the midbrain, pons, and medulla oblongata. The brainstem controls basic vital functions, including heartbeat, breathing, and digestion. It also serves as a communication pathway between the brain and the spinal cord.</li>
+</ul>
+
+<!-- Image Placeholder for Brain Divisions -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Brain Divisions" />
+</div>
+
+<h3>3. Cranial Nerves: An Overview</h3>
+<p>The twelve cranial nerves arise directly from the brain, primarily from the brainstem. Each nerve has a specific function, with some involved in sensory functions (e.g., vision, hearing, taste) and others controlling motor functions (e.g., facial movement, swallowing, eye movement). Below is a brief overview of the twelve cranial nerves:</p>
+
+<ul>
+  <li><strong>Olfactory Nerve (CN I):</strong> Responsible for the sense of smell.</li>
+  <li><strong>Optic Nerve (CN II):</strong> Responsible for vision.</li>
+  <li><strong>Oculomotor Nerve (CN III):</strong> Controls most eye movements and constriction of the pupil.</li>
+  <li><strong>Trochlear Nerve (CN IV):</strong> Controls the movement of the superior oblique muscle of the eye.</li>
+  <li><strong>Trigeminal Nerve (CN V):</strong> Responsible for sensation in the face and controls muscles for chewing.</li>
+  <li><strong>Abducent Nerve (CN VI):</strong> Controls the lateral rectus muscle, which moves the eye outward.</li>
+  <li><strong>Facial Nerve (CN VII):</strong> Controls facial muscles, taste sensations from the front two-thirds of the tongue, and some salivary glands.</li>
+  <li><strong>Vestibulocochlear Nerve (CN VIII):</strong> Responsible for hearing and balance.</li>
+  <li><strong>Glossopharyngeal Nerve (CN IX):</strong> Responsible for taste sensation from the back one-third of the tongue, swallowing, and salivation.</li>
+  <li><strong>Vagus Nerve (CN X):</strong> Controls parasympathetic functions, such as regulating heart rate, digestion, and respiratory rate.</li>
+  <li><strong>Accessory Nerve (CN XI):</strong> Controls the muscles of the neck and shoulders, including head rotation and shoulder elevation.</li>
+  <li><strong>Hypoglossal Nerve (CN XII):</strong> Controls tongue movements.</li>
+</ul>
+
+<!-- Image Placeholder for Cranial Nerves -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Cranial Nerves" />
+</div>
+
+<h3>4. Functions of the Brain and Cranial Nerves</h3>
+<p>The brain and cranial nerves work together to maintain and regulate bodily functions. Some of the key functions include:</p>
+<ul>
+  <li><strong>Sensation:</strong> The cranial nerves are responsible for transmitting sensory information, such as touch, pain, temperature, vision, and hearing, from the head and neck to the brain.</li>
+  <li><strong>Movement:</strong> Several cranial nerves control voluntary and involuntary muscle movements, such as facial expression, chewing, swallowing, and eye movements.</li>
+  <li><strong>Autonomic Control:</strong> The brainstem, along with the vagus nerve, regulates vital functions such as breathing, heart rate, and digestion.</li>
+  <li><strong>Cognitive Function:</strong> The cerebrum is involved in higher-order functions like thinking, memory, problem-solving, and language.</li>
+</ul>
+
+<!-- Image Placeholder for Brain and Cranial Nerve Functions -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Brain and Cranial Nerve Functions" />
+</div>
+
+<h3>5. Disorders of the Brain and Cranial Nerves</h3>
+<p>Various conditions can affect the brain and cranial nerves, leading to impairments in sensation, movement, and cognitive functions. Some of these include:</p>
+<ul>
+  <li><strong>Stroke:</strong> A disruption in blood flow to the brain, leading to the loss of function controlled by the affected area of the brain.</li>
+  <li><strong>Multiple Sclerosis (MS):</strong> An autoimmune disease where the immune system attacks the protective sheath around nerve fibers, affecting the brain and spinal cord.</li>
+  <li><strong>Parkinson’s Disease:</strong> A neurodegenerative disorder that primarily affects movement control, caused by the loss of dopamine-producing neurons in the brain.</li>
+  <li><strong>Bell’s Palsy:</strong> A condition causing sudden, temporary weakness or paralysis of facial muscles due to damage to the facial nerve (CN VII).</li>
+  <li><strong>Trigeminal Neuralgia:</strong> A disorder that causes severe facial pain along the trigeminal nerve (CN V), often triggered by light touch or movement.</li>
+</ul>
+
+<!-- Image Placeholder for Brain and Cranial Nerve Disorders -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Brain and Cranial Nerve Disorders" />
+</div>
+
+<h3>6. Aging and the Brain</h3>
+<p>As we age, the brain undergoes structural changes, including shrinkage of certain areas and reduced production of neurotransmitters. These changes may affect cognitive functions such as memory, attention, and learning. The risk of developing neurological disorders, such as dementia and Alzheimer's disease, also increases with age.</p>
+
+<!-- Image Placeholder for Aging Brain -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Aging Brain" />
+</div>`,
+      recap:
+        "In this lesson, we discussed the structure and function of the brain and its connection with the cranial nerves. The brain is essential for controlling body functions, processing sensory information, and enabling cognitive abilities. The twelve cranial nerves play a crucial role in facilitating communication between the brain and the rest of the body, particularly in the head and neck region.",
+      resources: [
+        {
+          title:
+            "Interactive Brain Atlas: Explore the brain and its regions in 3D.",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "YouTube Video on Cranial Nerves: Learn about the functions of each cranial nerve.",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "The Human Brain: Structure and Function by John Nolte: A comprehensive textbook on brain anatomy and function.",
+          url: "https://example.com/intro-anatomy",
+        },
+      ],
     },
     {
       id: 2,
