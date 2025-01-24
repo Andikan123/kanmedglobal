@@ -8,6 +8,7 @@ body {
 
 /* Topic Page Container */
 .topic-page {
+  margin-top: 5rem;
   max-width: 1200px;
   margin: 30px auto;
   padding: 20px;
