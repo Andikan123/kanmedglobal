@@ -174,15 +174,18 @@ export const anatomyTopics = {
         "In this lesson, we've introduced the basics of human anatomy, from its hierarchical organization to the various systems that maintain life. Understanding anatomy is fundamental to all areas of health and medical sciences, and it provides the foundation for more advanced studies in physiology, pathology, and medicine.",
       resources: [
         {
-          title: "Interactive Human Anatomy Atlas: Explore the human body in 3D.",
+          title:
+            "Interactive Human Anatomy Atlas: Explore the human body in 3D.",
           url: "https://example.com/intro-anatomy",
         },
         {
-          title: "YouTube Video on Human Anatomy: Overview of body systems and their functions.",
+          title:
+            "YouTube Video on Human Anatomy: Overview of body systems and their functions.",
           url: "https://example.com/intro-anatomy",
         },
         {
-          title: "Gray's Anatomy for Students by Richard Drake, Wayne Vogl, and Adam W. M. Mitchell.",
+          title:
+            "Gray's Anatomy for Students by Richard Drake, Wayne Vogl, and Adam W. M. Mitchell.",
           url: "https://example.com/intro-anatomy",
         },
       ],
@@ -192,12 +195,189 @@ export const anatomyTopics = {
       title: "Skeletal System",
       description: "Detailed study of bones and joints.",
       videoUrl: "https://www.youtube.com/embed/H0nMbkXK4-E",
+      content: `<h2>Overview</h2>
+<p>The skeletal system is composed of bones, joints, and cartilage, and it provides the structural framework for the body. It is responsible for protecting internal organs, enabling movement, storing and releasing minerals, and producing blood cells. The skeletal system is one of the body's most vital systems for maintaining overall health and function.</p>
+
+<h2>Lesson Content</h2>
+
+<h3>1. What is the Skeletal System?</h3>
+<p>The skeletal system is the framework of bones and cartilage that supports the body, protects internal organs, and enables movement. It is the foundation upon which muscles attach to allow movement. The system also plays an essential role in producing red blood cells (hematopoiesis) and storing essential minerals like calcium and phosphorus.</p>
+
+<h3>2. Structure of the Skeletal System</h3>
+<p>The skeletal system consists of bones, cartilage, and joints. The bones form the rigid structure, while cartilage provides flexible support at certain areas like the joints. Ligaments are connective tissues that connect bones to one another, while tendons connect muscles to bones. The system is categorized into two main parts:</p>
+<ul>
+  <li><strong>Axial Skeleton:</strong> Includes the bones along the body's long axis, such as the skull, vertebral column (spine), and rib cage. The axial skeleton supports and protects the brain, spinal cord, and thoracic organs (heart and lungs).</li>
+  <li><strong>Appendicular Skeleton:</strong> Comprises the bones of the limbs (arms and legs) and the girdles that attach them to the axial skeleton. This part is responsible for the body's movement.</li>
+</ul>
+
+<h3>3. Functions of the Skeletal System</h3>
+<p>The skeletal system performs several key functions, which include:</p>
+<ul>
+  <li><strong>Support:</strong> The skeleton provides structural support for the body, allowing it to stand upright and maintain shape.</li>
+  <li><strong>Protection:</strong> The bones protect vital organs, such as the brain, heart, and lungs. For example, the skull protects the brain, and the rib cage shields the heart and lungs.</li>
+  <li><strong>Movement:</strong> Bones serve as levers for muscles to act upon, facilitating movement. This is particularly important in the appendicular skeleton, where limbs are connected to the body.</li>
+  <li><strong>Mineral Storage:</strong> Bones store essential minerals like calcium and phosphorus. When the body requires these minerals, they are released from the bones into the bloodstream.</li>
+  <li><strong>Blood Cell Production:</strong> The red bone marrow in certain bones produces red blood cells, white blood cells, and platelets. This process is known as hematopoiesis.</li>
+</ul>
+
+<h3>4. Bone Classification</h3>
+<p>Bones can be classified based on their shape, and there are four main categories:</p>
+<ul>
+  <li><strong>Long Bones:</strong> These bones are longer than they are wide and are typically found in the limbs (e.g., femur, humerus). They are crucial for movement and provide support.</li>
+  <li><strong>Short Bones:</strong> These are roughly cube-shaped and provide stability with limited movement (e.g., carpals in the wrist, tarsals in the ankle).</li>
+  <li><strong>Flat Bones:</strong> These bones are thin and flat and serve to protect organs or provide surface area for muscle attachment (e.g., skull, ribs, sternum).</li>
+  <li><strong>Irregular Bones:</strong> These have complex shapes and are typically found in areas that do not fit into the other categories (e.g., vertebrae, facial bones).</li>
+</ul>
+
+<h3>5. Types of Joints in the Skeletal System</h3>
+<p>Joints are where two or more bones meet. Joints can be classified based on their structure or function:</p>
+<ul>
+  <li><strong>Fibrous Joints:</strong> These joints are connected by fibrous tissue and have little or no movement (e.g., sutures in the skull).</li>
+  <li><strong>Cartilaginous Joints:</strong> In these joints, the bones are connected by cartilage, allowing for limited movement (e.g., the intervertebral discs in the spine).</li>
+  <li><strong>Synovial Joints:</strong> These are the most common and freely movable joints in the body. They are surrounded by a synovial capsule and contain synovial fluid, which lubricates the joint (e.g., knee, elbow, hip, shoulder).</li>
+</ul>
+
+<h3>6. Bone Development and Growth</h3>
+<p>Bone growth and development occur through a process called ossification. There are two main types of ossification:</p>
+<ul>
+  <li><strong>Endochondral Ossification:</strong> This process involves the formation of bone from a cartilage model and is the way most bones develop.</li>
+  <li><strong>Intramembranous Ossification:</strong> This process involves the direct formation of bone from connective tissue and is how flat bones (such as the skull) form.</li>
+</ul>
+<p>Bone growth continues until the end of adolescence when the growth plates close. After that, bones can still undergo remodeling throughout life.</p>
+
+<h3>7. Common Skeletal System Disorders</h3>
+<p>The skeletal system can be affected by various disorders that can lead to pain, dysfunction, or even structural changes. Some common conditions include:</p>
+<ul>
+  <li><strong>Osteoporosis:</strong> A condition characterized by weakened bones that are more prone to fractures due to a decrease in bone density.</li>
+  <li><strong>Arthritis:</strong> Inflammation of the joints, which can lead to pain and reduced mobility. Common types include osteoarthritis and rheumatoid arthritis.</li>
+  <li><strong>Fractures:</strong> Breaks or cracks in bones caused by trauma or underlying conditions like osteoporosis.</li>
+  <li><strong>Scoliosis:</strong> An abnormal curvature of the spine.</li>
+</ul>
+
+<h3>8. Anatomical Terminology for the Skeletal System</h3>
+<p>To study the skeletal system effectively, it’s important to understand the following terms:</p>
+<ul>
+  <li><strong>Proximal:</strong> Closer to the attachment point of the limb to the trunk (e.g., the shoulder is proximal to the elbow).</li>
+  <li><strong>Distal:</strong> Farther from the attachment point of the limb to the trunk (e.g., the wrist is distal to the elbow).</li>
+  <li><strong>Medial:</strong> Toward the midline of the body (e.g., the sternum is medial to the ribs).</li>
+  <li><strong>Lateral:</strong> Away from the midline of the body (e.g., the ears are lateral to the eyes).</li>
+  <li><strong>Superior:</strong> Above or toward the head (e.g., the clavicle is superior to the ribs).</li>
+  <li><strong>Inferior:</strong> Below or toward the feet (e.g., the femur is inferior to the pelvis).</li>
+</ul>
+
+<h3>9. The Concept of Bone Remodeling</h3>
+<p>Bone remodeling is a continuous process where old bone tissue is replaced with new bone tissue. This process helps maintain the strength and integrity of bones and is essential for healing after fractures. The balance between bone resorption (removal) and bone formation can be influenced by factors like age, nutrition, and physical activity.</p>
+
+<h3>Recap</h3>
+<p>In this lesson, we've explored the key functions and components of the skeletal system. From bone structure and classification to its critical role in movement, protection, and mineral storage, the skeletal system is a fundamental part of human physiology. Understanding the skeletal system is essential for appreciating how the body maintains its form and performs its various functions.</p>
+
+<h3>Resources</h3>
+<ul>
+  <li><a href="https://example.com/skeletal-anatomy">Interactive Skeletal System Model: Explore 3D models of the skeletal system.</a></li>
+  <li><a href="https://example.com/3d-bone-anatomy">3D Anatomy of the Human Skeleton: Learn about individual bones and joints.</a></li>
+  <li><a href="https://example.com/skeletal-textbook">"Human Anatomy & Physiology" by Elaine Marieb</a></li>
+</ul>
+`,
+      recap:
+        "In this lesson, we've explored the structure and functions of the skeletal system, including how it provides support, protection, enables movement, stores minerals, and produces blood cells. We’ve also learned about bone classification, joint types, and bone development. Understanding the skeletal system is essential for comprehending how the body maintains its structure and performs vital functions like movement and protection of internal organs.",
+      resources: [
+        {
+          title:
+            "Interactive Skeletal System Model: Explore the human skeleton in 3D.",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "YouTube Video on Skeletal System: An in-depth look at bones, joints, and their functions.",
+          url: "https://example.com/intro-anatomy",
+        },
+        {
+          title:
+            "Human Anatomy by Elaine Marieb: A detailed guide to the structure and functions of the skeletal system.",
+          url: "https://example.com/intro-anatomy",
+        },
+      ],
     },
     {
       id: 3,
       title: "Muscular System",
       description: "Study of muscles and their functions.",
       videoUrl: "https://www.youtube.com/embed/H0nMbkXK4-E",
+      content:`<h2>Overview</h2>
+<p>The muscular system is a biological system consisting of muscles and tendons that allow movement of the body and its parts. The system is also involved in maintaining posture and generating heat. Muscles contract and work in pairs to produce movement. There are three main types of muscles: skeletal, smooth, and cardiac, each playing a unique role in the body.</p>
+
+<h2>Lesson Content</h2>
+
+<h3>1. What is the Muscular System?</h3>
+<p>The muscular system is responsible for body movement and stability. Muscles contract in response to stimuli from the nervous system, allowing us to move, maintain posture, and perform vital functions like breathing. This system includes over 600 muscles in the body, and each muscle works in coordination with others to produce efficient movement and bodily functions.</p>
+
+<h3>2. Types of Muscles</h3>
+<p>The muscular system is divided into three main types of muscles:</p>
+<ul>
+  <li><strong>Skeletal Muscles:</strong> These muscles are attached to bones by tendons and are responsible for voluntary movement. Skeletal muscles allow us to move our limbs, face, and torso. They are controlled by the somatic nervous system.</li>
+  <li><strong>Smooth Muscles:</strong> Found in the walls of internal organs such as the stomach, intestines, and blood vessels, smooth muscles are involuntary and responsible for movements like peristalsis (the movement of food through the digestive system) and the constriction and relaxation of blood vessels.</li>
+  <li><strong>Cardiac Muscles:</strong> Located only in the heart, cardiac muscles are involuntary muscles that enable the heart to beat and pump blood throughout the body. Cardiac muscle contractions are regulated by the autonomic nervous system.</li>
+</ul>
+
+<h3>3. Muscle Function and Movement</h3>
+<p>Muscle contractions are the driving force behind all movement in the body. Muscles work by contracting and relaxing in response to signals from the nervous system. There are two basic types of muscle contractions:</p>
+<ul>
+  <li><strong>Concentric Contraction:</strong> The muscle shortens as it contracts, producing movement (e.g., lifting a weight).</li>
+  <li><strong>Eccentric Contraction:</strong> The muscle lengthens while contracting, helping to slow down movement or resist a force (e.g., lowering a weight back down).</li>
+</ul>
+<p>Muscles usually work in pairs: while one muscle contracts (agonist), the opposing muscle relaxes (antagonist) to allow smooth movement. This principle is known as reciprocal inhibition.</p>
+
+<h3>4. Muscle Structure</h3>
+<p>Each muscle is made up of individual muscle fibers, and these fibers are organized into bundles called fascicles. The muscle fibers themselves contain myofibrils, which are made up of smaller units called sarcomeres. Sarcomeres are the basic contractile units of muscle and contain two primary proteins: actin (thin filaments) and myosin (thick filaments). When these proteins interact, they cause the muscle to contract.</p>
+
+<h3>5. Muscular Disorders</h3>
+<p>Several disorders can affect the muscular system, ranging from minor muscle strains to more severe conditions such as:</p>
+<ul>
+  <li><strong>Muscle Strains:</strong> Occur when muscles are overstretched or torn, often from overuse or improper movement.</li>
+  <li><strong>Muscular Dystrophy:</strong> A genetic disorder that causes progressive weakness and loss of muscle mass.</li>
+  <li><strong>Fibromyalgia:</strong> A condition characterized by widespread muscle pain and tenderness.</li>
+  <li><strong>Myasthenia Gravis:</strong> An autoimmune disease that causes weakness in the skeletal muscles, often affecting the eyes and face.</li>
+</ul>
+
+<h3>6. The Role of Exercise in Muscle Health</h3>
+<p>Regular exercise is crucial for maintaining muscle strength and flexibility. Both aerobic exercises (like walking or running) and resistance training (such as lifting weights) help build muscle mass and improve muscle function. Stretching exercises help maintain flexibility and prevent muscle injuries.</p>
+
+<h3>7. Anatomical Terminology in Muscular System</h3>
+<p>To study muscles effectively, it’s important to understand key anatomical terms used to describe muscle location and function:</p>
+<ul>
+  <li><strong>Origin:</strong> The fixed attachment point of a muscle, usually on a bone.</li>
+  <li><strong>Insertion:</strong> The movable attachment point of a muscle.</li>
+  <li><strong>Prime Mover (Agonist):</strong> The muscle responsible for the majority of movement in a particular action.</li>
+  <li><strong>Antagonist:</strong> The muscle that opposes the action of the agonist muscle.</li>
+  <li><strong>Synergist:</strong> Muscles that assist the prime mover in performing an action.</li>
+  <li><strong>Flexion:</strong> Decreasing the angle between two body parts.</li>
+  <li><strong>Extension:</strong> Increasing the angle between two body parts.</li>
+</ul>
+
+<h3>8. The Concept of Muscle Tone</h3>
+<p>Muscle tone refers to the continuous and passive partial contraction of muscles, which helps maintain posture and is essential for balance. Even when not consciously contracting a muscle, the body maintains a small level of muscle activity.</p>
+
+<h3>9. The Nervous System and Muscles</h3>
+<p>Muscle movement is controlled by the nervous system, which sends signals from the brain to muscles through motor neurons. These signals are transmitted at the neuromuscular junction, where the motor neuron meets the muscle fiber. This process allows muscles to contract and perform voluntary and involuntary movements.</p>
+`,
+recap: "In this lesson, we have introduced the basics of the muscular system, from its structure and function to the different types of muscles and their roles in movement. We have also explored muscle health, common disorders, and how exercise plays a key role in maintaining muscle strength and function. Understanding the muscular system is vital for anyone studying human physiology, sports medicine, or physical therapy.",
+resources: [
+  {
+    title:
+      "Interactive 3D Muscle Model: Explore muscles and their functions in detail.",
+    url: "https://example.com/intro-anatomy",
+  },
+  {
+    title:
+      "YouTube Video on the Muscular System",
+    url: "https://example.com/intro-anatomy",
+  },
+  {
+    title:
+      "Muscle: The Remarkable Story of the Human Body's Most Essential Organ by Jeffrey S. L. N.",
+    url: "https://example.com/intro-anatomy",
+  },
+],
     },
     {
       id: 4,
