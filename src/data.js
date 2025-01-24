@@ -602,12 +602,268 @@ resources: [
       title: "Digestive System",
       description: "Structure and function of the digestive tract.",
       videoUrl: "https://www.youtube.com/embed/H0nMbkXK4-E",
+      content: `<h2>Overview</h2>
+<p>The digestive system is responsible for breaking down food into nutrients, which the body uses for energy, growth, and cell repair. It also eliminates waste products from the body. This complex system involves various organs that work together to process food, absorb nutrients, and expel undigested material.</p>
+
+<!-- Image Placeholder for Digestive System Overview -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Digestive System Overview" />
+</div>
+
+<h2>Lesson Content</h2>
+
+<h3>1. What is the Digestive System?</h3>
+<p>The digestive system consists of a series of organs that convert food into energy and nutrients, allowing the body to function properly. This process involves mechanical digestion (such as chewing) and chemical digestion (such as enzyme breakdown of food). The system is essential for overall health, providing the nutrients required for bodily functions and maintaining homeostasis.</p>
+
+<!-- Image Placeholder for Digestive Process -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Digestive Process" />
+</div>
+
+<h3>2. Structure of the Digestive System</h3>
+<p>The digestive system is made up of the digestive tract (also called the alimentary canal) and accessory organs. The main organs involved in digestion include:</p>
+<ul>
+  <li><strong>Mouth:</strong> The process of digestion begins in the mouth, where food is ingested and broken down by chewing and saliva. Saliva contains enzymes that start breaking down carbohydrates.</li>
+  <li><strong>Esophagus:</strong> The esophagus is a muscular tube that moves swallowed food from the mouth to the stomach through a process called peristalsis (rhythmic muscle contractions).</li>
+  <li><strong>Stomach:</strong> The stomach is a muscular organ that stores food, mixes it with digestive juices, and begins the process of protein digestion. The stomach’s acidic environment helps break down food and kills harmful bacteria.</li>
+  <li><strong>Small Intestine:</strong> The small intestine is the primary site for nutrient absorption. It is composed of three parts: the duodenum, jejunum, and ileum. The majority of digestion and nutrient absorption occurs here.</li>
+  <li><strong>Liver:</strong> The liver produces bile, which helps digest fats and neutralizes toxins in the body. It also stores nutrients and releases them into the bloodstream when needed.</li>
+  <li><strong>Gallbladder:</strong> The gallbladder stores bile produced by the liver and releases it into the small intestine to aid in the digestion of fats.</li>
+  <li><strong>Pancreas:</strong> The pancreas secretes digestive enzymes and bicarbonate into the small intestine. These enzymes break down carbohydrates, proteins, and fats, and the bicarbonate neutralizes stomach acid.</li>
+  <li><strong>Large Intestine:</strong> The large intestine absorbs water and salts from the remaining indigestible food matter, forming solid waste (feces) that is eliminated through the rectum and anus.</li>
+</ul>
+
+<!-- Image Placeholder for Digestive Organs -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Digestive System Organs" />
+</div>
+
+<h3>3. The Process of Digestion</h3>
+<p>Digestion is a multi-step process that involves both mechanical and chemical digestion:</p>
+<ul>
+  <li><strong>Ingestion:</strong> Food is taken into the mouth, where it is chewed and mixed with saliva. This begins the breakdown of carbohydrates.</li>
+  <li><strong>Propulsion:</strong> After swallowing, food moves down the esophagus through peristalsis and into the stomach.</li>
+  <li><strong>Mechanical Digestion:</strong> In the stomach and small intestine, food is physically broken down by muscle contractions, grinding, and churning.</li>
+  <li><strong>Chemical Digestion:</strong> Enzymes and acids in the stomach and small intestine break down food into smaller molecules, such as proteins into amino acids and carbohydrates into simple sugars.</li>
+  <li><strong>Absorption:</strong> In the small intestine, the majority of nutrients are absorbed into the bloodstream through tiny finger-like projections called villi and microvilli.</li>
+  <li><strong>Defecation:</strong> Undigested food and waste products are moved into the large intestine, where water is absorbed and solid waste is eventually eliminated through the anus.</li>
+</ul>
+
+<!-- Image Placeholder for Digestion Process -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Digestion Process" />
+</div>
+
+<h3>4. The Role of Enzymes and Bile in Digestion</h3>
+<p>Enzymes play a crucial role in breaking down large food molecules into smaller molecules that can be absorbed by the body. Different enzymes target specific types of nutrients:</p>
+<ul>
+  <li><strong>Amylase:</strong> An enzyme in saliva and pancreatic fluid that breaks down carbohydrates into simple sugars.</li>
+  <li><strong>Proteases:</strong> Enzymes that break down proteins into amino acids. Pepsin in the stomach is a key example.</li>
+  <li><strong>Lipase:</strong> An enzyme that breaks down fats into fatty acids and glycerol.</li>
+  <li><strong>Bile:</strong> Produced by the liver and stored in the gallbladder, bile helps emulsify fats, making them easier to digest by enzymes.</li>
+</ul>
+
+<!-- Image Placeholder for Enzymes and Bile -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Enzymes and Bile" />
+</div>
+
+<h3>5. Absorption of Nutrients</h3>
+<p>The small intestine is the primary site for nutrient absorption. After food is broken down into its component nutrients, they are absorbed through the walls of the small intestine into the bloodstream. The villi and microvilli (tiny hair-like structures) increase the surface area for absorption, allowing for more efficient nutrient uptake.</p>
+
+<!-- Image Placeholder for Nutrient Absorption -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Nutrient Absorption in Small Intestine" />
+</div>
+
+<h3>6. Disorders of the Digestive System</h3>
+<p>Various conditions can affect the digestive system, impairing its function and disrupting the process of digestion and absorption. Some common disorders include:</p>
+<ul>
+  <li><strong>Gastroesophageal Reflux Disease (GERD):</strong> A condition in which stomach acid frequently leaks into the esophagus, causing heartburn and discomfort.</li>
+  <li><strong>Ulcers:</strong> Open sores that develop on the lining of the stomach or small intestine, often caused by bacterial infection or excessive use of certain medications.</li>
+  <li><strong>Inflammatory Bowel Disease (IBD):</strong> Chronic inflammation of the digestive tract, which includes Crohn’s disease and ulcerative colitis.</li>
+  <li><strong>Celiac Disease:</strong> An autoimmune disorder in which the ingestion of gluten triggers an immune response that damages the small intestine lining, impairing nutrient absorption.</li>
+  <li><strong>Lactose Intolerance:</strong> A condition in which the body is unable to properly digest lactose, leading to digestive discomfort after consuming dairy products.</li>
+</ul>
+
+<!-- Image Placeholder for Digestive Disorders -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Digestive Disorders" />
+</div>
+
+<h3>7. Anatomical Terminology for the Digestive System</h3>
+<p>To understand the digestive system’s anatomy, it's helpful to know some anatomical terms:</p>
+<ul>
+  <li><strong>Superior:</strong> Toward the top or head, such as the upper part of the stomach.</li>
+  <li><strong>Inferior:</strong> Toward the bottom or feet, such as the lower part of the intestines.</li>
+  <li><strong>Medial:</strong> Toward the midline of the body, such as the middle of the digestive tract.</li>
+  <li><strong>Lateral:</strong> Away from the midline, such as the sides of the intestines.</li>
+  <li><strong>Anterior (Ventral):</strong> Toward the front of the body, such as the front portion of the stomach.</li>
+  <li><strong>Posterior (Dorsal):</strong> Toward the back of the body, such as the back part of the intestines.</li>
+</ul>
+
+<h3>8. The Concept of Homeostasis in the Digestive System</h3>
+<p>The digestive system plays a vital role in maintaining homeostasis by providing the body with essential nutrients and energy. By breaking down food into simpler substances and absorbing nutrients, the digestive system ensures that cells receive the proper nutrients needed for growth, repair, and energy production. It also helps in the elimination of waste products, preventing the build-up of harmful substances in the body.</p>
+
+<!-- Image Placeholder for Homeostasis -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Homeostasis in Digestive System" />
+</div>
+`,
+recap: "In this lesson, we have explored the structure and function of the digestive system, from the mouth to the large intestine. We have learned how digestion involves both mechanical and chemical processes, the role of enzymes and bile in breaking down food, and how the system absorbs nutrients and eliminates waste. Understanding the digestive system is crucial for maintaining health and preventing digestive disorders.",
+resources: [
+  {
+    title:
+      "Interactive Digestive System Atlas: Explore the human digestive system in 3D.",
+    url: "https://example.com/intro-anatomy",
+  },
+  {
+    title:
+      "YouTube Video on Digestive System: A detailed overview of digestive anatomy and physiology.",
+    url: "https://example.com/intro-anatomy",
+  },
+  {
+    title:
+      "Human Physiology by Stuart Fox: A comprehensive resource on digestion and other physiological processes.",
+    url: "https://example.com/intro-anatomy",
+  },
+],
     },
     {
       id: 7,
       title: "Nervous System",
       description: "Overview of the brain, spinal cord, and peripheral nerves.",
       videoUrl: "https://www.youtube.com/embed/H0nMbkXK4-E",
+      content:`<h2>Overview</h2>
+<p>The nervous system is responsible for transmitting signals throughout the body, controlling and coordinating body activities. It consists of the brain, spinal cord, and a network of nerves that extend throughout the body. The nervous system helps regulate functions such as movement, sensation, cognition, and homeostasis.</p>
+
+<!-- Image Placeholder for Nervous System Overview -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Nervous System Overview" />
+</div>
+
+<h2>Lesson Content</h2>
+
+<h3>1. What is the Nervous System?</h3>
+<p>The nervous system is the body's communication network, responsible for sending, receiving, and processing nerve impulses. It allows the body to respond to internal and external stimuli. The system is divided into two main parts: the central nervous system (CNS) and the peripheral nervous system (PNS).</p>
+
+<!-- Image Placeholder for Nervous System Structure -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Nervous System Structure" />
+</div>
+
+<h3>2. Components of the Nervous System</h3>
+<p>The nervous system consists of several key components, each with its specific function:</p>
+<ul>
+  <li><strong>Brain:</strong> The brain is the control center of the body. It processes sensory information, controls motor functions, and is responsible for cognition, emotions, and memory.</li>
+  <li><strong>Spinal Cord:</strong> The spinal cord acts as a pathway for communication between the brain and the rest of the body. It transmits sensory and motor information and coordinates reflexes.</li>
+  <li><strong>Nerves:</strong> Nerves are bundles of axons that carry electrical impulses to and from the brain and spinal cord. They are part of the peripheral nervous system.</li>
+</ul>
+
+<!-- Image Placeholder for Brain and Spinal Cord -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Brain and Spinal Cord" />
+</div>
+
+<h3>3. The Central Nervous System (CNS)</h3>
+<p>The central nervous system consists of the brain and spinal cord. It serves as the main processing center for information in the body.</p>
+<ul>
+  <li><strong>Brain:</strong> The brain is divided into several parts, each responsible for different functions:</li>
+  <ul>
+    <li><strong>Cerebrum:</strong> The largest part of the brain, responsible for higher functions such as thinking, memory, and voluntary movement.</li>
+    <li><strong>Cerebellum:</strong> Located at the back of the brain, the cerebellum is responsible for coordinating movement, balance, and posture.</li>
+    <li><strong>Brainstem:</strong> The brainstem connects the brain to the spinal cord and controls vital functions such as heart rate, breathing, and digestion.</li>
+  </ul>
+  <li><strong>Spinal Cord:</strong> The spinal cord is a long, tubular structure that extends from the brainstem down the vertebral column. It serves as a conduit for information traveling to and from the brain.</li>
+</ul>
+
+<!-- Image Placeholder for Central Nervous System -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Central Nervous System" />
+</div>
+
+<h3>4. The Peripheral Nervous System (PNS)</h3>
+<p>The peripheral nervous system connects the central nervous system to the limbs and organs. It is divided into two parts:</p>
+<ul>
+  <li><strong>Somatic Nervous System:</strong> The somatic system controls voluntary movements of skeletal muscles and conveys sensory information to the CNS.</li>
+  <li><strong>Autonomic Nervous System:</strong> The autonomic system controls involuntary functions such as heart rate, digestion, and breathing. It has two branches:</li>
+  <ul>
+    <li><strong>Sympathetic Nervous System:</strong> This branch prepares the body for "fight or flight" responses, increasing heart rate and energy expenditure.</li>
+    <li><strong>Parasympathetic Nervous System:</strong> The parasympathetic system promotes "rest and digest" functions, slowing heart rate and aiding in digestion.</li>
+  </ul>
+</ul>
+
+<!-- Image Placeholder for Peripheral Nervous System -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Peripheral Nervous System" />
+</div>
+
+<h3>5. Nerve Impulses and Communication</h3>
+<p>Nerve impulses are electrical signals that transmit information throughout the body. Neurons, the cells of the nervous system, communicate by sending electrical impulses along their axons. These impulses travel across synapses (gaps between neurons) with the help of neurotransmitters. The communication process is essential for motor functions, sensory perception, and cognition.</p>
+
+<!-- Image Placeholder for Nerve Impulse -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Nerve Impulse Transmission" />
+</div>
+
+<h3>6. Reflexes and the Nervous System</h3>
+<p>Reflexes are automatic, rapid responses to stimuli that do not require conscious thought. The spinal cord plays a central role in reflexes, acting as an intermediary between sensory input and motor output. A common example of a reflex is the patellar (knee-jerk) reflex.</p>
+
+<!-- Image Placeholder for Reflexes -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Reflex Action" />
+</div>
+
+<h3>7. Disorders of the Nervous System</h3>
+<p>Several conditions can affect the nervous system, leading to various symptoms and complications:</p>
+<ul>
+  <li><strong>Parkinson's Disease:</strong> A neurodegenerative disorder that affects movement, causing tremors, stiffness, and slow movement.</li>
+  <li><strong>Multiple Sclerosis:</strong> An autoimmune disease that damages the protective covering of nerve fibers in the CNS, impairing communication between the brain and the body.</li>
+  <li><strong>Alzheimer's Disease:</strong> A progressive condition that affects memory, thinking, and behavior, eventually leading to loss of cognitive function.</li>
+  <li><strong>Stroke:</strong> A stroke occurs when there is a disruption of blood flow to the brain, causing damage to brain cells and impairing neurological function.</li>
+  <li><strong>Epilepsy:</strong> A disorder characterized by recurrent, unprovoked seizures due to abnormal electrical activity in the brain.</li>
+</ul>
+
+<!-- Image Placeholder for Nervous System Disorders -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Nervous System Disorders" />
+</div>
+
+<h3>8. Anatomical Terminology for the Nervous System</h3>
+<p>Understanding the anatomy of the nervous system requires knowledge of certain anatomical terms:</p>
+<ul>
+  <li><strong>Cranial:</strong> Refers to structures related to the skull or head region, such as cranial nerves.</li>
+  <li><strong>Spinal:</strong> Refers to structures related to the spinal cord, such as spinal nerves.</li>
+  <li><strong>Peripheral:</strong> Refers to structures outside the central nervous system, including peripheral nerves and ganglia.</li>
+  <li><strong>Sympathetic:</strong> Refers to the part of the autonomic nervous system responsible for the "fight or flight" response.</li>
+  <li><strong>Parasympathetic:</strong> Refers to the part of the autonomic nervous system responsible for "rest and digest" functions.</li>
+</ul>
+
+<h3>9. The Concept of Homeostasis in the Nervous System</h3>
+<p>The nervous system plays a key role in maintaining homeostasis by regulating processes such as body temperature, heart rate, and blood pressure. It helps coordinate the body’s response to changes in the environment, ensuring that internal conditions remain stable despite external fluctuations.</p>
+
+<!-- Image Placeholder for Homeostasis in Nervous System -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Homeostasis and Nervous System" />
+</div>`,
+recap: "In this lesson, we have explored the structure and function of the nervous system, including the central and peripheral nervous systems. We have learned how neurons transmit electrical impulses, the role of reflexes in maintaining body functions, and how the nervous system maintains homeostasis. Understanding the nervous system is essential for recognizing and treating neurological disorders.",
+resources: [
+  {
+    title:
+      "Interactive Nervous System Atlas: Explore the human nervous system in 3D.",
+    url: "https://example.com/intro-anatomy",
+  },
+  {
+    title:
+      "YouTube Video on Nervous System: An overview of nervous anatomy and physiology.",
+    url: "https://example.com/intro-anatomy",
+  },
+  {
+    title:
+      "Neuroscience: Exploring the Brain by Mark Bear, Barry Connors, and Michael Paradiso: A comprehensive textbook on the nervous system.",
+    url: "https://example.com/intro-anatomy",
+  },
+],
     },
     {
       id: 8,
