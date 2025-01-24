@@ -1808,6 +1808,133 @@ export const anatomyTopics = {
       title: "Pelvic Anatomy",
       description: "Study of pelvic organs and structures.",
       videoUrl: "https://www.youtube.com/embed/H0nMbkXK4-E",
+      content:`
+<!-- Image Placeholder for Pelvic Cavity Overview -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Overview of Pelvic Anatomy" />
+</div>
+
+<h2>Lesson Content</h2>
+
+<h3>1. Pelvic Boundaries</h3>
+<p>The pelvic cavity is surrounded by several bony and soft tissue structures, which give it its shape and define its function. These boundaries include:</p>
+
+<ul>
+  <li><strong>Superior Boundary:</strong> The pelvic inlet, formed by the pelvic brim, which separates the pelvic cavity from the abdominal cavity.</li>
+  <li><strong>Inferior Boundary:</strong> The pelvic floor, composed of muscles and connective tissue that form a support structure for the pelvic organs.</li>
+  <li><strong>Anterior Boundary:</strong> The pubic symphysis, a joint where the two pubic bones meet at the front of the pelvis.</li>
+  <li><strong>Lateral Boundaries:</strong> The hip bones (ilium, ischium, and pubis) and the muscles that line the sides of the pelvic cavity.</li>
+  <li><strong>Posterior Boundary:</strong> The sacrum and coccyx, which form the back portion of the pelvis and contribute to its stability.</li>
+</ul>
+
+<p>The pelvic cavity is critical for supporting and protecting the organs of the reproductive, urinary, and digestive systems, while also providing a base for the muscles that facilitate movement and stability.</p>
+
+<!-- Image Placeholder for Pelvic Boundaries -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Pelvic Cavity Boundaries" />
+</div>
+
+<h3>2. Major Organs in the Pelvic Cavity</h3>
+<p>The pelvic cavity contains organs related to several vital functions. These organs include:</p>
+
+<ul>
+  <li><strong>Urinary System:</strong> The bladder, located in the pelvic cavity, stores urine before it is excreted through the urethra. The ureters also pass through the pelvis to drain urine from the kidneys to the bladder.</li>
+  <li><strong>Reproductive System (in both genders):</strong> The male reproductive organs include the prostate, seminal vesicles, and part of the urethra. In females, the pelvic cavity contains the uterus, ovaries, fallopian tubes, and part of the vagina.</li>
+  <li><strong>Rectum:</strong> The lower part of the large intestine, which stores and eliminates fecal waste, passes through the pelvic cavity before exiting the body.</li>
+</ul>
+
+<p>These organs are vital for bodily functions such as waste elimination, reproduction, and fluid balance. The pelvic cavity plays an essential role in maintaining the proper function of these organs by providing a protected space and structural support.</p>
+
+<!-- Image Placeholder for Pelvic Organs -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Pelvic Organs" />
+</div>
+
+<h3>3. Pelvic Floor Muscles</h3>
+<p>The pelvic floor is a group of muscles and connective tissues that span the bottom of the pelvic cavity. These muscles support the organs of the pelvic cavity and are involved in various functions:</p>
+
+<ul>
+  <li><strong>Support of Pelvic Organs:</strong> The pelvic floor muscles help support the bladder, rectum, and reproductive organs.</li>
+  <li><strong>Control of Urination and Defecation:</strong> These muscles play a crucial role in controlling the release of urine and feces.</li>
+  <li><strong>Sexual Function:</strong> The pelvic floor muscles contribute to sexual health, including sensation and sexual response.</li>
+  <li><strong>Childbirth:</strong> In females, the pelvic floor muscles stretch and allow for the passage of the baby during childbirth.</li>
+</ul>
+
+<p>Pelvic floor dysfunction can lead to conditions such as urinary incontinence, prolapse, or sexual health issues, making it essential to maintain pelvic floor health through exercises such as Kegels.</p>
+
+<!-- Image Placeholder for Pelvic Floor Muscles -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Pelvic Floor Muscles" />
+</div>
+
+<h3>4. Pelvic Blood Supply</h3>
+<p>The pelvic cavity is richly supplied with blood from several major arteries, including:</p>
+
+<ul>
+  <li><strong>Internal Iliac Artery:</strong> The primary blood vessel supplying the pelvic organs, muscles, and perineum. It branches into multiple smaller arteries that serve the bladder, rectum, and reproductive organs.</li>
+  <li><strong>External Iliac Artery:</strong> Supplies blood to the lower limbs, but its branches also contribute to the abdominal wall and some pelvic muscles.</li>
+  <li><strong>Ovarian and Testicular Arteries:</strong> These arteries supply blood to the ovaries and testes, respectively.</li>
+</ul>
+
+<p>Veins in the pelvic region, such as the internal iliac vein, return deoxygenated blood from the pelvic organs to the heart through the inferior vena cava.</p>
+
+<!-- Image Placeholder for Pelvic Blood Supply -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Pelvic Blood Supply" />
+</div>
+
+<h3>5. Pelvic Muscles and Ligaments</h3>
+<p>The pelvis also contains various muscles and ligaments that provide stability, support movement, and maintain the function of pelvic organs. These include:</p>
+
+<ul>
+  <li><strong>Hip Muscles:</strong> The muscles that move and stabilize the hip joint, such as the gluteus maximus and iliopsoas muscles, are located around the pelvic region.</li>
+  <li><strong>Pelvic Ligaments:</strong> Ligaments such as the round ligament and broad ligament in females support the uterus and other reproductive organs. The sacroiliac ligaments and pelvic diaphragm provide stability to the pelvic region.</li>
+</ul>
+
+<p>These muscles and ligaments work together to maintain posture, support bodily movements, and protect the pelvic organs.</p>
+
+<!-- Image Placeholder for Pelvic Muscles and Ligaments -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Pelvic Muscles and Ligaments" />
+</div>
+
+<h3>6. Pelvic Cavity Disorders</h3>
+<p>Pelvic disorders can affect any of the organs or structures within the pelvic cavity. Some common disorders include:</p>
+
+<ul>
+  <li><strong>Pelvic Inflammatory Disease (PID):</strong> An infection of the reproductive organs, often caused by sexually transmitted infections.</li>
+  <li><strong>Urinary Incontinence:</strong> The inability to control urination due to weakness or damage to the pelvic floor muscles.</li>
+  <li><strong>Prolapse:</strong> The dropping of pelvic organs (such as the bladder, uterus, or rectum) into the vaginal canal due to weakened pelvic floor muscles.</li>
+  <li><strong>Endometriosis:</strong> A condition where tissue similar to the uterine lining grows outside the uterus, causing pain and fertility issues.</li>
+  <li><strong>Pelvic Fractures:</strong> Breaks or cracks in the pelvic bones, usually resulting from trauma or injury.</li>
+</ul>
+
+<p>Understanding pelvic anatomy and function is crucial for diagnosing and treating these conditions. Preventative measures like maintaining pelvic floor health through exercises can reduce the risk of developing pelvic disorders.</p>
+
+<!-- Image Placeholder for Pelvic Disorders -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Pelvic Disorders" />
+</div>`,
+recap:
+"In this lesson, we have explored the anatomy of the pelvic cavity, including its boundaries, major organs, and supporting structures. Understanding pelvic anatomy is essential for diagnosing and treating conditions related to the urinary, reproductive, and digestive systems, as well as for maintaining pelvic health.</p>",
+resources: [
+{
+  title:
+    "Interactive 3D Model of the Pelvic Cavity: Explore the structures within the pelvis.",
+  url: "https://example.com/intro-anatomy",
+},
+{
+  title:
+    "YouTube Video on Pelvic Anatomy: Learn more about the pelvic organs and their functions.",
+  url: "https://example.com/intro-anatomy",
+},
+{
+  title:
+    "Clinical Anatomy of the Pelvis by Dr. Sarah Knight: A detailed textbook on pelvic anatomy.",
+  url: "https://example.com/intro-anatomy",
+},
+],
+
     },
     {
       id: 7,
