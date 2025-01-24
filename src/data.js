@@ -870,6 +870,111 @@ resources: [
       title: "Endocrine System",
       description: "Hormonal regulation and glands of the body.",
       videoUrl: "https://www.youtube.com/embed/H0nMbkXK4-E",
+      content:`<h2>Overview</h2>
+<p>The endocrine system is a network of glands that produce and secrete hormones, which are chemical messengers that regulate various bodily functions. The endocrine system helps control growth, metabolism, mood, sexual function, and more. It plays a crucial role in maintaining homeostasis in the body.</p>
+
+<!-- Image Placeholder for Endocrine System Overview -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Endocrine System Overview" />
+</div>
+
+<h2>Lesson Content</h2>
+
+<h3>1. What is the Endocrine System?</h3>
+<p>The endocrine system consists of glands that secrete hormones directly into the bloodstream. These hormones regulate the activity of target organs, tissues, and cells. Hormones control critical processes such as growth, metabolism, reproduction, and stress response. Key glands in the endocrine system include the pituitary gland, thyroid gland, adrenal glands, and pancreas.</p>
+
+<!-- Image Placeholder for Endocrine System Structure -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Endocrine System Structure" />
+</div>
+
+<h3>2. Key Glands of the Endocrine System</h3>
+<p>The endocrine system is made up of several important glands, each responsible for producing specific hormones that regulate different functions in the body:</p>
+<ul>
+  <li><strong>Hypothalamus:</strong> Located in the brain, the hypothalamus controls the release of hormones from the pituitary gland and regulates vital processes such as body temperature, hunger, and thirst.</li>
+  <li><strong>Pituitary Gland:</strong> Often referred to as the "master gland," the pituitary gland controls other endocrine glands and regulates functions like growth, reproduction, and metabolism. It is divided into the anterior and posterior lobes, each responsible for producing different hormones.</li>
+  <li><strong>Thyroid Gland:</strong> Located in the neck, the thyroid gland produces thyroid hormones (T3 and T4) that regulate metabolism, energy production, and body temperature.</li>
+  <li><strong>Parathyroid Glands:</strong> Located behind the thyroid, the parathyroid glands produce parathyroid hormone (PTH), which regulates calcium and phosphorus balance in the body.</li>
+  <li><strong>Adrenal Glands:</strong> The adrenal glands, located on top of the kidneys, produce hormones such as cortisol (stress hormone), adrenaline (fight-or-flight response), and aldosterone (regulates blood pressure).</li>
+  <li><strong>Pancreas:</strong> The pancreas has both endocrine and exocrine functions. As part of the endocrine system, it produces insulin and glucagon, which regulate blood sugar levels.</li>
+  <li><strong>Ovaries (in females):</strong> The ovaries produce estrogen and progesterone, hormones involved in the menstrual cycle, pregnancy, and secondary sexual characteristics in women.</li>
+  <li><strong>Testes (in males):</strong> The testes produce testosterone, the hormone responsible for male sexual development, sperm production, and maintenance of male reproductive health.</li>
+</ul>
+
+<!-- Image Placeholder for Key Endocrine Glands -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Key Endocrine Glands" />
+</div>
+
+<h3>3. Hormonal Regulation and Feedback Mechanisms</h3>
+<p>The endocrine system relies on feedback mechanisms to regulate hormone levels and maintain balance in the body. These mechanisms can be positive or negative feedback loops:</p>
+<ul>
+  <li><strong>Negative Feedback:</strong> The most common type of feedback, in which an increase in a hormone triggers a response that decreases the hormone's production. For example, high levels of thyroid hormones reduce the secretion of thyroid-stimulating hormone (TSH) from the pituitary gland, which in turn decreases thyroid hormone production.</li>
+  <li><strong>Positive Feedback:</strong> Less common, positive feedback occurs when the release of a hormone leads to a response that stimulates further hormone production. An example of this is the release of oxytocin during childbirth, which intensifies uterine contractions and promotes further oxytocin release.</li>
+</ul>
+
+<!-- Image Placeholder for Feedback Mechanisms -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Hormonal Feedback Mechanism" />
+</div>
+
+<h3>4. Major Hormones and Their Functions</h3>
+<p>Here are some of the major hormones produced by the endocrine glands and their roles in the body:</p>
+<ul>
+  <li><strong>Insulin:</strong> Produced by the pancreas, insulin regulates blood sugar levels by facilitating the uptake of glucose into cells for energy production or storage.</li>
+  <li><strong>Thyroxine (T3 and T4):</strong> Produced by the thyroid gland, these hormones regulate metabolism, energy production, and overall growth and development.</li>
+  <li><strong>Cortisol:</strong> Produced by the adrenal glands, cortisol helps the body respond to stress, regulate metabolism, and control inflammation.</li>
+  <li><strong>Estrogen and Progesterone:</strong> Produced by the ovaries, these hormones regulate the female reproductive system, including menstrual cycles, pregnancy, and secondary sexual characteristics.</li>
+  <li><strong>Testosterone:</strong> Produced by the testes, testosterone is responsible for the development of male secondary sexual characteristics, sperm production, and muscle growth.</li>
+  <li><strong>Growth Hormone (GH):</strong> Produced by the pituitary gland, growth hormone stimulates growth and development by promoting cell reproduction and regeneration.</li>
+</ul>
+
+<!-- Image Placeholder for Hormones and Functions -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Hormones and Their Functions" />
+</div>
+
+<h3>5. Endocrine System Disorders</h3>
+<p>When the endocrine system does not function properly, it can lead to a variety of disorders:</p>
+<ul>
+  <li><strong>Diabetes Mellitus:</strong> A condition in which the pancreas does not produce enough insulin or the body becomes resistant to insulin, leading to high blood sugar levels.</li>
+  <li><strong>Hyperthyroidism:</strong> Overproduction of thyroid hormones, leading to symptoms such as weight loss, rapid heartbeat, and increased metabolism.</li>
+  <li><strong>Hypothyroidism:</strong> Underproduction of thyroid hormones, leading to symptoms such as weight gain, fatigue, and slow metabolism.</li>
+  <li><strong>Cushing's Syndrome:</strong> Overproduction of cortisol, leading to symptoms such as weight gain, high blood pressure, and increased susceptibility to infections.</li>
+  <li><strong>Addison's Disease:</strong> Underproduction of cortisol and aldosterone, leading to symptoms such as fatigue, muscle weakness, and low blood pressure.</li>
+</ul>
+
+<!-- Image Placeholder for Endocrine System Disorders -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Endocrine System Disorders" />
+</div>
+
+<h3>6. The Concept of Homeostasis in the Endocrine System</h3>
+<p>The endocrine system is a key player in maintaining homeostasis by regulating processes such as metabolism, blood pressure, temperature, and growth. Through hormone secretion and feedback loops, the endocrine system helps maintain stability in the body's internal environment, allowing for optimal function.</p>
+
+<!-- Image Placeholder for Homeostasis and Endocrine System -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Homeostasis and Endocrine System" />
+</div>`, 
+recap: "In this lesson, we have explored the structure and function of the nervous system, including the central and peripheral nervous systems. We have learned how neurons transmit electrical impulses, the role of reflexes in maintaining body functions, and how the nervous system maintains homeostasis. Understanding the nervous system is essential for recognizing and treating neurological disorders.",
+resources: [
+  {
+    title:
+      "Interactive Endocrine System Atlas: Explore the endocrine glands and hormones in 3D.",
+    url: "https://example.com/intro-anatomy",
+  },
+  {
+    title:
+      "YouTube Video on Endocrine System: A detailed overview of the endocrine system and its functions..",
+    url: "https://example.com/intro-anatomy",
+  },
+  {
+    title:
+      "Endocrinology: An Integrated Approach by Stephen Nussey and Alison Whitehead: A comprehensive textbook on the endocrine system.",
+    url: "https://example.com/intro-anatomy",
+  },
+],
+
     },
     {
       id: 9,
