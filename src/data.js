@@ -1941,6 +1941,137 @@ resources: [
       title: "Thoracic Anatomy",
       description: "Understanding the thoracic cavity and its contents.",
       videoUrl: "https://www.youtube.com/embed/H0nMbkXK4-E",
+      content: `<h2>Overview</h2>
+<p>The thoracic cavity, also known as the chest cavity, is a vital region in the human body located between the neck and the diaphragm. It houses several critical organs, including the heart, lungs, and major blood vessels. The thoracic cavity plays an essential role in respiration, circulation, and overall bodily function. This region is bordered by the ribs, the sternum, and the vertebral column, offering protection to its internal organs.</p>
+
+<!-- Image Placeholder for Thoracic Cavity Overview -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Overview of Thoracic Anatomy" />
+</div>
+
+<h2>Lesson Content</h2>
+
+<h3>1. Thoracic Cavity Boundaries</h3>
+<p>The thoracic cavity is enclosed by various structures that provide protection and support to its contents. These boundaries include:</p>
+
+<ul>
+  <li><strong>Superior Boundary:</strong> The thoracic inlet, which is the opening at the top of the thoracic cavity, bounded by the first ribs, the clavicle, and the first thoracic vertebra.</li>
+  <li><strong>Inferior Boundary:</strong> The diaphragm, a large, dome-shaped muscle that separates the thoracic cavity from the abdominal cavity and is essential for breathing.</li>
+  <li><strong>Anterior Boundary:</strong> The sternum, which is a flat bone at the front of the thoracic cavity that provides support and protection to the heart and lungs.</li>
+  <li><strong>Lateral Boundaries:</strong> The ribs and intercostal muscles that form the sides of the thoracic cavity, protecting the lungs and other structures.</li>
+  <li><strong>Posterior Boundary:</strong> The vertebral column (spine), which forms the back wall of the thoracic cavity and provides structural support.</li>
+</ul>
+
+<p>These boundaries form a protective space for the vital organs within the thoracic cavity while allowing for the flexibility necessary for breathing and movement.</p>
+
+<!-- Image Placeholder for Thoracic Cavity Boundaries -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Thoracic Cavity Boundaries" />
+</div>
+
+<h3>2. Major Organs in the Thoracic Cavity</h3>
+<p>The thoracic cavity houses several critical organs that are essential for bodily functions such as respiration, circulation, and protection. These organs include:</p>
+
+<ul>
+  <li><strong>Heart:</strong> The heart, located slightly left of the midline in the thoracic cavity, is responsible for pumping blood throughout the body. It receives deoxygenated blood from the body and pumps oxygenated blood to vital organs and tissues.</li>
+  <li><strong>Lungs:</strong> The lungs are the primary organs of respiration. They are located on either side of the heart and are responsible for exchanging gases—taking in oxygen and expelling carbon dioxide—through the process of breathing.</li>
+  <li><strong>Trachea:</strong> The trachea, or windpipe, is a tube that connects the throat to the lungs. It conducts air into the lungs for respiration.</li>
+  <li><strong>Esophagus:</strong> The esophagus is a muscular tube that connects the mouth to the stomach, passing through the thoracic cavity to carry food and liquids for digestion.</li>
+  <li><strong>Major Blood Vessels:</strong> The aorta, pulmonary arteries, and veins, as well as the superior and inferior vena cava, are major blood vessels within the thoracic cavity that carry blood to and from the heart and lungs.</li>
+</ul>
+
+<p>These organs work together to ensure proper circulation, respiration, and digestion. The protection provided by the thoracic cavity ensures these vital organs are safeguarded while performing their functions.</p>
+
+<!-- Image Placeholder for Thoracic Organs -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Thoracic Organs" />
+</div>
+
+<h3>3. The Diaphragm: Key Muscle of Respiration</h3>
+<p>The diaphragm is a large, dome-shaped muscle located at the base of the thoracic cavity. It is the primary muscle involved in the process of breathing. When the diaphragm contracts, it moves downward, increasing the volume of the thoracic cavity and allowing the lungs to expand. This creates a vacuum that draws air into the lungs. During exhalation, the diaphragm relaxes, and the volume of the thoracic cavity decreases, expelling air from the lungs.</p>
+
+<ul>
+  <li><strong>Role in Breathing:</strong> The diaphragm’s movement is essential for both inhalation and exhalation, making it the most important muscle for respiration.</li>
+  <li><strong>Effect on Abdominal Organs:</strong> The diaphragm also has an impact on the abdominal organs, assisting in the movement of digestive contents and influencing pressure in the abdominal cavity.</li>
+</ul>
+
+<p>In addition to its respiratory role, the diaphragm helps maintain the pressure difference between the thoracic and abdominal cavities, contributing to functions such as digestion and childbirth.</p>
+
+<!-- Image Placeholder for Diaphragm -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="The Diaphragm" />
+</div>
+
+<h3>4. Thoracic Blood Supply</h3>
+<p>The thoracic cavity is supplied with blood by several major arteries and veins. These include:</p>
+
+<ul>
+  <li><strong>Aorta:</strong> The aorta is the largest artery in the body and originates from the left ventricle of the heart. It passes through the thoracic cavity and supplies oxygen-rich blood to the body.</li>
+  <li><strong>Pulmonary Arteries:</strong> These arteries carry deoxygenated blood from the right side of the heart to the lungs for oxygenation.</li>
+  <li><strong>Pulmonary Veins:</strong> These veins carry oxygenated blood from the lungs to the left side of the heart for distribution to the rest of the body.</li>
+  <li><strong>Vena Cava:</strong> The superior and inferior vena cava return deoxygenated blood from the body back to the right side of the heart.</li>
+</ul>
+
+<p>These blood vessels ensure that oxygenated blood is delivered to the tissues of the body while waste products like carbon dioxide are carried back to the lungs for elimination.</p>
+
+<!-- Image Placeholder for Thoracic Blood Supply -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Thoracic Blood Supply" />
+</div>
+
+<h3>5. Thoracic Nerves and Nervous Control</h3>
+<p>The thoracic region is also home to several key nerves that help control the muscles and organs within the thoracic cavity. The primary components of the thoracic nervous system include:</p>
+
+<ul>
+  <li><strong>Phrenic Nerve:</strong> The phrenic nerve controls the diaphragm, enabling breathing. It originates from the cervical spinal cord and travels through the thoracic cavity.</li>
+  <li><strong>Intercostal Nerves:</strong> These nerves run between the ribs and control the muscles involved in breathing. They also provide sensory information from the chest wall and diaphragm.</li>
+  <li><strong>Vagus Nerve:</strong> The vagus nerve provides parasympathetic control over the heart, lungs, and digestive system, influencing heart rate and respiratory function.</li>
+</ul>
+
+<p>The nervous system in the thoracic region ensures the proper coordination of breathing, circulation, and other bodily functions essential for life.</p>
+
+<!-- Image Placeholder for Thoracic Nervous System -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Thoracic Nervous System" />
+</div>
+
+<h3>6. Thoracic Disorders</h3>
+<p>Various conditions can affect the thoracic organs, leading to complications in respiratory, circulatory, and digestive functions. Some common thoracic disorders include:</p>
+
+<ul>
+  <li><strong>Chronic Obstructive Pulmonary Disease (COPD):</strong> A group of lung diseases that block airflow and make it difficult to breathe.</li>
+  <li><strong>Aortic Aneurysm:</strong> A bulge in the aorta that can be life-threatening if it ruptures.</li>
+  <li><strong>Pneumothorax:</strong> A collapsed lung, usually caused by trauma or a medical condition, resulting in difficulty breathing.</li>
+  <li><strong>Cardiac Arrest:</strong> The sudden loss of heart function, often caused by an electrical disturbance in the heart.</li>
+  <li><strong>Gastroesophageal Reflux Disease (GERD):</strong> A digestive disorder in which stomach acid irritates the esophagus, often causing heartburn and chest discomfort.</li>
+</ul>
+
+<p>Understanding the anatomy of the thoracic cavity is crucial for diagnosing and treating these conditions effectively.</p>
+
+<!-- Image Placeholder for Thoracic Disorders -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Thoracic Disorders" />
+</div>`,
+recap:
+"In this lesson, we explored the thoracic cavity, focusing on its boundaries, vital organs, and the structures that support respiration, circulation, and digestion. Understanding thoracic anatomy is essential for diagnosing and treating a variety of conditions related to the heart, lungs, and other thoracic organs.",
+resources: [
+{
+  title:
+    "Interactive 3D Model of the Thoracic Cavity: Explore the organs and structures of the thoracic cavity.",
+  url: "https://example.com/intro-anatomy",
+},
+{
+  title:
+    "YouTube Video on Thoracic Anatomy: Learn more about the functions and structure of the thoracic cavity.",
+  url: "https://example.com/intro-anatomy",
+},
+{
+  title:
+    "Human Anatomy & Physiology by Elaine Marieb: A comprehensive textbook on human anatomy, including thoracic anatomy.",
+  url: "https://example.com/intro-anatomy",
+},
+],
+
     },
     {
       id: 8,
