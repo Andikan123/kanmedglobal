@@ -981,6 +981,115 @@ resources: [
       title: "Integumentary System",
       description: "Study of skin, hair, and nails.",
       videoUrl: "https://www.youtube.com/embed/H0nMbkXK4-E",
+      content:`<h2>Overview</h2>
+<p>The integumentary system consists of the skin, hair, nails, and associated glands. It acts as the body's first line of defense against environmental factors, including pathogens, UV radiation, and physical injury. It also plays a critical role in regulating body temperature and maintaining homeostasis.</p>
+
+<!-- Image Placeholder for Integumentary System Overview -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Integumentary System Overview" />
+</div>
+
+<h2>Lesson Content</h2>
+
+<h3>1. What is the Integumentary System?</h3>
+<p>The integumentary system is the body's outermost layer and is responsible for protecting internal structures and maintaining the body's balance. The system includes the skin, hair, nails, and various glands that perform essential functions like secretion, temperature regulation, and sensation. The skin is the largest organ in the body and serves as a barrier to protect the body from harmful substances.</p>
+
+<!-- Image Placeholder for Structure of the Integumentary System -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Structure of the Integumentary System" />
+</div>
+
+<h3>2. Structure of the Integumentary System</h3>
+<p>The integumentary system consists of several key components:</p>
+<ul>
+  <li><strong>Skin:</strong> The skin is made up of three primary layers: the epidermis (outermost layer), dermis (middle layer), and hypodermis (deepest layer). The skin provides a waterproof barrier, regulates body temperature, and allows for sensory perception.</li>
+  <li><strong>Hair:</strong> Hair grows from follicles in the dermis and helps protect the body, regulate temperature, and provide sensory input.</li>
+  <li><strong>Nails:</strong> Nails are composed of keratin and protect the fingertips and toes. They also enhance the ability to grasp objects.</li>
+  <li><strong>Glands:</strong> The integumentary system includes several glands, such as sweat glands, sebaceous glands, and mammary glands, which secrete various substances to maintain the health of the skin and regulate temperature.</li>
+</ul>
+
+<!-- Image Placeholder for Layers of the Skin -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Layers of the Skin" />
+</div>
+
+<h3>3. Functions of the Integumentary System</h3>
+<p>The integumentary system performs a variety of vital functions that contribute to overall health and homeostasis:</p>
+<ul>
+  <li><strong>Protection:</strong> The skin acts as a physical barrier that shields internal organs from harmful microorganisms, chemicals, and physical damage. It also prevents excessive water loss from the body.</li>
+  <li><strong>Temperature Regulation:</strong> Sweat glands help cool the body through evaporation, while blood vessels in the skin dilate or constrict to regulate heat loss and retention. This helps maintain the body's internal temperature within a narrow range.</li>
+  <li><strong>Sensation:</strong> The skin is rich in sensory receptors that detect touch, pressure, temperature, and pain. This allows the body to respond to external stimuli.</li>
+  <li><strong>Excretion:</strong> Sweat glands excrete waste products like urea, salts, and water, helping the body eliminate toxins and maintain electrolyte balance.</li>
+  <li><strong>Synthesis of Vitamin D:</strong> When exposed to sunlight, the skin synthesizes vitamin D, which is essential for calcium absorption and bone health.</li>
+  <li><strong>Immunity:</strong> The skin plays a role in the immune response by producing antimicrobial peptides and housing immune cells that help protect against infections.</li>
+</ul>
+
+<!-- Image Placeholder for Functions of the Integumentary System -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Functions of the Integumentary System" />
+</div>
+
+<h3>4. Skin Appendages</h3>
+<p>Skin appendages are structures that arise from the skin and contribute to its functions:</p>
+<ul>
+  <li><strong>Hair Follicles:</strong> Hair follicles are embedded in the dermis and produce hair. Hair provides protection from UV radiation, insulation, and sensory input.</li>
+  <li><strong>Sweat Glands:</strong> Sweat glands, including eccrine and apocrine glands, are responsible for regulating body temperature by producing sweat, which evaporates and cools the body.</li>
+  <li><strong>Sebaceous Glands:</strong> These glands secrete sebum, an oily substance that lubricates the skin and hair, preventing them from drying out.</li>
+  <li><strong>Nails:</strong> Nails are composed of keratinized cells that protect the tips of the fingers and toes and assist with grasping objects.</li>
+</ul>
+
+<!-- Image Placeholder for Skin Appendages -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Skin Appendages" />
+</div>
+
+<h3>5. Common Integumentary System Disorders</h3>
+<p>Several conditions can affect the integumentary system, leading to various symptoms and complications:</p>
+<ul>
+  <li><strong>Acne:</strong> Acne is a common skin condition caused by the overproduction of sebum and clogged hair follicles, leading to inflammation and the development of pimples.</li>
+  <li><strong>Psoriasis:</strong> Psoriasis is an autoimmune disorder that causes skin cells to multiply rapidly, leading to scaly, red patches on the skin.</li>
+  <li><strong>Skin Cancer:</strong> Skin cancer, including basal cell carcinoma, squamous cell carcinoma, and melanoma, can develop due to excessive exposure to ultraviolet (UV) radiation.</li>
+  <li><strong>Eczema:</strong> Eczema is a chronic inflammatory skin condition that causes itching, redness, and irritation.</li>
+  <li><strong>Alopecia:</strong> Alopecia is a condition that results in hair loss, which can occur in patches or across the entire scalp and body.</li>
+</ul>
+
+<!-- Image Placeholder for Skin Disorders -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Skin Disorders" />
+</div>
+
+<h3>6. Aging and the Integumentary System</h3>
+<p>As we age, the integumentary system undergoes several changes, including:</p>
+<ul>
+  <li><strong>Thinning Skin:</strong> The skin becomes thinner and less elastic over time, leading to an increased risk of injury and wrinkles.</li>
+  <li><strong>Decreased Sebum Production:</strong> Reduced sebum production can cause dry skin and hair, leading to irritation and discomfort.</li>
+  <li><strong>Loss of Melanin:</strong> Melanin production decreases with age, leading to gray hair and an increased risk of sunburn.</li>
+  <li><strong>Slower Healing:</strong> The skin's ability to heal after injury becomes slower as the production of collagen and elastin decreases.</li>
+</ul>
+
+<!-- Image Placeholder for Aging Skin -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Aging Skin" />
+</div>`,
+recap: "In this lesson, we have explored the structure, functions, and components of the integumentary system. The skin, hair, nails, and associated glands work together to protect the body, regulate temperature, and maintain overall health. Understanding the integumentary system is essential for recognizing common disorders and the effects of aging on the skin.",
+resources: [
+  {
+    title:
+      "Interactive Integumentary System Atlas: Explore the structure of the skin, hair, and nails in 3D.",
+    url: "https://example.com/intro-anatomy",
+  },
+  {
+    title:
+      "Interactive Integumentary System Atlas: Explore the structure of the skin, hair, and nails in 3D.",
+    url: "https://example.com/intro-anatomy",
+  },
+  {
+    title:
+      "The Skin: A Natural History by Nina G. Jablonski: A comprehensive book about the skin and its functions.",
+    url: "https://example.com/intro-anatomy",
+  },
+],
+
     },
     {
       id: 10,
