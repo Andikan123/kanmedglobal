@@ -4,6 +4,9 @@ import tour3 from "./images/tour-3.jpeg";
 import tour4 from "./images/tour-4.jpeg";
 import overview from "./images/anatomyOverview.avif"
 import basicAnatomy from "./images/anatomy/introduction/basicAnatomy.jpeg"
+import levelsOfOrg from "./images/anatomy/introduction/levelsoforg.jpeg"
+import systems from "./images/anatomy/introduction/systems.avif"
+import positions from "./images/anatomy/introduction/anatomical-terms.webp"
 
 export const pageLinks = [
   { id: 1, path: "/", text: "Home" }, // Change href to path for React Router
@@ -150,7 +153,7 @@ export const anatomyTopics = {
   
       <!-- Placeholder for an image of the body’s organization -->
       <div class="image-placeholder">
-        <img src="path/to/your/image.jpg" alt="Body Organization" />
+        <img src=${levelsOfOrg} alt="Body Organization" />
       </div>
   
       <h3>3. Major Body Systems</h3>
@@ -171,7 +174,7 @@ export const anatomyTopics = {
   
       <!-- Placeholder for an image of body systems -->
       <div class="image-placeholder">
-        <img src="path/to/your/image.jpg" alt="Human Body Systems" />
+        <img src=${systems} alt="Human Body Systems" />
       </div>
   
       <h3>4. Anatomical Terminology</h3>
@@ -191,7 +194,7 @@ export const anatomyTopics = {
   
       <!-- Placeholder for an image of anatomical terminology -->
       <div class="image-placeholder">
-        <img src="path/to/your/image.jpg" alt="Anatomical Terminology" />
+        <img src=${positions} alt="Anatomical Terminology" />
       </div>
   
       <h3>5. The Concept of Homeostasis</h3>
