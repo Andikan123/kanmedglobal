@@ -2,6 +2,8 @@ import tour1 from "./images/tour-1.jpeg";
 import tour2 from "./images/tour-2.jpeg";
 import tour3 from "./images/tour-3.jpeg";
 import tour4 from "./images/tour-4.jpeg";
+import overview from "./images/anatomyOverview.avif"
+import basicAnatomy from "./images/anatomy/introduction/basicAnatomy.jpeg"
 
 export const pageLinks = [
   { id: 1, path: "/", text: "Home" }, // Change href to path for React Router
@@ -118,58 +120,88 @@ export const anatomyTopics = {
       description: "Basic overview of human body systems.",
       videoUrl: "https://www.youtube.com/embed/H0nMbkXK4-E",
       content: `
-        <h2>Overview</h2>
-        <p>Human anatomy is the branch of biology that studies the structure of the human body. The term anatomy comes from the Greek words ana- (up, throughout) and temnein (to cut). It is concerned with the physical structures and components of the body, including the organs, tissues, and cells, and how they are organized and function together.</p>
-
-        <h2>Lesson Content</h2>
-        <h3>1. What is Anatomy?</h3>
-        <p>Anatomy is the study of the structure and parts of organisms. In human anatomy, we focus on how the body is organized, from the smallest structures (cells) to complex organs and systems. It is essential for understanding how the body works, and how different organs and systems cooperate to maintain health.</p>
-
-        <h3>2. Levels of Organization</h3>
-        <p>The human body is highly organized and is studied at different levels:</p>
-        <ul>
-          <li><strong>Chemical Level:</strong> Involves atoms and molecules that form the building blocks of life (e.g., water, proteins, lipids, and carbohydrates).</li>
-          <li><strong>Cellular Level:</strong> Cells are the basic units of life, and all functions of life occur at the cellular level. Each cell has a specific function depending on its type (e.g., muscle cells, nerve cells).</li>
-          <li><strong>Tissue Level:</strong> A tissue is a group of similar cells working together to perform a specific function. Four main types of tissues exist: epithelial, connective, muscle, and nervous.</li>
-          <li><strong>Organ Level:</strong> An organ is made up of different tissues working together to perform a specific function. For example, the heart is an organ made up of muscle tissue, connective tissue, and nervous tissue.</li>
-          <li><strong>Organ System Level:</strong> Organ systems are groups of organs that work together to perform a broad function. For example, the cardiovascular system includes the heart, blood vessels, and blood.</li>
-          <li><strong>Organism Level:</strong> The highest level of organization, where all systems of the body work together to maintain life and health.</li>
-        </ul>
-
-        <h3>3. Major Body Systems</h3>
-        <p>The human body consists of several major organ systems, each responsible for a specific function:</p>
-        <ul>
-          <li><strong>Skeletal System:</strong> Composed of bones and joints, the skeletal system provides structure to the body, protects internal organs, and allows movement. It also stores minerals and produces blood cells in bone marrow.</li>
-          <li><strong>Muscular System:</strong> This system allows for movement through skeletal muscles, helps maintain posture, and produces heat.</li>
-          <li><strong>Nervous System:</strong> The brain, spinal cord, and nerves make up the nervous system. It controls body activities by transmitting signals, and it is essential for receiving and processing sensory information.</li>
-          <li><strong>Cardiovascular System:</strong> Comprising the heart and blood vessels, the cardiovascular system transports oxygen, nutrients, and hormones throughout the body and helps remove waste products.</li>
-          <li><strong>Respiratory System:</strong> The lungs and airways form the respiratory system. It is responsible for gas exchange, bringing oxygen into the body and expelling carbon dioxide.</li>
-          <li><strong>Digestive System:</strong> The digestive system processes food, absorbs nutrients, and eliminates waste. It includes organs like the stomach, intestines, liver, and pancreas.</li>
-          <li><strong>Endocrine System:</strong> This system consists of glands that secrete hormones, which regulate processes such as metabolism, growth, and mood.</li>
-          <li><strong>Lymphatic/Immune System:</strong> This system helps defend the body against pathogens, while also maintaining fluid balance and absorbing fats from the digestive system.</li>
-          <li><strong>Integumentary System:</strong> The skin, hair, and nails make up this system. It protects the body, regulates temperature, and provides sensory information.</li>
-          <li><strong>Urinary System:</strong> The kidneys, bladder, and urinary tract filter waste from the blood, regulate fluid balance, and control electrolytes.</li>
-          <li><strong>Reproductive System:</strong> The male and female reproductive systems are responsible for producing offspring.</li>
-        </ul>
-
-        <h3>4. Anatomical Terminology</h3>
-        <p>To study anatomy effectively, it’s important to understand some key terms:</p>
-        <ul>
-          <li><strong>Anterior (ventral):</strong> Toward the front of the body.</li>
-          <li><strong>Posterior (dorsal):</strong> Toward the back of the body.</li>
-          <li><strong>Superior:</strong> Toward the head or upper part of the body.</li>
-          <li><strong>Inferior:</strong> Away from the head, or toward the lower part of the body.</li>
-          <li><strong>Medial:</strong> Toward the midline of the body.</li>
-          <li><strong>Lateral:</strong> Away from the midline of the body.</li>
-          <li><strong>Proximal:</strong> Closer to the point of attachment (used for limbs).</li>
-          <li><strong>Distal:</strong> Farther from the point of attachment (used for limbs).</li>
-          <li><strong>Superficial:</strong> Near the surface of the body.</li>
-          <li><strong>Deep:</strong> Away from the surface of the body.</li>
-        </ul>
-
-        <h3>5. The Concept of Homeostasis</h3>
-        <p>Homeostasis is the process by which the body maintains a stable internal environment despite external changes. This concept is vital for understanding how systems work together to maintain health. Examples of homeostasis include regulating body temperature, blood pH, and blood pressure.</p>
-      `,
+      <h2>Overview</h2>
+      <p>Human anatomy is the branch of biology that studies the structure of the human body. The term anatomy comes from the Greek words ana- (up, throughout) and temnein (to cut). It is concerned with the physical structures and components of the body, including the organs, tissues, and cells, and how they are organized and function together.</p>
+  
+      <!-- Placeholder for an image of human anatomy -->
+      <div class="image-placeholder">
+        <img src=${overview} alt="Human Anatomy Overview" />
+      </div>
+  
+      <h2>Lesson Content</h2>
+      <h3>1. What is Anatomy?</h3>
+      <p>Anatomy is the study of the structure and parts of organisms. In human anatomy, we focus on how the body is organized, from the smallest structures (cells) to complex organs and systems. It is essential for understanding how the body works, and how different organs and systems cooperate to maintain health.</p>
+  
+      <!-- Placeholder for an image showing basic anatomy -->
+      <div class="image-placeholder">
+        <img src=${basicAnatomy} alt="Basic Anatomy" />
+      </div>
+  
+      <h3>2. Levels of Organization</h3>
+      <p>The human body is highly organized and is studied at different levels:</p>
+      <ul>
+        <li><strong>Chemical Level:</strong> Involves atoms and molecules that form the building blocks of life (e.g., water, proteins, lipids, and carbohydrates).</li>
+        <li><strong>Cellular Level:</strong> Cells are the basic units of life, and all functions of life occur at the cellular level. Each cell has a specific function depending on its type (e.g., muscle cells, nerve cells).</li>
+        <li><strong>Tissue Level:</strong> A tissue is a group of similar cells working together to perform a specific function. Four main types of tissues exist: epithelial, connective, muscle, and nervous.</li>
+        <li><strong>Organ Level:</strong> An organ is made up of different tissues working together to perform a specific function. For example, the heart is an organ made up of muscle tissue, connective tissue, and nervous tissue.</li>
+        <li><strong>Organ System Level:</strong> Organ systems are groups of organs that work together to perform a broad function. For example, the cardiovascular system includes the heart, blood vessels, and blood.</li>
+        <li><strong>Organism Level:</strong> The highest level of organization, where all systems of the body work together to maintain life and health.</li>
+      </ul>
+  
+      <!-- Placeholder for an image of the body’s organization -->
+      <div class="image-placeholder">
+        <img src="path/to/your/image.jpg" alt="Body Organization" />
+      </div>
+  
+      <h3>3. Major Body Systems</h3>
+      <p>The human body consists of several major organ systems, each responsible for a specific function:</p>
+      <ul>
+        <li><strong>Skeletal System:</strong> Composed of bones and joints, the skeletal system provides structure to the body, protects internal organs, and allows movement. It also stores minerals and produces blood cells in bone marrow.</li>
+        <li><strong>Muscular System:</strong> This system allows for movement through skeletal muscles, helps maintain posture, and produces heat.</li>
+        <li><strong>Nervous System:</strong> The brain, spinal cord, and nerves make up the nervous system. It controls body activities by transmitting signals, and it is essential for receiving and processing sensory information.</li>
+        <li><strong>Cardiovascular System:</strong> Comprising the heart and blood vessels, the cardiovascular system transports oxygen, nutrients, and hormones throughout the body and helps remove waste products.</li>
+        <li><strong>Respiratory System:</strong> The lungs and airways form the respiratory system. It is responsible for gas exchange, bringing oxygen into the body and expelling carbon dioxide.</li>
+        <li><strong>Digestive System:</strong> The digestive system processes food, absorbs nutrients, and eliminates waste. It includes organs like the stomach, intestines, liver, and pancreas.</li>
+        <li><strong>Endocrine System:</strong> This system consists of glands that secrete hormones, which regulate processes such as metabolism, growth, and mood.</li>
+        <li><strong>Lymphatic/Immune System:</strong> This system helps defend the body against pathogens, while also maintaining fluid balance and absorbing fats from the digestive system.</li>
+        <li><strong>Integumentary System:</strong> The skin, hair, and nails make up this system. It protects the body, regulates temperature, and provides sensory information.</li>
+        <li><strong>Urinary System:</strong> The kidneys, bladder, and urinary tract filter waste from the blood, regulate fluid balance, and control electrolytes.</li>
+        <li><strong>Reproductive System:</strong> The male and female reproductive systems are responsible for producing offspring.</li>
+      </ul>
+  
+      <!-- Placeholder for an image of body systems -->
+      <div class="image-placeholder">
+        <img src="path/to/your/image.jpg" alt="Human Body Systems" />
+      </div>
+  
+      <h3>4. Anatomical Terminology</h3>
+      <p>To study anatomy effectively, it’s important to understand some key terms:</p>
+      <ul>
+        <li><strong>Anterior (ventral):</strong> Toward the front of the body.</li>
+        <li><strong>Posterior (dorsal):</strong> Toward the back of the body.</li>
+        <li><strong>Superior:</strong> Toward the head or upper part of the body.</li>
+        <li><strong>Inferior:</strong> Away from the head, or toward the lower part of the body.</li>
+        <li><strong>Medial:</strong> Toward the midline of the body.</li>
+        <li><strong>Lateral:</strong> Away from the midline of the body.</li>
+        <li><strong>Proximal:</strong> Closer to the point of attachment (used for limbs).</li>
+        <li><strong>Distal:</strong> Farther from the point of attachment (used for limbs).</li>
+        <li><strong>Superficial:</strong> Near the surface of the body.</li>
+        <li><strong>Deep:</strong> Away from the surface of the body.</li>
+      </ul>
+  
+      <!-- Placeholder for an image of anatomical terminology -->
+      <div class="image-placeholder">
+        <img src="path/to/your/image.jpg" alt="Anatomical Terminology" />
+      </div>
+  
+      <h3>5. The Concept of Homeostasis</h3>
+      <p>Homeostasis is the process by which the body maintains a stable internal environment despite external changes. This concept is vital for understanding how systems work together to maintain health. Examples of homeostasis include regulating body temperature, blood pH, and blood pressure.</p>
+  
+      <!-- Placeholder for an image representing homeostasis -->
+      <div class="image-placeholder">
+        <img src="path/to/your/image.jpg" alt="Homeostasis" />
+      </div>
+    `,
       recap:
         "In this lesson, we've introduced the basics of human anatomy, from its hierarchical organization to the various systems that maintain life. Understanding anatomy is fundamental to all areas of health and medical sciences, and it provides the foundation for more advanced studies in physiology, pathology, and medicine.",
       resources: [
@@ -195,13 +227,23 @@ export const anatomyTopics = {
       title: "Skeletal System",
       description: "Detailed study of bones and joints.",
       videoUrl: "https://www.youtube.com/embed/H0nMbkXK4-E",
-      content: `<h2>Overview</h2>
+    content: `<h2>Overview</h2>
 <p>The skeletal system is composed of bones, joints, and cartilage, and it provides the structural framework for the body. It is responsible for protecting internal organs, enabling movement, storing and releasing minerals, and producing blood cells. The skeletal system is one of the body's most vital systems for maintaining overall health and function.</p>
+
+<!-- Placeholder for an image of the skeletal system -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Skeletal System Overview" />
+</div>
 
 <h2>Lesson Content</h2>
 
 <h3>1. What is the Skeletal System?</h3>
 <p>The skeletal system is the framework of bones and cartilage that supports the body, protects internal organs, and enables movement. It is the foundation upon which muscles attach to allow movement. The system also plays an essential role in producing red blood cells (hematopoiesis) and storing essential minerals like calcium and phosphorus.</p>
+
+<!-- Placeholder for an image of the skeletal system components -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Skeletal System Components" />
+</div>
 
 <h3>2. Structure of the Skeletal System</h3>
 <p>The skeletal system consists of bones, cartilage, and joints. The bones form the rigid structure, while cartilage provides flexible support at certain areas like the joints. Ligaments are connective tissues that connect bones to one another, while tendons connect muscles to bones. The system is categorized into two main parts:</p>
@@ -209,6 +251,11 @@ export const anatomyTopics = {
   <li><strong>Axial Skeleton:</strong> Includes the bones along the body's long axis, such as the skull, vertebral column (spine), and rib cage. The axial skeleton supports and protects the brain, spinal cord, and thoracic organs (heart and lungs).</li>
   <li><strong>Appendicular Skeleton:</strong> Comprises the bones of the limbs (arms and legs) and the girdles that attach them to the axial skeleton. This part is responsible for the body's movement.</li>
 </ul>
+
+<!-- Placeholder for an image of the axial and appendicular skeleton -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Axial and Appendicular Skeleton" />
+</div>
 
 <h3>3. Functions of the Skeletal System</h3>
 <p>The skeletal system performs several key functions, which include:</p>
@@ -220,6 +267,11 @@ export const anatomyTopics = {
   <li><strong>Blood Cell Production:</strong> The red bone marrow in certain bones produces red blood cells, white blood cells, and platelets. This process is known as hematopoiesis.</li>
 </ul>
 
+<!-- Placeholder for an image of bone marrow and blood cell production -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Bone Marrow and Blood Cell Production" />
+</div>
+
 <h3>4. Bone Classification</h3>
 <p>Bones can be classified based on their shape, and there are four main categories:</p>
 <ul>
@@ -229,6 +281,11 @@ export const anatomyTopics = {
   <li><strong>Irregular Bones:</strong> These have complex shapes and are typically found in areas that do not fit into the other categories (e.g., vertebrae, facial bones).</li>
 </ul>
 
+<!-- Placeholder for an image showing different bone classifications -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Bone Classification" />
+</div>
+
 <h3>5. Types of Joints in the Skeletal System</h3>
 <p>Joints are where two or more bones meet. Joints can be classified based on their structure or function:</p>
 <ul>
@@ -236,6 +293,11 @@ export const anatomyTopics = {
   <li><strong>Cartilaginous Joints:</strong> In these joints, the bones are connected by cartilage, allowing for limited movement (e.g., the intervertebral discs in the spine).</li>
   <li><strong>Synovial Joints:</strong> These are the most common and freely movable joints in the body. They are surrounded by a synovial capsule and contain synovial fluid, which lubricates the joint (e.g., knee, elbow, hip, shoulder).</li>
 </ul>
+
+<!-- Placeholder for an image showing different types of joints -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Types of Joints" />
+</div>
 
 <h3>6. Bone Development and Growth</h3>
 <p>Bone growth and development occur through a process called ossification. There are two main types of ossification:</p>
@@ -245,6 +307,11 @@ export const anatomyTopics = {
 </ul>
 <p>Bone growth continues until the end of adolescence when the growth plates close. After that, bones can still undergo remodeling throughout life.</p>
 
+<!-- Placeholder for an image showing bone growth -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Bone Growth" />
+</div>
+
 <h3>7. Common Skeletal System Disorders</h3>
 <p>The skeletal system can be affected by various disorders that can lead to pain, dysfunction, or even structural changes. Some common conditions include:</p>
 <ul>
@@ -253,6 +320,11 @@ export const anatomyTopics = {
   <li><strong>Fractures:</strong> Breaks or cracks in bones caused by trauma or underlying conditions like osteoporosis.</li>
   <li><strong>Scoliosis:</strong> An abnormal curvature of the spine.</li>
 </ul>
+
+<!-- Placeholder for an image showing skeletal system disorders -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Skeletal System Disorders" />
+</div>
 
 <h3>8. Anatomical Terminology for the Skeletal System</h3>
 <p>To study the skeletal system effectively, it’s important to understand the following terms:</p>
@@ -265,8 +337,18 @@ export const anatomyTopics = {
   <li><strong>Inferior:</strong> Below or toward the feet (e.g., the femur is inferior to the pelvis).</li>
 </ul>
 
+<!-- Placeholder for an image showing anatomical terminology -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Anatomical Terminology" />
+</div>
+
 <h3>9. The Concept of Bone Remodeling</h3>
 <p>Bone remodeling is a continuous process where old bone tissue is replaced with new bone tissue. This process helps maintain the strength and integrity of bones and is essential for healing after fractures. The balance between bone resorption (removal) and bone formation can be influenced by factors like age, nutrition, and physical activity.</p>
+
+<!-- Placeholder for an image showing bone remodeling -->
+<div class="image-placeholder">
+  <img src="path/to/your/image.jpg" alt="Bone Remodeling" />
+</div>
 
 <h3>Recap</h3>
 <p>In this lesson, we've explored the key functions and components of the skeletal system. From bone structure and classification to its critical role in movement, protection, and mineral storage, the skeletal system is a fundamental part of human physiology. Understanding the skeletal system is essential for appreciating how the body maintains its form and performs its various functions.</p>
@@ -276,8 +358,8 @@ export const anatomyTopics = {
   <li><a href="https://example.com/skeletal-anatomy">Interactive Skeletal System Model: Explore 3D models of the skeletal system.</a></li>
   <li><a href="https://example.com/3d-bone-anatomy">3D Anatomy of the Human Skeleton: Learn about individual bones and joints.</a></li>
   <li><a href="https://example.com/skeletal-textbook">"Human Anatomy & Physiology" by Elaine Marieb</a></li>
-</ul>
-`,
+</ul>`
+,
       recap:
         "In this lesson, we've explored the structure and functions of the skeletal system, including how it provides support, protection, enables movement, stores minerals, and produces blood cells. We’ve also learned about bone classification, joint types, and bone development. Understanding the skeletal system is essential for comprehending how the body maintains its structure and performs vital functions like movement and protection of internal organs.",
       resources: [
@@ -304,62 +386,112 @@ export const anatomyTopics = {
       description: "Study of muscles and their functions.",
       videoUrl: "https://www.youtube.com/embed/H0nMbkXK4-E",
       content: `<h2>Overview</h2>
-<p>The muscular system is a biological system consisting of muscles and tendons that allow movement of the body and its parts. The system is also involved in maintaining posture and generating heat. Muscles contract and work in pairs to produce movement. There are three main types of muscles: skeletal, smooth, and cardiac, each playing a unique role in the body.</p>
-
-<h2>Lesson Content</h2>
-
-<h3>1. What is the Muscular System?</h3>
-<p>The muscular system is responsible for body movement and stability. Muscles contract in response to stimuli from the nervous system, allowing us to move, maintain posture, and perform vital functions like breathing. This system includes over 600 muscles in the body, and each muscle works in coordination with others to produce efficient movement and bodily functions.</p>
-
-<h3>2. Types of Muscles</h3>
-<p>The muscular system is divided into three main types of muscles:</p>
-<ul>
-  <li><strong>Skeletal Muscles:</strong> These muscles are attached to bones by tendons and are responsible for voluntary movement. Skeletal muscles allow us to move our limbs, face, and torso. They are controlled by the somatic nervous system.</li>
-  <li><strong>Smooth Muscles:</strong> Found in the walls of internal organs such as the stomach, intestines, and blood vessels, smooth muscles are involuntary and responsible for movements like peristalsis (the movement of food through the digestive system) and the constriction and relaxation of blood vessels.</li>
-  <li><strong>Cardiac Muscles:</strong> Located only in the heart, cardiac muscles are involuntary muscles that enable the heart to beat and pump blood throughout the body. Cardiac muscle contractions are regulated by the autonomic nervous system.</li>
-</ul>
-
-<h3>3. Muscle Function and Movement</h3>
-<p>Muscle contractions are the driving force behind all movement in the body. Muscles work by contracting and relaxing in response to signals from the nervous system. There are two basic types of muscle contractions:</p>
-<ul>
-  <li><strong>Concentric Contraction:</strong> The muscle shortens as it contracts, producing movement (e.g., lifting a weight).</li>
-  <li><strong>Eccentric Contraction:</strong> The muscle lengthens while contracting, helping to slow down movement or resist a force (e.g., lowering a weight back down).</li>
-</ul>
-<p>Muscles usually work in pairs: while one muscle contracts (agonist), the opposing muscle relaxes (antagonist) to allow smooth movement. This principle is known as reciprocal inhibition.</p>
-
-<h3>4. Muscle Structure</h3>
-<p>Each muscle is made up of individual muscle fibers, and these fibers are organized into bundles called fascicles. The muscle fibers themselves contain myofibrils, which are made up of smaller units called sarcomeres. Sarcomeres are the basic contractile units of muscle and contain two primary proteins: actin (thin filaments) and myosin (thick filaments). When these proteins interact, they cause the muscle to contract.</p>
-
-<h3>5. Muscular Disorders</h3>
-<p>Several disorders can affect the muscular system, ranging from minor muscle strains to more severe conditions such as:</p>
-<ul>
-  <li><strong>Muscle Strains:</strong> Occur when muscles are overstretched or torn, often from overuse or improper movement.</li>
-  <li><strong>Muscular Dystrophy:</strong> A genetic disorder that causes progressive weakness and loss of muscle mass.</li>
-  <li><strong>Fibromyalgia:</strong> A condition characterized by widespread muscle pain and tenderness.</li>
-  <li><strong>Myasthenia Gravis:</strong> An autoimmune disease that causes weakness in the skeletal muscles, often affecting the eyes and face.</li>
-</ul>
-
-<h3>6. The Role of Exercise in Muscle Health</h3>
-<p>Regular exercise is crucial for maintaining muscle strength and flexibility. Both aerobic exercises (like walking or running) and resistance training (such as lifting weights) help build muscle mass and improve muscle function. Stretching exercises help maintain flexibility and prevent muscle injuries.</p>
-
-<h3>7. Anatomical Terminology in Muscular System</h3>
-<p>To study muscles effectively, it’s important to understand key anatomical terms used to describe muscle location and function:</p>
-<ul>
-  <li><strong>Origin:</strong> The fixed attachment point of a muscle, usually on a bone.</li>
-  <li><strong>Insertion:</strong> The movable attachment point of a muscle.</li>
-  <li><strong>Prime Mover (Agonist):</strong> The muscle responsible for the majority of movement in a particular action.</li>
-  <li><strong>Antagonist:</strong> The muscle that opposes the action of the agonist muscle.</li>
-  <li><strong>Synergist:</strong> Muscles that assist the prime mover in performing an action.</li>
-  <li><strong>Flexion:</strong> Decreasing the angle between two body parts.</li>
-  <li><strong>Extension:</strong> Increasing the angle between two body parts.</li>
-</ul>
-
-<h3>8. The Concept of Muscle Tone</h3>
-<p>Muscle tone refers to the continuous and passive partial contraction of muscles, which helps maintain posture and is essential for balance. Even when not consciously contracting a muscle, the body maintains a small level of muscle activity.</p>
-
-<h3>9. The Nervous System and Muscles</h3>
-<p>Muscle movement is controlled by the nervous system, which sends signals from the brain to muscles through motor neurons. These signals are transmitted at the neuromuscular junction, where the motor neuron meets the muscle fiber. This process allows muscles to contract and perform voluntary and involuntary movements.</p>
-`,
+      <p>The muscular system is a biological system consisting of muscles and tendons that allow movement of the body and its parts. The system is also involved in maintaining posture and generating heat. Muscles contract and work in pairs to produce movement. There are three main types of muscles: skeletal, smooth, and cardiac, each playing a unique role in the body.</p>
+      
+      <!-- Placeholder for an image of the muscular system overview -->
+      <div class="image-placeholder">
+        <img src="path/to/your/image.jpg" alt="Muscular System Overview" />
+      </div>
+      
+      <h2>Lesson Content</h2>
+      
+      <h3>1. What is the Muscular System?</h3>
+      <p>The muscular system is responsible for body movement and stability. Muscles contract in response to stimuli from the nervous system, allowing us to move, maintain posture, and perform vital functions like breathing. This system includes over 600 muscles in the body, and each muscle works in coordination with others to produce efficient movement and bodily functions.</p>
+      
+      <!-- Placeholder for an image of muscle contractions -->
+      <div class="image-placeholder">
+        <img src="path/to/your/image.jpg" alt="Muscle Contractions" />
+      </div>
+      
+      <h3>2. Types of Muscles</h3>
+      <p>The muscular system is divided into three main types of muscles:</p>
+      <ul>
+        <li><strong>Skeletal Muscles:</strong> These muscles are attached to bones by tendons and are responsible for voluntary movement. Skeletal muscles allow us to move our limbs, face, and torso. They are controlled by the somatic nervous system.</li>
+        <li><strong>Smooth Muscles:</strong> Found in the walls of internal organs such as the stomach, intestines, and blood vessels, smooth muscles are involuntary and responsible for movements like peristalsis (the movement of food through the digestive system) and the constriction and relaxation of blood vessels.</li>
+        <li><strong>Cardiac Muscles:</strong> Located only in the heart, cardiac muscles are involuntary muscles that enable the heart to beat and pump blood throughout the body. Cardiac muscle contractions are regulated by the autonomic nervous system.</li>
+      </ul>
+      
+      <!-- Placeholder for an image showing the types of muscles -->
+      <div class="image-placeholder">
+        <img src="path/to/your/image.jpg" alt="Types of Muscles" />
+      </div>
+      
+      <h3>3. Muscle Function and Movement</h3>
+      <p>Muscle contractions are the driving force behind all movement in the body. Muscles work by contracting and relaxing in response to signals from the nervous system. There are two basic types of muscle contractions:</p>
+      <ul>
+        <li><strong>Concentric Contraction:</strong> The muscle shortens as it contracts, producing movement (e.g., lifting a weight).</li>
+        <li><strong>Eccentric Contraction:</strong> The muscle lengthens while contracting, helping to slow down movement or resist a force (e.g., lowering a weight back down).</li>
+      </ul>
+      <p>Muscles usually work in pairs: while one muscle contracts (agonist), the opposing muscle relaxes (antagonist) to allow smooth movement. This principle is known as reciprocal inhibition.</p>
+      
+      <!-- Placeholder for an image showing muscle contraction -->
+      <div class="image-placeholder">
+        <img src="path/to/your/image.jpg" alt="Muscle Contraction" />
+      </div>
+      
+      <h3>4. Muscle Structure</h3>
+      <p>Each muscle is made up of individual muscle fibers, and these fibers are organized into bundles called fascicles. The muscle fibers themselves contain myofibrils, which are made up of smaller units called sarcomeres. Sarcomeres are the basic contractile units of muscle and contain two primary proteins: actin (thin filaments) and myosin (thick filaments). When these proteins interact, they cause the muscle to contract.</p>
+      
+      <!-- Placeholder for an image showing muscle structure -->
+      <div class="image-placeholder">
+        <img src="path/to/your/image.jpg" alt="Muscle Structure" />
+      </div>
+      
+      <h3>5. Muscular Disorders</h3>
+      <p>Several disorders can affect the muscular system, ranging from minor muscle strains to more severe conditions such as:</p>
+      <ul>
+        <li><strong>Muscle Strains:</strong> Occur when muscles are overstretched or torn, often from overuse or improper movement.</li>
+        <li><strong>Muscular Dystrophy:</strong> A genetic disorder that causes progressive weakness and loss of muscle mass.</li>
+        <li><strong>Fibromyalgia:</strong> A condition characterized by widespread muscle pain and tenderness.</li>
+        <li><strong>Myasthenia Gravis:</strong> An autoimmune disease that causes weakness in the skeletal muscles, often affecting the eyes and face.</li>
+      </ul>
+      
+      <!-- Placeholder for an image showing muscular disorders -->
+      <div class="image-placeholder">
+        <img src="path/to/your/image.jpg" alt="Muscular Disorders" />
+      </div>
+      
+      <h3>6. The Role of Exercise in Muscle Health</h3>
+      <p>Regular exercise is crucial for maintaining muscle strength and flexibility. Both aerobic exercises (like walking or running) and resistance training (such as lifting weights) help build muscle mass and improve muscle function. Stretching exercises help maintain flexibility and prevent muscle injuries.</p>
+      
+      <!-- Placeholder for an image showing exercise and muscle health -->
+      <div class="image-placeholder">
+        <img src="path/to/your/image.jpg" alt="Exercise and Muscle Health" />
+      </div>
+      
+      <h3>7. Anatomical Terminology in Muscular System</h3>
+      <p>To study muscles effectively, it’s important to understand key anatomical terms used to describe muscle location and function:</p>
+      <ul>
+        <li><strong>Origin:</strong> The fixed attachment point of a muscle, usually on a bone.</li>
+        <li><strong>Insertion:</strong> The movable attachment point of a muscle.</li>
+        <li><strong>Prime Mover (Agonist):</strong> The muscle responsible for the majority of movement in a particular action.</li>
+        <li><strong>Antagonist:</strong> The muscle that opposes the action of the agonist muscle.</li>
+        <li><strong>Synergist:</strong> Muscles that assist the prime mover in performing an action.</li>
+        <li><strong>Flexion:</strong> Decreasing the angle between two body parts.</li>
+        <li><strong>Extension:</strong> Increasing the angle between two body parts.</li>
+      </ul>
+      
+      <!-- Placeholder for an image showing anatomical muscle terminology -->
+      <div class="image-placeholder">
+        <img src="path/to/your/image.jpg" alt="Anatomical Muscle Terminology" />
+      </div>
+      
+      <h3>8. The Concept of Muscle Tone</h3>
+      <p>Muscle tone refers to the continuous and passive partial contraction of muscles, which helps maintain posture and is essential for balance. Even when not consciously contracting a muscle, the body maintains a small level of muscle activity.</p>
+      
+      <!-- Placeholder for an image showing muscle tone -->
+      <div class="image-placeholder">
+        <img src="path/to/your/image.jpg" alt="Muscle Tone" />
+      </div>
+      
+      <h3>9. The Nervous System and Muscles</h3>
+      <p>Muscle movement is controlled by the nervous system, which sends signals from the brain to muscles through motor neurons. These signals are transmitted at the neuromuscular junction, where the motor neuron meets the muscle fiber. This process allows muscles to contract and perform voluntary and involuntary movements.</p>
+      
+      <!-- Placeholder for an image showing the nervous system and muscles -->
+      <div class="image-placeholder">
+        <img src="path/to/your/image.jpg" alt="Nervous System and Muscles" />
+      </div>`
+      ,
       recap:
         "In this lesson, we have introduced the basics of the muscular system, from its structure and function to the different types of muscles and their roles in movement. We have also explored muscle health, common disorders, and how exercise plays a key role in maintaining muscle strength and function. Understanding the muscular system is vital for anyone studying human physiology, sports medicine, or physical therapy.",
       resources: [
