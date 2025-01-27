@@ -7,6 +7,17 @@ import basicAnatomy from "./images/anatomy/introduction/basicAnatomy.jpeg"
 import levelsOfOrg from "./images/anatomy/introduction/levelsoforg.jpeg"
 import systems from "./images/anatomy/introduction/systems.avif"
 import positions from "./images/anatomy/introduction/anatomical-terms.webp"
+import homeostasis from "./images/anatomy/introduction/homeostasis.jpg"
+import skeletalOverview from "./images/anatomy/skeletalSystem/skele.png"
+import skeletalComponents from "./images/anatomy/skeletalSystem/skeletalcomponents.webp"
+import axial from "./images/anatomy/skeletalSystem/axial.jpg"
+import skeleta from "./images/anatomy/skeletalSystem/skeleta.webp"
+import boneClassification from "./images/anatomy/skeletalSystem/boneclassification.jpeg"
+import jointTypes from "./images/anatomy/skeletalSystem/jointTypes.jpg"
+import intra from "./images/anatomy/skeletalSystem/intra.png"
+import disorder from "./images/anatomy/skeletalSystem/disorder.jpeg"
+import boneremodelling from "./images/anatomy/skeletalSystem/Bone-remodeling.webp"
+
 
 export const pageLinks = [
   { id: 1, path: "/", text: "Home" }, // Change href to path for React Router
@@ -202,7 +213,7 @@ export const anatomyTopics = {
   
       <!-- Placeholder for an image representing homeostasis -->
       <div class="image-placeholder">
-        <img src="path/to/your/image.jpg" alt="Homeostasis" />
+        <img src=${homeostasis} alt="Homeostasis" />
       </div>
     `,
       recap:
@@ -235,7 +246,7 @@ export const anatomyTopics = {
 
 <!-- Placeholder for an image of the skeletal system -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Skeletal System Overview" />
+  <img src=${skeletalOverview} alt="Skeletal System Overview" />
 </div>
 
 <h2>Lesson Content</h2>
@@ -245,7 +256,7 @@ export const anatomyTopics = {
 
 <!-- Placeholder for an image of the skeletal system components -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Skeletal System Components" />
+  <img src=${skeleta} alt="Skeletal System Components" />
 </div>
 
 <h3>2. Structure of the Skeletal System</h3>
@@ -257,7 +268,7 @@ export const anatomyTopics = {
 
 <!-- Placeholder for an image of the axial and appendicular skeleton -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Axial and Appendicular Skeleton" />
+  <img src=${axial} alt="Axial and Appendicular Skeleton" />
 </div>
 
 <h3>3. Functions of the Skeletal System</h3>
@@ -272,7 +283,7 @@ export const anatomyTopics = {
 
 <!-- Placeholder for an image of bone marrow and blood cell production -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Bone Marrow and Blood Cell Production" />
+  <img src=${skeletalComponents} alt="Bone Marrow and Blood Cell Production" />
 </div>
 
 <h3>4. Bone Classification</h3>
@@ -286,7 +297,7 @@ export const anatomyTopics = {
 
 <!-- Placeholder for an image showing different bone classifications -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Bone Classification" />
+  <img src=${boneClassification} alt="Bone Classification" />
 </div>
 
 <h3>5. Types of Joints in the Skeletal System</h3>
@@ -299,10 +310,10 @@ export const anatomyTopics = {
 
 <!-- Placeholder for an image showing different types of joints -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Types of Joints" />
+  <img src=${jointTypes} alt="Types of Joints" />
 </div>
 
-<h3>6. Bone Development and Growth</h3>
+<h3>6. Bone Development" and Growth</h3>
 <p>Bone growth and development occur through a process called ossification. There are two main types of ossification:</p>
 <ul>
   <li><strong>Endochondral Ossification:</strong> This process involves the formation of bone from a cartilage model and is the way most bones develop.</li>
@@ -312,7 +323,7 @@ export const anatomyTopics = {
 
 <!-- Placeholder for an image showing bone growth -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Bone Growth" />
+  <img src=${intra} alt="Bone Growth" />
 </div>
 
 <h3>7. Common Skeletal System Disorders</h3>
@@ -326,7 +337,7 @@ export const anatomyTopics = {
 
 <!-- Placeholder for an image showing skeletal system disorders -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Skeletal System Disorders" />
+  <img src=${disorder} alt="Skeletal System Disorders" />
 </div>
 
 <h3>8. Anatomical Terminology for the Skeletal System</h3>
@@ -342,7 +353,7 @@ export const anatomyTopics = {
 
 <!-- Placeholder for an image showing anatomical terminology -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Anatomical Terminology" />
+  <img src=${positions} alt="Anatomical Terminology" />
 </div>
 
 <h3>9. The Concept of Bone Remodeling</h3>
@@ -350,7 +361,7 @@ export const anatomyTopics = {
 
 <!-- Placeholder for an image showing bone remodeling -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Bone Remodeling" />
+  <img src=${boneremodelling} alt="Bone Remodeling" />
 </div>
 
 <h3>Recap</h3>
