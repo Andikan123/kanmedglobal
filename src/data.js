@@ -17,6 +17,9 @@ import jointTypes from "./images/anatomy/skeletalSystem/jointTypes.jpg"
 import intra from "./images/anatomy/skeletalSystem/intra.png"
 import disorder from "./images/anatomy/skeletalSystem/disorder.jpeg"
 import boneremodelling from "./images/anatomy/skeletalSystem/Bone-remodeling.webp"
+import muscularOverview from "./images/anatomy/muscularSystem/muscularOverview.jpg"
+import contraction from "./images/anatomy/muscularSystem/contraction.jpg"
+import muscletypes from "./images/anatomy/muscularSystem/muscletypes.png"
 
 
 export const pageLinks = [
@@ -404,7 +407,7 @@ export const anatomyTopics = {
       
       <!-- Placeholder for an image of the muscular system overview -->
       <div class="image-placeholder">
-        <img src="path/to/your/image.jpg" alt="Muscular System Overview" />
+        <img src=${muscularOverview} alt="Muscular System Overview" />
       </div>
       
       <h2>Lesson Content</h2>
@@ -414,7 +417,7 @@ export const anatomyTopics = {
       
       <!-- Placeholder for an image of muscle contractions -->
       <div class="image-placeholder">
-        <img src="path/to/your/image.jpg" alt="Muscle Contractions" />
+        <img src=${contraction} alt="Muscle Contractions" />
       </div>
       
       <h3>2. Types of Muscles</h3>
@@ -427,7 +430,7 @@ export const anatomyTopics = {
       
       <!-- Placeholder for an image showing the types of muscles -->
       <div class="image-placeholder">
-        <img src="path/to/your/image.jpg" alt="Types of Muscles" />
+        <img src=${muscletypes} alt="Types of Muscles" />
       </div>
       
       <h3>3. Muscle Function and Movement</h3>
