@@ -20,6 +20,7 @@ import boneremodelling from "./images/anatomy/skeletalSystem/Bone-remodeling.web
 import muscularOverview from "./images/anatomy/muscularSystem/muscularOverview.jpg"
 import contraction from "./images/anatomy/muscularSystem/contraction.jpg"
 import muscletypes from "./images/anatomy/muscularSystem/muscletypes.png"
+import eccentric from "./images/anatomy/muscularSystem/EccentricConcentric.jpg"
 
 
 export const pageLinks = [
@@ -443,7 +444,7 @@ export const anatomyTopics = {
       
       <!-- Placeholder for an image showing muscle contraction -->
       <div class="image-placeholder">
-        <img src="path/to/your/image.jpg" alt="Muscle Contraction" />
+        <img src=${eccentric} alt="Muscle Contraction" />
       </div>
       
       <h3>4. Muscle Structure</h3>
