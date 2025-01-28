@@ -35,6 +35,23 @@ import pathways from "./images/anatomy/Cardiovascular/pathways.png"
 import bloodMeasure from "./images/anatomy/Cardiovascular/measurement.avif"
 import heartDisease from "./images/anatomy/Cardiovascular/heartdisorder.webp"
 import lifestyle from "./images/anatomy/Cardiovascular/lifestyle.jpg"
+import respiratoryOverview from "./images/anatomy/respiratory/respiratoryoverview.png"
+import inhale from "./images/anatomy/respiratory/inhale.jpg"
+import gasexchange from "./images/anatomy/respiratory/gasexchange.png"
+import RegulationR from "./images/anatomy/respiratory/RgulationofRespiration.png"
+import respiratorydisease from "./images/anatomy/respiratory/respiratorydiseases.jpg"
+import digestiveOverview from "./images/anatomy/digestive/digestiveOverview.png"
+import digestiveProcess from "./images/anatomy/digestive/digestiveprocess.jpg"
+import digestiveOrgans from "./images/anatomy/digestive/digorgans.jpeg"
+import digestiveprocess from "./images/anatomy/digestive/digestiveprocess.jpeg"
+import bile from "./images/anatomy/digestive/bile.webp"
+import villi from "./images/anatomy/digestive/villi.webp"
+import digestivedisorders from "./images/anatomy/digestive/digestivedisorders.jpeg"
+import digestivehomeostasis from "./images/anatomy/digestive/digestivehomoestasis.png"
+
+
+
+
 
 
 
@@ -692,7 +709,9 @@ export const anatomyTopics = {
 
 <h3>1. What is the Respiratory System?</h3>
 <p>The respiratory system is a network of organs and tissues that work together to help you breathe. The primary function of the respiratory system is the exchange of gases, such as oxygen and carbon dioxide. Oxygen from the air is transferred into the blood, and carbon dioxide, a waste product, is expelled from the body. This process is vital for the maintenance of homeostasis.</p>
-
+<div class="image-placeholder">
+  <img src=${respiratoryOverview} alt="Heart and Blood Vessels" />
+</div>
 <h3>2. Structure of the Respiratory System</h3>
 <p>The respiratory system consists of the following parts:</p>
 <ul>
@@ -704,19 +723,27 @@ export const anatomyTopics = {
   <li><strong>Alveoli:</strong> The alveoli are tiny air sacs in the lungs where gas exchange occurs. Oxygen from the air diffuses into the blood, and carbon dioxide from the blood is transferred into the alveoli to be exhaled.</li>
 </ul>
 
+
 <h3>3. The Process of Breathing</h3>
 <p>Breathing is a mechanical process that involves two main phases:</p>
 <ul>
   <li><strong>Inhalation (Inspiration):</strong> During inhalation, the diaphragm contracts and moves downward, while the intercostal muscles expand the rib cage. This increases the volume of the thoracic cavity and decreases the pressure inside the lungs, causing air to flow into the lungs.</li>
   <li><strong>Exhalation (Expiration):</strong> During exhalation, the diaphragm relaxes and moves upward, while the rib cage contracts. This decreases the volume of the thoracic cavity and increases the pressure inside the lungs, causing air to be expelled.</li>
 </ul>
+<div class="image-placeholder">
+  <img src=${inhale} alt="Heart and Blood Vessels" />
+</div>
 
 <h3>4. Gas Exchange and Oxygen Transport</h3>
 <p>The primary function of the respiratory system is gas exchange. Oxygen is inhaled into the alveoli, where it diffuses into the capillaries and binds to hemoglobin in red blood cells. The blood transports oxygen to tissues throughout the body. At the same time, carbon dioxide, which is produced by the cells during metabolism, diffuses from the blood into the alveoli to be exhaled.</p>
-
+<div class="image-placeholder">
+  <img src=${gasexchange} alt="Heart and Blood Vessels" />
+</div>
 <h3>5. Regulation of Breathing</h3>
 <p>Breathing is regulated by the respiratory center in the brain, located in the medulla oblongata and pons. These centers monitor the levels of oxygen and carbon dioxide in the blood and adjust the rate and depth of breathing accordingly. When carbon dioxide levels rise, the body automatically increases the rate of breathing to expel excess CO2 and restore balance.</p>
-
+<div class="image-placeholder">
+  <img src=${RegulationR} alt="Heart and Blood Vessels" />
+</div>
 <h3>6. Disorders of the Respiratory System</h3>
 <p>Various conditions can affect the respiratory system, including:</p>
 <ul>
@@ -725,6 +752,9 @@ export const anatomyTopics = {
   <li><strong>Pneumonia:</strong> An infection of the lungs that causes inflammation and fluid accumulation in the alveoli, leading to difficulty in oxygen exchange.</li>
   <li><strong>Lung Cancer:</strong> A malignant tumor in the lungs that can impair the ability to breathe and may spread to other organs.</li>
 </ul>
+<div class="image-placeholder">
+  <img src=${respiratorydisease} alt="Heart and Blood Vessels" />
+</div>
 
 <h3>7. Anatomical Terminology for the Respiratory System</h3>
 <p>To understand the respiratory system's anatomy, it's helpful to know some anatomical terms:</p>
@@ -769,7 +799,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Digestive System Overview -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Digestive System Overview" />
+  <img src=${digestiveOverview} alt="Digestive System Overview" />
 </div>
 
 <h2>Lesson Content</h2>
@@ -779,7 +809,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Digestive Process -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Digestive Process" />
+  <img src=${digestiveProcess} alt="Digestive Process" />
 </div>
 
 <h3>2. Structure of the Digestive System</h3>
@@ -796,9 +826,7 @@ export const anatomyTopics = {
 </ul>
 
 <!-- Image Placeholder for Digestive Organs -->
-<div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Digestive System Organs" />
-</div>
+
 
 <h3>3. The Process of Digestion</h3>
 <p>Digestion is a multi-step process that involves both mechanical and chemical digestion:</p>
@@ -813,7 +841,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Digestion Process -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Digestion Process" />
+  <img src=${digestiveprocess} alt="Digestion Process" />
 </div>
 
 <h3>4. The Role of Enzymes and Bile in Digestion</h3>
@@ -827,7 +855,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Enzymes and Bile -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Enzymes and Bile" />
+  <img src=${bile} alt="Enzymes and Bile" />
 </div>
 
 <h3>5. Absorption of Nutrients</h3>
@@ -835,7 +863,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Nutrient Absorption -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Nutrient Absorption in Small Intestine" />
+  <img src=${villi} alt="Nutrient Absorption in Small Intestine" />
 </div>
 
 <h3>6. Disorders of the Digestive System</h3>
@@ -850,7 +878,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Digestive Disorders -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Digestive Disorders" />
+  <img src=${digestivedisorders} alt="Digestive Disorders" />
 </div>
 
 <h3>7. Anatomical Terminology for the Digestive System</h3>
@@ -869,7 +897,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Homeostasis -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Homeostasis in Digestive System" />
+  <img src=${digestivehomeostasis} alt="Homeostasis in Digestive System" />
 </div>
 `,
       recap:
