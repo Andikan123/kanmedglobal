@@ -48,6 +48,15 @@ import bile from "./images/anatomy/digestive/bile.webp"
 import villi from "./images/anatomy/digestive/villi.webp"
 import digestivedisorders from "./images/anatomy/digestive/digestivedisorders.jpeg"
 import digestivehomeostasis from "./images/anatomy/digestive/digestivehomoestasis.png"
+import nervousoverview from "./images/anatomy/nervous/nervousoverview.png"
+import brainspinal from "./images/anatomy/nervous/brainspinal.jpg"
+import cns from "./images/anatomy/nervous/cns.webp"
+import pns from "./images/anatomy/nervous/pns.jpg"
+import transmission from "./images/anatomy/nervous/transmission.jpeg"
+import reflex from "./images/anatomy/nervous/reflex.jpg"
+import nervousdisorders from "./images/anatomy/nervous/nervousdisorders.png"
+import nervousHomeo from "./images/anatomy/nervous/nervousHomeo.jpg"
+
 
 
 
@@ -929,9 +938,6 @@ export const anatomyTopics = {
 <p>The nervous system is responsible for transmitting signals throughout the body, controlling and coordinating body activities. It consists of the brain, spinal cord, and a network of nerves that extend throughout the body. The nervous system helps regulate functions such as movement, sensation, cognition, and homeostasis.</p>
 
 <!-- Image Placeholder for Nervous System Overview -->
-<div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Nervous System Overview" />
-</div>
 
 <h2>Lesson Content</h2>
 
@@ -940,7 +946,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Nervous System Structure -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Nervous System Structure" />
+  <img src=${nervousoverview} alt="Nervous System Structure" />
 </div>
 
 <h3>2. Components of the Nervous System</h3>
@@ -953,7 +959,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Brain and Spinal Cord -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Brain and Spinal Cord" />
+  <img src=${brainspinal} alt="Brain and Spinal Cord" />
 </div>
 
 <h3>3. The Central Nervous System (CNS)</h3>
@@ -970,7 +976,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Central Nervous System -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Central Nervous System" />
+  <img src=${cns} alt="Central Nervous System" />
 </div>
 
 <h3>4. The Peripheral Nervous System (PNS)</h3>
@@ -986,7 +992,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Peripheral Nervous System -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Peripheral Nervous System" />
+  <img src=${pns} alt="Peripheral Nervous System" />
 </div>
 
 <h3>5. Nerve Impulses and Communication</h3>
@@ -994,7 +1000,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Nerve Impulse -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Nerve Impulse Transmission" />
+  <img src=${transmission} alt="Nerve Impulse Transmission" />
 </div>
 
 <h3>6. Reflexes and the Nervous System</h3>
@@ -1002,7 +1008,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Reflexes -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Reflex Action" />
+  <img src=${reflex} alt="Reflex Action" />
 </div>
 
 <h3>7. Disorders of the Nervous System</h3>
@@ -1017,7 +1023,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Nervous System Disorders -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Nervous System Disorders" />
+  <img src=${nervousdisorders} alt="Nervous System Disorders" />
 </div>
 
 <h3>8. Anatomical Terminology for the Nervous System</h3>
@@ -1035,7 +1041,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Homeostasis in Nervous System -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Homeostasis and Nervous System" />
+  <img src=${nervousHomeo} alt="Homeostasis and Nervous System" />
 </div>`,
       recap:
         "In this lesson, we have explored the structure and function of the nervous system, including the central and peripheral nervous systems. We have learned how neurons transmit electrical impulses, the role of reflexes in maintaining body functions, and how the nervous system maintains homeostasis. Understanding the nervous system is essential for recognizing and treating neurological disorders.",
