@@ -56,6 +56,12 @@ import transmission from "./images/anatomy/nervous/transmission.jpeg"
 import reflex from "./images/anatomy/nervous/reflex.jpg"
 import nervousdisorders from "./images/anatomy/nervous/nervousdisorders.png"
 import nervousHomeo from "./images/anatomy/nervous/nervousHomeo.jpg"
+import endocrineoverview from "./images/anatomy/endocrine/endocrineoverview.jpg"
+import endocrinestructure from "./images/anatomy/endocrine/endocrinestructure.jpeg"
+import keyglands from "./images/anatomy/endocrine/keyglands.jpg"
+import feedback from "./images/anatomy/endocrine/feedback.png"
+import hormonesfunction from "./images/anatomy/endocrine/hormonesfunctions.jpeg"
+import endocrinedisorder from "./images/anatomy/endocrine/endocrinedisorder.jpeg"
 
 
 
@@ -1073,7 +1079,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Endocrine System Overview -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Endocrine System Overview" />
+  <img src=${endocrineoverview} alt="Endocrine System Overview" />
 </div>
 
 <h2>Lesson Content</h2>
@@ -1083,7 +1089,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Endocrine System Structure -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Endocrine System Structure" />
+  <img src=${endocrinestructure} alt="Endocrine System Structure" />
 </div>
 
 <h3>2. Key Glands of the Endocrine System</h3>
@@ -1101,7 +1107,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Key Endocrine Glands -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Key Endocrine Glands" />
+  <img src=${keyglands} alt="Key Endocrine Glands" />
 </div>
 
 <h3>3. Hormonal Regulation and Feedback Mechanisms</h3>
@@ -1113,7 +1119,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Feedback Mechanisms -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Hormonal Feedback Mechanism" />
+  <img src=${feedback} alt="Hormonal Feedback Mechanism" />
 </div>
 
 <h3>4. Major Hormones and Their Functions</h3>
@@ -1129,7 +1135,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Hormones and Functions -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Hormones and Their Functions" />
+  <img src=${hormonesfunction} alt="Hormones and Their Functions" />
 </div>
 
 <h3>5. Endocrine System Disorders</h3>
@@ -1144,16 +1150,14 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Endocrine System Disorders -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Endocrine System Disorders" />
+  <img src=${endocrinedisorder} alt="Endocrine System Disorders" />
 </div>
 
 <h3>6. The Concept of Homeostasis in the Endocrine System</h3>
 <p>The endocrine system is a key player in maintaining homeostasis by regulating processes such as metabolism, blood pressure, temperature, and growth. Through hormone secretion and feedback loops, the endocrine system helps maintain stability in the body's internal environment, allowing for optimal function.</p>
 
 <!-- Image Placeholder for Homeostasis and Endocrine System -->
-<div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Homeostasis and Endocrine System" />
-</div>`,
+`,
       recap:
         "In this lesson, we have explored the structure and function of the nervous system, including the central and peripheral nervous systems. We have learned how neurons transmit electrical impulses, the role of reflexes in maintaining body functions, and how the nervous system maintains homeostasis. Understanding the nervous system is essential for recognizing and treating neurological disorders.",
       resources: [
