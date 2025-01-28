@@ -27,6 +27,14 @@ import exerciseMuscle from "./images/anatomy/muscularSystem/exe.png"
 import muscleTerm from "./images/anatomy/muscularSystem/muscleterm.png"
 import muscleTone from "./images/anatomy/muscularSystem/muscletone.jpeg"
 import neuroMuscular from "./images/anatomy/muscularSystem/neuromuscular.jpg"
+import cardiovascularOverview from "./images/anatomy/Cardiovascular/cardiovascularoverview.jpg"
+import bloodVessels from "./images/anatomy/Cardiovascular/bloodvessels.webp"
+import heartAnatomy from "./images/anatomy/Cardiovascular/heartanatomy.jpg"
+import heartChambers from "./images/anatomy/Cardiovascular/heartchambers.jpg"
+import pathways from "./images/anatomy/Cardiovascular/pathways.png"
+import bloodMeasure from "./images/anatomy/Cardiovascular/measurement.avif"
+import heartDisease from "./images/anatomy/Cardiovascular/heartdisorder.webp"
+import lifestyle from "./images/anatomy/Cardiovascular/lifestyle.jpg"
 
 
 
@@ -545,9 +553,7 @@ export const anatomyTopics = {
 <p>The cardiovascular system, also known as the circulatory system, is a complex network that includes the heart, blood vessels, and blood. Its primary function is to transport oxygen, nutrients, hormones, and waste products to and from the cells of the body. The cardiovascular system is essential for maintaining homeostasis and enabling various physiological processes that sustain life.</p>
 
 <!-- Placeholder for an image of the cardiovascular system -->
-<div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Cardiovascular System Overview" />
-</div>
+
 
 <h2>Lesson Content</h2>
 
@@ -556,7 +562,7 @@ export const anatomyTopics = {
 
 <!-- Placeholder for an image of the heart and blood vessels -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Heart and Blood Vessels" />
+  <img src=${cardiovascularOverview} alt="Heart and Blood Vessels" />
 </div>
 
 <h3>2. Components of the Cardiovascular System</h3>
@@ -575,7 +581,7 @@ export const anatomyTopics = {
 
 <!-- Placeholder for an image showing blood flow through vessels -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Blood Flow through Blood Vessels" />
+  <img src=${bloodVessels} alt="Blood Flow through Blood Vessels" />
 </div>
 
 <h3>3. Function of the Cardiovascular System</h3>
@@ -590,7 +596,7 @@ export const anatomyTopics = {
 
 <!-- Placeholder for an image showing heart anatomy -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Heart Anatomy" />
+  <img src=${heartAnatomy} alt="Heart Anatomy" />
 </div>
 
 <h3>4. The Heart: Anatomy and Function</h3>
@@ -604,7 +610,7 @@ export const anatomyTopics = {
 
 <!-- Placeholder for an image of the heart chambers -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Heart Chambers" />
+  <img src=${heartChambers} alt="Heart Chambers" />
 </div>
 
 <h3>5. Blood Circulation: The Pathway of Blood</h3>
@@ -616,7 +622,7 @@ export const anatomyTopics = {
 
 <!-- Placeholder for an image showing blood circulation -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Blood Circulation Pathway" />
+  <img src=${pathways} alt="Blood Circulation Pathway" />
 </div>
 
 <h3>6. Blood Pressure</h3>
@@ -629,7 +635,7 @@ export const anatomyTopics = {
 
 <!-- Placeholder for an image showing blood pressure measurement -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Blood Pressure Measurement" />
+  <img src=${bloodMeasure} alt="Blood Pressure Measurement" />
 </div>
 
 <h3>7. Cardiovascular Disorders</h3>
@@ -644,7 +650,7 @@ export const anatomyTopics = {
 
 <!-- Placeholder for an image showing cardiovascular disorders -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Cardiovascular Disorders" />
+  <img src=${heartDisease} alt="Cardiovascular Disorders" />
 </div>
 
 <h3>8. The Importance of Cardiovascular Health</h3>
@@ -652,7 +658,7 @@ export const anatomyTopics = {
 
 <!-- Placeholder for an image showing healthy lifestyle for heart health -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Healthy Lifestyle for Heart Health" />
+  <img src=${lifestyle} alt="Healthy Lifestyle for Heart Health" />
 </div>`,
       recap:
         "In this lesson, we’ve covered the essential functions of the cardiovascular system, including the heart’s structure, blood circulation, and the role of blood vessels. We’ve also discussed cardiovascular health, the importance of maintaining a healthy lifestyle, and common disorders that affect the system. Understanding the cardiovascular system is essential for maintaining overall health and preventing cardiovascular diseases",
