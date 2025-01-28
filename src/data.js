@@ -21,6 +21,12 @@ import muscularOverview from "./images/anatomy/muscularSystem/muscularOverview.j
 import contraction from "./images/anatomy/muscularSystem/contraction.jpg"
 import muscletypes from "./images/anatomy/muscularSystem/muscletypes.png"
 import eccentric from "./images/anatomy/muscularSystem/EccentricConcentric.jpg"
+import muscleStructure from "./images/anatomy/muscularSystem/musclestructure.png"
+import muscleDisorder from "./images/anatomy/muscularSystem/muscledisorder.jpg"
+import exerciseMuscle from "./images/anatomy/muscularSystem/exe.png"
+import muscleTerm from "./images/anatomy/muscularSystem/muscleterm.png"
+import muscleTone from "./images/anatomy/muscularSystem/muscletone.jpeg"
+
 
 
 export const pageLinks = [
@@ -452,7 +458,7 @@ export const anatomyTopics = {
       
       <!-- Placeholder for an image showing muscle structure -->
       <div class="image-placeholder">
-        <img src="path/to/your/image.jpg" alt="Muscle Structure" />
+        <img src=${muscleStructure} alt="Muscle Structure" />
       </div>
       
       <h3>5. Muscular Disorders</h3>
@@ -466,7 +472,7 @@ export const anatomyTopics = {
       
       <!-- Placeholder for an image showing muscular disorders -->
       <div class="image-placeholder">
-        <img src="path/to/your/image.jpg" alt="Muscular Disorders" />
+        <img src=${muscleDisorder} alt="Muscular Disorders" />
       </div>
       
       <h3>6. The Role of Exercise in Muscle Health</h3>
@@ -474,7 +480,7 @@ export const anatomyTopics = {
       
       <!-- Placeholder for an image showing exercise and muscle health -->
       <div class="image-placeholder">
-        <img src="path/to/your/image.jpg" alt="Exercise and Muscle Health" />
+        <img src=${exerciseMuscle} alt="Exercise and Muscle Health" />
       </div>
       
       <h3>7. Anatomical Terminology in Muscular System</h3>
@@ -491,7 +497,7 @@ export const anatomyTopics = {
       
       <!-- Placeholder for an image showing anatomical muscle terminology -->
       <div class="image-placeholder">
-        <img src="path/to/your/image.jpg" alt="Anatomical Muscle Terminology" />
+        <img src=${muscleTerm} alt="Anatomical Muscle Terminology" />
       </div>
       
       <h3>8. The Concept of Muscle Tone</h3>
@@ -499,7 +505,7 @@ export const anatomyTopics = {
       
       <!-- Placeholder for an image showing muscle tone -->
       <div class="image-placeholder">
-        <img src="path/to/your/image.jpg" alt="Muscle Tone" />
+        <img src=${} alt="Muscle Tone" />
       </div>
       
       <h3>9. The Nervous System and Muscles</h3>
