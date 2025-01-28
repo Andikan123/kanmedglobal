@@ -505,7 +505,7 @@ export const anatomyTopics = {
       
       <!-- Placeholder for an image showing muscle tone -->
       <div class="image-placeholder">
-        <img src=${} alt="Muscle Tone" />
+        <img src=${muscleTone} alt="Muscle Tone" />
       </div>
       
       <h3>9. The Nervous System and Muscles</h3>
