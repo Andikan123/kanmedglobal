@@ -26,6 +26,7 @@ import muscleDisorder from "./images/anatomy/muscularSystem/muscledisorder.jpg"
 import exerciseMuscle from "./images/anatomy/muscularSystem/exe.png"
 import muscleTerm from "./images/anatomy/muscularSystem/muscleterm.png"
 import muscleTone from "./images/anatomy/muscularSystem/muscletone.jpeg"
+import neuroMuscular from "./images/anatomy/muscularSystem/neuromuscular.jpg"
 
 
 
@@ -513,7 +514,7 @@ export const anatomyTopics = {
       
       <!-- Placeholder for an image showing the nervous system and muscles -->
       <div class="image-placeholder">
-        <img src="path/to/your/image.jpg" alt="Nervous System and Muscles" />
+        <img src=${neuroMuscular} alt="Nervous System and Muscles" />
       </div>`
       ,
       recap:
