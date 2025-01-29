@@ -69,10 +69,16 @@ import skinfunction from "./images/anatomy/skin/skinfunction.jpeg"
 import skinappendages from "./images/anatomy/skin/skinappendages.jpeg"         
 import skindisorders from "./images/anatomy/skin/skindisorders.jpg"         
 import agingskin from "./images/anatomy/skin/agingskin.jpg"         
-
-
-
-
+import lymphoverview from "./images/anatomy/lymph/lymphoverview.jpg"         
+import lymphstructure from "./images/anatomy/lymph/lymphstructure.jpg"         
+import lymphvessels from "./images/anatomy/lymph/lypmphvessels.jpg"         
+import lymphfunctions from "./images/anatomy/lymph/lymphfunctions.jpg"         
+import lymphflow from "./images/anatomy/lymph/lymphflow.jpg"         
+import lymphdisorders from "./images/anatomy/lymph/lymphdisorders.avif"         
+import brainoverview from "./images/anatomy/brain/brainoverview.png"         
+import brainstructure from "./images/anatomy/brain/brainstructure.png"         
+import braindivision from "./images/anatomy/brain/braindivision.png"         
+import cranialnerves from "./images/anatomy/brain/cranialnerves.jpeg"         
 
 
 
@@ -1310,7 +1316,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Lymphatic System Overview -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Lymphatic System Overview" />
+  <img src=${lymphoverview} alt="Lymphatic System Overview" />
 </div>
 
 <h2>Lesson Content</h2>
@@ -1320,7 +1326,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Lymphatic System Structure -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Lymphatic System Structure" />
+  <img src=${lymphstructure} alt="Lymphatic System Structure" />
 </div>
 
 <h3>2. Key Components of the Lymphatic System</h3>
@@ -1336,7 +1342,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Lymph Nodes and Vessels -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Lymph Nodes and Vessels" />
+  <img src=${lymphvessels} alt="Lymph Nodes and Vessels" />
 </div>
 
 <h3>3. Functions of the Lymphatic System</h3>
@@ -1349,7 +1355,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Lymphatic System Functions -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Lymphatic System Functions" />
+  <img src=${lymphfunctions} alt="Lymphatic System Functions" />
 </div>
 
 <h3>4. The Lymphatic Circulation</h3>
@@ -1357,7 +1363,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Lymphatic Circulation -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Lymphatic Circulation" />
+  <img src=${lymphflow} alt="Lymphatic Circulation" />
 </div>
 
 <h3>5. Lymphatic System Disorders</h3>
@@ -1371,16 +1377,13 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Lymphatic Disorders -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Lymphatic Disorders" />
+  <img src=${lymphdisorders} alt="Lymphatic Disorders" />
 </div>
 
 <h3>6. Aging and the Lymphatic System</h3>
 <p>As we age, the lymphatic system may become less efficient, leading to an increased risk of infections and reduced fluid drainage. The thymus, which produces T-cells, shrinks with age, potentially weakening the immune response. Additionally, the efficiency of the lymphatic vessels in draining excess fluid may decrease, leading to conditions like lymphedema in older adults.</p>
 
-<!-- Image Placeholder for Aging and Lymphatic System -->
-<div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Aging and Lymphatic System" />
-</div>`,
+`,
       recap:
         "In this lesson, we explored the structure and functions of the lymphatic system, which plays a vital role in immune defense, fluid balance, and nutrient absorption. By understanding the lymphatic system’s components and its role in health, we gain insight into how the body defends itself against infections and maintains homeostasis.",
       resources: [
@@ -1413,7 +1416,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Brain Overview -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Brain Overview" />
+  <img src=${brainoverview} alt="Brain Overview" />
 </div>
 
 <h2>Lesson Content</h2>
@@ -1423,7 +1426,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Brain Structure -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Brain Structure" />
+  <img src=${brainstructure} alt="Brain Structure" />
 </div>
 
 <h3>2. Major Divisions of the Brain</h3>
@@ -1436,7 +1439,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Brain Divisions -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Brain Divisions" />
+  <img src=${braindivision} alt="Brain Divisions" />
 </div>
 
 <h3>3. Cranial Nerves: An Overview</h3>
@@ -1459,7 +1462,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Cranial Nerves -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Cranial Nerves" />
+  <img src=${cranialnerves} alt="Cranial Nerves" />
 </div>
 
 <h3>4. Functions of the Brain and Cranial Nerves</h3>
