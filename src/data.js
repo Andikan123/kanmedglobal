@@ -62,6 +62,13 @@ import keyglands from "./images/anatomy/endocrine/keyglands.jpg"
 import feedback from "./images/anatomy/endocrine/feedback.png"
 import hormonesfunction from "./images/anatomy/endocrine/hormonesfunctions.jpeg"
 import endocrinedisorder from "./images/anatomy/endocrine/endocrinedisorder.jpeg"
+import skinOverview from "./images/anatomy/skin/skin.svg"         
+import skinstructure from "./images/anatomy/skin/skinstructure.jpg"         
+import skinlayer from "./images/anatomy/skin/skinlayer.webp"         
+import skinfunction from "./images/anatomy/skin/skinfunction.jpeg"         
+import skinappendages from "./images/anatomy/skin/skinappendages.jpeg"         
+import skindisorders from "./images/anatomy/skin/skindisorders.jpg"         
+import agingskin from "./images/anatomy/skin/agingskin.jpg"         
 
 
 
@@ -1188,7 +1195,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Integumentary System Overview -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Integumentary System Overview" />
+  <img src=${skinOverview} alt="Integumentary System Overview" />
 </div>
 
 <h2>Lesson Content</h2>
@@ -1198,7 +1205,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Structure of the Integumentary System -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Structure of the Integumentary System" />
+  <img src=${skinstructure} alt="Structure of the Integumentary System" />
 </div>
 
 <h3>2. Structure of the Integumentary System</h3>
@@ -1212,7 +1219,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Layers of the Skin -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Layers of the Skin" />
+  <img src=${skinlayer} alt="Layers of the Skin" />
 </div>
 
 <h3>3. Functions of the Integumentary System</h3>
@@ -1228,7 +1235,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Functions of the Integumentary System -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Functions of the Integumentary System" />
+  <img src=${skinfunction} alt="Functions of the Integumentary System" />
 </div>
 
 <h3>4. Skin Appendages</h3>
@@ -1242,7 +1249,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Skin Appendages -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Skin Appendages" />
+  <img src=${skinappendages} alt="Skin Appendages" />
 </div>
 
 <h3>5. Common Integumentary System Disorders</h3>
@@ -1257,7 +1264,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Skin Disorders -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Skin Disorders" />
+  <img src=${skindisorders} alt="Skin Disorders" />
 </div>
 
 <h3>6. Aging and the Integumentary System</h3>
@@ -1271,7 +1278,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Aging Skin -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Aging Skin" />
+  <img src=${agingskin} alt="Aging Skin" />
 </div>`,
       recap:
         "In this lesson, we have explored the structure, functions, and components of the integumentary system. The skin, hair, nails, and associated glands work together to protect the body, regulate temperature, and maintain overall health. Understanding the integumentary system is essential for recognizing common disorders and the effects of aging on the skin.",
