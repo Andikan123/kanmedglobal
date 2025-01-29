@@ -94,6 +94,12 @@ import spinaldisorders from "./images/anatomy/spinalcord/spinaldisorders.jpeg"
 import musculoskeletal from "./images/anatomy/musculoskeletal/musculoskeletaloverview.png"         
 import msstructure from "./images/anatomy/musculoskeletal/msstructure.jpeg"         
 import msdisorders from "./images/anatomy/musculoskeletal/msdisorders.webp"         
+import abdomenoverview from "./images/anatomy/abdomen/abdomenoverview.jpeg"         
+import abdomenbound from "./images/anatomy/abdomen/abdomenbound.jpg"         
+import abdomenorgans from "./images/anatomy/abdomen/abdomenorgans.webp"         
+import peritonuem from "./images/anatomy/abdomen/peritoneum.jpeg"         
+import abdomenblood from "./images/anatomy/abdomen/abdomenblood.jpg"         
+import abdomendisorder from "./images/anatomy/abdomen/abdomendisorder.png"         
 
 
 
@@ -1907,7 +1913,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Abdominal Cavity Overview -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Overview of the Abdominal Cavity" />
+  <img src=${abdomenoverview} alt="Overview of the Abdominal Cavity" />
 </div>
 
 <h2>Lesson Content</h2>
@@ -1925,7 +1931,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Abdominal Cavity Boundaries -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Boundaries of the Abdominal Cavity" />
+  <img src=${abdomenbound} alt="Boundaries of the Abdominal Cavity" />
 </div>
 
 <h3>2. Major Organs in the Abdominal Cavity</h3>
@@ -1945,7 +1951,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Major Abdominal Organs -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Major Organs in the Abdominal Cavity" />
+  <img src=${abdomenorgans} alt="Major Organs in the Abdominal Cavity" />
 </div>
 
 <h3>3. Peritoneum and Abdominal Cavity Membranes</h3>
@@ -1962,7 +1968,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Peritoneum -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="The Peritoneum and Abdominal Membranes" />
+  <img src=${peritonuem} alt="The Peritoneum and Abdominal Membranes" />
 </div>
 
 <h3>4. Abdominal Blood Supply</h3>
@@ -1979,7 +1985,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Abdominal Blood Supply -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Abdominal Blood Supply" />
+  <img src=${abdomenblood} alt="Abdominal Blood Supply" />
 </div>
 
 <h3>5. Abdominal Cavity Disorders</h3>
@@ -1997,7 +2003,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Abdominal Disorders -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Abdominal Disorders" />
+  <img src=${abdomendisorder} alt="Abdominal Disorders" />
 </div>
 `,
       recap:
