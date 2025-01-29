@@ -100,6 +100,13 @@ import abdomenorgans from "./images/anatomy/abdomen/abdomenorgans.webp"
 import peritonuem from "./images/anatomy/abdomen/peritoneum.jpeg"         
 import abdomenblood from "./images/anatomy/abdomen/abdomenblood.jpg"         
 import abdomendisorder from "./images/anatomy/abdomen/abdomendisorder.png"         
+import pelvicoverview from "./images/anatomy/pelvic/pelvicoverview.jpg"         
+import pelvicbound from "./images/anatomy/pelvic/pelvicbound.webp"         
+import pelvicorgans from "./images/anatomy/pelvic/pelvisorgans.jpeg"         
+import pelvicfloor from "./images/anatomy/pelvic/pelvicfloor.jpg"         
+import pelvicblood from "./images/anatomy/pelvic/pelvicblood.jpeg"         
+import pelvicmuscles from "./images/anatomy/pelvic/pelvic muscles.jpeg"         
+import pelvicdisorders from "./images/anatomy/pelvic/pelvicdisorders.png"         
 
 
 
@@ -2034,7 +2041,7 @@ export const anatomyTopics = {
       content:`
 <!-- Image Placeholder for Pelvic Cavity Overview -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Overview of Pelvic Anatomy" />
+  <img src=${pelvicoverview} alt="Overview of Pelvic Anatomy" />
 </div>
 
 <h2>Lesson Content</h2>
@@ -2054,7 +2061,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Pelvic Boundaries -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Pelvic Cavity Boundaries" />
+  <img src=${pelvicbound} alt="Pelvic Cavity Boundaries" />
 </div>
 
 <h3>2. Major Organs in the Pelvic Cavity</h3>
@@ -2070,7 +2077,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Pelvic Organs -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Pelvic Organs" />
+  <img src=${pelvicorgans} alt="Pelvic Organs" />
 </div>
 
 <h3>3. Pelvic Floor Muscles</h3>
@@ -2087,7 +2094,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Pelvic Floor Muscles -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Pelvic Floor Muscles" />
+  <img src=${pelvicfloor} alt="Pelvic Floor Muscles" />
 </div>
 
 <h3>4. Pelvic Blood Supply</h3>
@@ -2103,7 +2110,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Pelvic Blood Supply -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Pelvic Blood Supply" />
+  <img src=${pelvicblood} alt="Pelvic Blood Supply" />
 </div>
 
 <h3>5. Pelvic Muscles and Ligaments</h3>
@@ -2118,7 +2125,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Pelvic Muscles and Ligaments -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Pelvic Muscles and Ligaments" />
+  <img src=${pelvicmuscles} alt="Pelvic Muscles and Ligaments" />
 </div>
 
 <h3>6. Pelvic Cavity Disorders</h3>
@@ -2136,7 +2143,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Pelvic Disorders -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Pelvic Disorders" />
+  <img src=${pelvicdisorders} alt="Pelvic Disorders" />
 </div>`,
 recap:
 "In this lesson, we have explored the anatomy of the pelvic cavity, including its boundaries, major organs, and supporting structures. Understanding pelvic anatomy is essential for diagnosing and treating conditions related to the urinary, reproductive, and digestive systems, as well as for maintaining pelvic health.</p>",
