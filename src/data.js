@@ -31,6 +31,10 @@ import cardiovascularOverview from "./images/anatomy/Cardiovascular/cardiovascul
 import bloodVessels from "./images/anatomy/Cardiovascular/bloodvessels.webp"
 import heartAnatomy from "./images/anatomy/Cardiovascular/heartanatomy.jpg"
 import heartChambers from "./images/anatomy/Cardiovascular/heartchambers.jpg"
+import heartvalve from "./images/anatomy/Cardiovascular/heartvalve.jpg"
+import coronary from "./images/anatomy/Cardiovascular/coronary.png"
+import heartelectricity from "./images/anatomy/Cardiovascular/heartelectricity.jpg"
+import cardiaccycle from "./images/anatomy/Cardiovascular/cardiaccycle.jpeg"
 import pathways from "./images/anatomy/Cardiovascular/pathways.png"
 import bloodMeasure from "./images/anatomy/Cardiovascular/measurement.avif"
 import heartDisease from "./images/anatomy/Cardiovascular/heartdisorder.webp"
@@ -87,6 +91,9 @@ import spinalregion from "./images/anatomy/spinalcord/spinalregions.jpg"
 import spinalnerves from "./images/anatomy/spinalcord/spinalnerves.jpeg"         
 import spinalinjury from "./images/anatomy/spinalcord/spinalinjury.jpeg"         
 import spinaldisorders from "./images/anatomy/spinalcord/spinaldisorders.jpeg"         
+import musculoskeletal from "./images/anatomy/musculoskeletal/musculoskeletaloverview.png"         
+import msstructure from "./images/anatomy/musculoskeletal/msstructure.jpeg"         
+import msdisorders from "./images/anatomy/musculoskeletal/msdisorders.webp"         
 
 
 
@@ -1645,7 +1652,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Musculoskeletal System Overview -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Musculoskeletal System Overview" />
+  <img src=${musculoskeletal} alt="Musculoskeletal System Overview" />
 </div>
 
 <h2>Lesson Content</h2>
@@ -1655,7 +1662,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Musculoskeletal System Structure -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Musculoskeletal System Structure" />
+  <img src=${msstructure} alt="Musculoskeletal System Structure" />
 </div>
 
 <h3>2. The Skeletal System</h3>
@@ -1676,7 +1683,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Skeletal System -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Skeletal System" />
+  <img src=${skeletalOverview} alt="Skeletal System" />
 </div>
 
 <h3>3. The Muscular System</h3>
@@ -1691,7 +1698,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Muscular System -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Muscular System" />
+  <img src=${muscularOverview} alt="Muscular System" />
 </div>
 
 <h3>4. Joints and Ligaments</h3>
@@ -1706,7 +1713,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Joints -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Joints and Ligaments" />
+  <img src=${jointTypes} alt="Joints and Ligaments" />
 </div>
 
 <h3>5. Functions of the Musculoskeletal System</h3>
@@ -1719,10 +1726,7 @@ export const anatomyTopics = {
   <li><strong>Blood Cell Production:</strong> The bone marrow, located in certain bones, produces blood cells (red blood cells, white blood cells, and platelets).</li>
 </ul>
 
-<!-- Image Placeholder for Musculoskeletal Functions -->
-<div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Musculoskeletal Functions" />
-</div>
+
 
 <h3>6. Musculoskeletal Disorders</h3>
 <p>Several disorders can affect the musculoskeletal system, leading to pain, decreased mobility, or other health issues. Some common musculoskeletal disorders include:</p>
@@ -1736,7 +1740,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Musculoskeletal Disorders -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Musculoskeletal Disorders" />
+  <img src=${msdisorders} alt="Musculoskeletal Disorders" />
 </div>
 `,
       recap:
@@ -1769,7 +1773,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Heart Overview -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Overview of the Heart Anatomy" />
+  <img src=${heartAnatomy} alt="Overview of the Heart Anatomy" />
 </div>
 
 <h2>Lesson Content</h2>
@@ -1793,7 +1797,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Heart Structure -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Heart Chambers and Layers" />
+  <img src=${heartChambers} alt="Heart Chambers and Layers" />
 </div>
 
 <h3>2. The Cardiac Valves</h3>
@@ -1809,7 +1813,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Heart Valves -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Cardiac Valves" />
+  <img src=${heartvalve} alt="Cardiac Valves" />
 </div>
 
 <h3>3. Blood Flow Through the Heart</h3>
@@ -1824,7 +1828,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Blood Flow -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Blood Flow Through the Heart" />
+  <img src=${cardiovascularOverview} alt="Blood Flow Through the Heart" />
 </div>
 
 <h3>4. The Electrical Conduction System</h3>
@@ -1841,7 +1845,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Electrical Conduction System -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Electrical Conduction System" />
+  <img src=${heartelectricity} alt="Electrical Conduction System" />
 </div>
 
 <h3>5. Coronary Circulation</h3>
@@ -1856,7 +1860,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Coronary Circulation -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Coronary Circulation" />
+  <img src=${coronary} alt="Coronary Circulation" />
 </div>
 
 <h3>6. Cardiac Cycle</h3>
@@ -1870,7 +1874,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Cardiac Cycle -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Cardiac Cycle" />
+  <img src=${cardiaccycle} alt="Cardiac Cycle" />
 </div>
 `,
       recap:
