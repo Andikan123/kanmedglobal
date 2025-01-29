@@ -79,6 +79,14 @@ import brainoverview from "./images/anatomy/brain/brainoverview.png"
 import brainstructure from "./images/anatomy/brain/brainstructure.png"         
 import braindivision from "./images/anatomy/brain/braindivision.png"         
 import cranialnerves from "./images/anatomy/brain/cranialnerves.jpeg"         
+import nervedisorders from "./images/anatomy/brain/nervedisorders.jpeg"         
+import agingbrain from "./images/anatomy/brain/agingbrain.jpeg"         
+import spinaloverview from "./images/anatomy/spinalcord/spinaloverview.jpg"         
+import spinalstructure from "./images/anatomy/spinalcord/spinalstructure.jpg"         
+import spinalregion from "./images/anatomy/spinalcord/spinalregions.jpg"         
+import spinalnerves from "./images/anatomy/spinalcord/spinalnerves.jpeg"         
+import spinalinjury from "./images/anatomy/spinalcord/spinalinjury.jpeg"         
+import spinaldisorders from "./images/anatomy/spinalcord/spinaldisorders.jpeg"         
 
 
 
@@ -1474,10 +1482,7 @@ export const anatomyTopics = {
   <li><strong>Cognitive Function:</strong> The cerebrum is involved in higher-order functions like thinking, memory, problem-solving, and language.</li>
 </ul>
 
-<!-- Image Placeholder for Brain and Cranial Nerve Functions -->
-<div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Brain and Cranial Nerve Functions" />
-</div>
+
 
 <h3>5. Disorders of the Brain and Cranial Nerves</h3>
 <p>Various conditions can affect the brain and cranial nerves, leading to impairments in sensation, movement, and cognitive functions. Some of these include:</p>
@@ -1491,7 +1496,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Brain and Cranial Nerve Disorders -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Brain and Cranial Nerve Disorders" />
+  <img src=${nervedisorders} alt="Brain and Cranial Nerve Disorders" />
 </div>
 
 <h3>6. Aging and the Brain</h3>
@@ -1499,7 +1504,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Aging Brain -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Aging Brain" />
+  <img src=${agingbrain} alt="Aging Brain" />
 </div>`,
       recap:
         "In this lesson, we discussed the structure and function of the brain and its connection with the cranial nerves. The brain is essential for controlling body functions, processing sensory information, and enabling cognitive abilities. The twelve cranial nerves play a crucial role in facilitating communication between the brain and the rest of the body, particularly in the head and neck region.",
@@ -1531,7 +1536,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Spinal Cord Overview -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Spinal Cord Overview" />
+  <img src=${spinaloverview} alt="Spinal Cord Overview" />
 </div>
 
 <h2>Lesson Content</h2>
@@ -1541,7 +1546,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Spinal Cord Structure -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Spinal Cord Structure" />
+  <img src=${spinalstructure} alt="Spinal Cord Structure" />
 </div>
 
 <h3>2. Structure of the Spinal Cord</h3>
@@ -1555,7 +1560,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Spinal Cord Regions -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Spinal Cord Regions" />
+  <img src=${spinalregion} alt="Spinal Cord Regions" />
 </div>
 
 <h3>3. Spinal Nerves</h3>
@@ -1570,7 +1575,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Spinal Nerves -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Spinal Nerves" />
+  <img src=${spinalnerves} alt="Spinal Nerves" />
 </div>
 
 <h3>4. Functions of the Spinal Cord and Spinal Nerves</h3>
@@ -1582,10 +1587,7 @@ export const anatomyTopics = {
   <li><strong>Autonomic Functions:</strong> The spinal cord plays a role in regulating autonomic functions such as heart rate, blood pressure, and digestive processes through the sympathetic and parasympathetic nervous systems.</li>
 </ul>
 
-<!-- Image Placeholder for Spinal Cord Functions -->
-<div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Spinal Cord Functions" />
-</div>
+
 
 <h3>5. Spinal Cord Injuries</h3>
 <p>Injuries to the spinal cord can result in partial or complete loss of function below the level of injury. These injuries can be classified into two main types:</p>
@@ -1597,7 +1599,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Spinal Cord Injury -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Spinal Cord Injury" />
+  <img src=${spinalinjury} alt="Spinal Cord Injury" />
 </div>
 
 <h3>6. Spinal Cord Disorders</h3>
@@ -1611,7 +1613,7 @@ export const anatomyTopics = {
 
 <!-- Image Placeholder for Spinal Cord Disorders -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Spinal Cord Disorders" />
+  <img src=${spinaldisorders} alt="Spinal Cord Disorders" />
 </div>`,
       recap:
         "In this lesson, we covered the structure and function of the spinal cord and spinal nerves. The spinal cord serves as a critical communication pathway between the brain and the rest of the body, transmitting sensory and motor signals. Spinal nerves emerge from the spinal cord, serving different regions of the body, and are responsible for motor control, sensation, and reflex actions. Spinal cord injuries and disorders can significantly impact function and quality of life, making it essential to understand spinal cord health and treatment options.",
