@@ -114,6 +114,17 @@ import diaphragm from "./images/anatomy/thoracic/diaphragm.jpg"
 import thoracicblood from "./images/anatomy/thoracic/thoracicblood.jpeg"         
 import thoracicnerve from "./images/anatomy/thoracic/thoracicnerve.webp"         
 import thoracicdisorders from "./images/anatomy/thoracic/thoracicdisorders.jpeg"         
+import urinaryoverview from "./images/anatomy/urinary/urinaryoverview.webp"         
+import kidneys from "./images/anatomy/urinary/kidneys.png"         
+import ureter from "./images/anatomy/urinary/ureter.jpg"         
+import bladder from "./images/anatomy/urinary/bladder.avif"         
+import urethra from "./images/anatomy/urinary/urethra.jpg"         
+import urinarydisorders from "./images/anatomy/urinary/urinarydisorders.png"         
+import reproductiveoverview from "./images/anatomy/reproductive/reproductiveoverview.jpg"         
+import malerep from "./images/anatomy/reproductive/malerep.jpeg"         
+import femalerep from "./images/anatomy/reproductive/femalerep.jpeg"         
+import repfunction from "./images/anatomy/reproductive/repfunction.png"         
+import repdisorders from "./images/anatomy/reproductive/repdisorders.webp"         
 
 
 
@@ -2320,7 +2331,7 @@ resources: [
 
 <!-- Image Placeholder for Urinary System Overview -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Overview of Urinary System" />
+  <img src=${urinaryoverview} alt="Overview of Urinary System" />
 </div>
 
 <h2>Lesson Content</h2>
@@ -2339,7 +2350,7 @@ resources: [
 
 <!-- Image Placeholder for Kidneys -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Kidneys" />
+  <img src=${kidneys} alt="Kidneys" />
 </div>
 
 <h3>2. Ureters: Transporting Urine</h3>
@@ -2352,7 +2363,7 @@ resources: [
 
 <!-- Image Placeholder for Ureters -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Ureters" />
+  <img src=${ureter} alt="Ureters" />
 </div>
 
 <h3>3. Bladder: The Urine Storage</h3>
@@ -2366,7 +2377,7 @@ resources: [
 
 <!-- Image Placeholder for Bladder -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Bladder" />
+  <img src=${bladder} alt="Bladder" />
 </div>
 
 <h3>4. Urethra: The Exit Path</h3>
@@ -2379,7 +2390,7 @@ resources: [
 
 <!-- Image Placeholder for Urethra -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Urethra" />
+  <img src=${urethra} alt="Urethra" />
 </div>
 
 <h3>5. Urinary System Disorders</h3>
@@ -2397,7 +2408,7 @@ resources: [
 
 <!-- Image Placeholder for Urinary Disorders -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Urinary Disorders" />
+  <img src=${urinarydisorders} alt="Urinary Disorders" />
 </div>`,
 recap:
 "In this lesson, we covered the structure and function of the urinary system, including the kidneys, ureters, bladder, and urethra. The urinary system is crucial for filtering waste from the blood, maintaining fluid balance, and regulating electrolytes and blood pressure. Disorders affecting the urinary system can lead to significant health problems, so it’s important to recognize the signs of dysfunction early.",
@@ -2431,7 +2442,7 @@ resources: [
 
 <!-- Image Placeholder for Overview of Reproductive System -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Overview of Reproductive System" />
+  <img src=${reproductiveoverview} alt="Overview of Reproductive System" />
 </div>
 
 <h2>Lesson Content</h2>
@@ -2453,7 +2464,7 @@ resources: [
 
 <!-- Image Placeholder for Male Reproductive System -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Male Reproductive System" />
+  <img src=${malerep} alt="Male Reproductive System" />
 </div>
 
 <h3>2. Female Reproductive System</h3>
@@ -2472,7 +2483,7 @@ resources: [
 
 <!-- Image Placeholder for Female Reproductive System -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Female Reproductive System" />
+  <img src=${femalerep} alt="Female Reproductive System" />
 </div>
 
 <h3>3. Reproductive System Functions</h3>
@@ -2489,7 +2500,7 @@ resources: [
 
 <!-- Image Placeholder for Reproductive Functions -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Reproductive Functions" />
+  <img src=${repfunction} alt="Reproductive Functions" />
 </div>
 
 <h3>4. Reproductive Health and Disorders</h3>
@@ -2508,7 +2519,7 @@ resources: [
 
 <!-- Image Placeholder for Reproductive Disorders -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Reproductive Disorders" />
+  <img src=${repdisorders} alt="Reproductive Disorders" />
 </div>`,
 recap:
 "In this lesson, we explored the male and female reproductive systems, their functions, and how they work together to facilitate reproduction. We also discussed common reproductive health issues and the importance of maintaining reproductive health.",
@@ -2543,7 +2554,7 @@ resources: [
 
 <!-- Image Placeholder for Endocrine System Overview -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Endocrine System Overview" />
+  <img src=${endocrineoverview} alt="Endocrine System Overview" />
 </div>
 
 <h2>Lesson Content</h2>
@@ -2565,7 +2576,7 @@ resources: [
 
 <!-- Image Placeholder for Major Endocrine Glands -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Major Endocrine Glands" />
+  <img src=${endocrinestructure} alt="Major Endocrine Glands" />
 </div>
 
 <h3>2. Functions of the Endocrine System</h3>
@@ -2580,10 +2591,7 @@ resources: [
   <li><strong>Fluid and Electrolyte Balance:</strong> Hormones such as aldosterone and antidiuretic hormone (ADH) help regulate water and electrolyte balance, maintaining hydration and blood pressure.</li>
 </ul>
 
-<!-- Image Placeholder for Endocrine Functions -->
-<div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Endocrine Functions" />
-</div>
+
 
 <h3>3. Hormonal Feedback Mechanisms</h3>
 <p>The endocrine system operates through complex feedback mechanisms that maintain hormonal balance in the body. These mechanisms include:</p>
@@ -2595,7 +2603,7 @@ resources: [
 
 <!-- Image Placeholder for Hormonal Feedback -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Hormonal Feedback" />
+  <img src=${pathways} alt="Hormonal Feedback" />
 </div>
 
 <h3>4. Disorders of the Endocrine System</h3>
@@ -2612,7 +2620,7 @@ resources: [
 
 <!-- Image Placeholder for Endocrine Disorders -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Endocrine Disorders" />
+  <img src=${endocrinedisorder} alt="Endocrine Disorders" />
 </div>
 `,
 recap:
