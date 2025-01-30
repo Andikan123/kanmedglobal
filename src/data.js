@@ -107,6 +107,13 @@ import pelvicfloor from "./images/anatomy/pelvic/pelvicfloor.jpg"
 import pelvicblood from "./images/anatomy/pelvic/pelvicblood.jpeg"         
 import pelvicmuscles from "./images/anatomy/pelvic/pelvic muscles.jpeg"         
 import pelvicdisorders from "./images/anatomy/pelvic/pelvicdisorders.png"         
+import thoracicoverview from "./images/anatomy/thoracic/thoracicoverview.webp"         
+import thoracicbound from "./images/anatomy/thoracic/thoracicbound.jpg"         
+import thoracicorgans from "./images/anatomy/thoracic/thoracicorgans.jpg"         
+import diaphragm from "./images/anatomy/thoracic/diaphragm.jpg"         
+import thoracicblood from "./images/anatomy/thoracic/thoracicblood.jpeg"         
+import thoracicnerve from "./images/anatomy/thoracic/thoracicnerve.webp"         
+import thoracicdisorders from "./images/anatomy/thoracic/thoracicdisorders.jpeg"         
 
 
 
@@ -2176,7 +2183,7 @@ resources: [
 
 <!-- Image Placeholder for Thoracic Cavity Overview -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Overview of Thoracic Anatomy" />
+  <img src=${thoracicoverview} alt="Overview of Thoracic Anatomy" />
 </div>
 
 <h2>Lesson Content</h2>
@@ -2196,7 +2203,7 @@ resources: [
 
 <!-- Image Placeholder for Thoracic Cavity Boundaries -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Thoracic Cavity Boundaries" />
+  <img src=${thoracicbound} alt="Thoracic Cavity Boundaries" />
 </div>
 
 <h3>2. Major Organs in the Thoracic Cavity</h3>
@@ -2214,7 +2221,7 @@ resources: [
 
 <!-- Image Placeholder for Thoracic Organs -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Thoracic Organs" />
+  <img src=${thoracicorgans} alt="Thoracic Organs" />
 </div>
 
 <h3>3. The Diaphragm: Key Muscle of Respiration</h3>
@@ -2229,7 +2236,7 @@ resources: [
 
 <!-- Image Placeholder for Diaphragm -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="The Diaphragm" />
+  <img src=${diaphragm} alt="The Diaphragm" />
 </div>
 
 <h3>4. Thoracic Blood Supply</h3>
@@ -2246,7 +2253,7 @@ resources: [
 
 <!-- Image Placeholder for Thoracic Blood Supply -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Thoracic Blood Supply" />
+  <img src=${thoracicblood} alt="Thoracic Blood Supply" />
 </div>
 
 <h3>5. Thoracic Nerves and Nervous Control</h3>
@@ -2262,7 +2269,7 @@ resources: [
 
 <!-- Image Placeholder for Thoracic Nervous System -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Thoracic Nervous System" />
+  <img src=${thoracicnerve} alt="Thoracic Nervous System" />
 </div>
 
 <h3>6. Thoracic Disorders</h3>
@@ -2280,7 +2287,7 @@ resources: [
 
 <!-- Image Placeholder for Thoracic Disorders -->
 <div class="image-placeholder">
-  <img src="path/to/your/image.jpg" alt="Thoracic Disorders" />
+  <img src=${thoracicdisorders} alt="Thoracic Disorders" />
 </div>`,
 recap:
 "In this lesson, we explored the thoracic cavity, focusing on its boundaries, vital organs, and the structures that support respiration, circulation, and digestion. Understanding thoracic anatomy is essential for diagnosing and treating a variety of conditions related to the heart, lungs, and other thoracic organs.",
