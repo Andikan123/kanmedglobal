@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 import "./Navbar.css"
-import logo from '../../images/logo.svg';
+import logo from '../../images/1.png';
 import { pageLinks, socialLinks } from '../../data';
 import PageLinks from '../PageLinks';
 import SocialLink from '../SocialLink';
