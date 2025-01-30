@@ -10,7 +10,7 @@ Navbar
     top: 0;
     left: 0;
     width: 100%;
-    background: red;
+    background: var(--clr-white);
     box-shadow: var(--dark-shadow);
     z-index: 2;
     height: 5rem;
